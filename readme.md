@@ -65,7 +65,7 @@ Note that this repository has nothing to do with Indie app santa, it's made by m
 | 25 | [Soor](https://apps.apple.com/app/id1439731526?ls=1) | [@Soor_app](https://twitter.com/soor_app) | `✴️` | [🇮🇳 Tanmay Sonawane](https://twitter.com/tanmays) |
 | 26 | `☁️ I haven't found any information` |  |  |  |
 | 27 | [RonRon: breathing & relaxation](https://apps.apple.com/app/ronron/id1588309394) | [@Ronron__app](https://twitter.com/ronron__app) | `❇️` | [🇫🇷 Pierre Boudoin](https://twitter.com/pboudoin) |
-| 28 | Navi - Subtitles & Translation |  | `❇️ [No more available](https://twitter.com/jordibruin/status/1554371644742942723?s=20&t=NIzP7rfrw3KBjWCGycl6GQ)` | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
+| 28 | Navi - Subtitles & Translation |  | ❇️ [No more available](https://twitter.com/jordibruin/status/1554371644742942723?s=20&t=NIzP7rfrw3KBjWCGycl6GQ) | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
 | 29 | [Meddify: Medication Management](https://apps.apple.com/it/app/meddify-medication-management/id1562891453?l=en) | [@]() | `❇️` | [🇺🇦 Oleksandr Bandyliuk](https://twitter.com/Bandyliuk) |
 | 30 | [Hacker News - Latest in Tech](https://apps.apple.com/it/app/hacker-news-latest-in-tech/id1573004386?l=en) | Not Found | `❇️` | [🇺🇸 Eric Lewis](https://twitter.com/ericlewis) |
 | 31 | `☁️ I haven't found any information` |  |  |  |
