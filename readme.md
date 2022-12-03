@@ -5,7 +5,7 @@
 
 You can follow the official [**Twitter**](https://twitter.com/indieappsanta?s=21&t=DzSq8UMHflR67STo62OBoA) account for updates or download the official [**app**](https://apps.apple.com/it/app/indie-app-santa/id1594011307?l=en) or... visit the official [**site**](https://www.indieappsanta.com/)! <br />
 You can even set up a **widget** via [**Scriptable**](https://apps.apple.com/it/app/scriptable/id1405459188?l=en) app! Here's the [code](https://gist.github.com/frboulais/2a11ac628faacf2532d037314324e1a4). 
-###### (see the preview [here]()) <br />
+###### (see the preview [https://github.com/plumkewe/indie-app-santa/blob/97b735b33992ce1b2d7a5bcb010ae9f7da920e01/Other/Images/widgets.PNG]()) <br />
 <!---Add the link here--->
 Note that this repository has nothing to do with Indie app santa, it's made by me just for fun and for archive. <br />
 
@@ -33,24 +33,24 @@ There's an **AppRaven** [collection](https://appraven.net/openLink.php?listId=63
 
 | **Day** | **App** | **Twitter** | **Free?**| **Dev** | **Available on** | **AppHookup** |
 |:--: | :-- | :-- | :-- | :-- | :--: | :-- |
-| 1 | [![Posture Pal](image1.png "Posture pal") Posture Pal](https://apps.apple.com/it/app/posture-pal-perfect-reminder/id1590316152?l=en) | [@PosturePalApp](https://twitter.com/posturepalapp?s=21&t=DzSq8UMHflR67STo62OBoA)  | `❇️` | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` | [`💬` Thank's for pos...'](https://reddit.com/r/AppHookup/comments/z97ejq/ios_posture_pal_pro_1199_free_app_that_helps_your/) |
-| 2 | [![Padlok](image1.png "Padlok") Padlok](https://apple.co/3ORkSrb) | [@PadlocApp](https://twitter.com/padlokapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `❇️` | [🇫🇷 Thomas Durandx](https://twitter.com/deanatoire?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `⌚️` | [`💬` Just need to bu...](https://reddit.com/r/AppHookup/comments/za75wk/ios_pad_lock_lifetime_1499_free_app_that_stores/) |
-| 3 | [![Tasks](image1.png "Tasks")Tasks](https://apple.co/3B2u6eM) | [@Thetaskapp](https://twitter.com/thetaskapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `✴️ 66% off the lifetime price` | [🇮🇳 Mustafa Yusuf](https://twitter.com/mufasayc?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `💻 ` `iPad` | [`💬` I'm not payi...'](https://reddit.com/r/AppHookup/comments/zb5f3a/iosmacos_tasks_to_do_lists_planner_lifetime_iap/) |
+| 1 | [![Posture Pal](https://github.com/plumkewe/indie-app-santa/blob/97b735b33992ce1b2d7a5bcb010ae9f7da920e01/Other/Images/app%20incons%2050px/Posture%20Pal.PNG "Posture pal") Posture Pal](https://apps.apple.com/it/app/posture-pal-perfect-reminder/id1590316152?l=en) | [@PosturePalApp](https://twitter.com/posturepalapp?s=21&t=DzSq8UMHflR67STo62OBoA)  | `❇️` | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` | [`💬` Thank's for pos...'](https://reddit.com/r/AppHookup/comments/z97ejq/ios_posture_pal_pro_1199_free_app_that_helps_your/) |
+| 2 | [![Padlok](https://github.com/plumkewe/indie-app-santa/blob/97b735b33992ce1b2d7a5bcb010ae9f7da920e01/Other/Images/app%20incons%2050px/Padlok.PNG "Padlok") Padlok](https://apple.co/3ORkSrb) | [@PadlocApp](https://twitter.com/padlokapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `❇️` | [🇫🇷 Thomas Durandx](https://twitter.com/deanatoire?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `⌚️` | [`💬` Just need to bu...](https://reddit.com/r/AppHookup/comments/za75wk/ios_pad_lock_lifetime_1499_free_app_that_stores/) |
+| 3 | [![Tasks](https://github.com/plumkewe/indie-app-santa/blob/97b735b33992ce1b2d7a5bcb010ae9f7da920e01/Other/Images/app%20incons%2050px/Tasks.PNG "Tasks")Tasks](https://apple.co/3B2u6eM) | [@Thetaskapp](https://twitter.com/thetaskapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `✴️ 66% off the lifetime price` | [🇮🇳 Mustafa Yusuf](https://twitter.com/mufasayc?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `💻 ` `iPad` | [`💬` I'm not payi...'](https://reddit.com/r/AppHookup/comments/zb5f3a/iosmacos_tasks_to_do_lists_planner_lifetime_iap/) |
 
 <br />
 <br />
 
 ## **2021**
 
-### My top: 
+### My top:  <br />
 
-[<img alt="Blackbox" width="103px" lenght="222px" src="https://github.com/plumkewe/indie-app-santa/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/l1.png" />](https://apps.apple.com/it/app/blackbox-brain-puzzles/id962969578?l=en) [<img alt="Crouton" width="103px" lenght="222px"  src="https://github.com/plumkewe/indie-app-santa/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/c2.png" />](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) [<img alt="Structured" width="103px" lenght="222px"  src="https://github.com/plumkewe/indie-app-santa/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/r3.png" />](https://apps.apple.com/it/app/structured-daily-planner/id1499198946?l=en)
+[![Blackbox](https://github.com/plumkewe/indie-app-santa/blob/099ba1f2aaf5a06c17e734f7c1080b18fc3ada8f/Other/Images/l1.svg)](https://apps.apple.com/it/app/blackbox-brain-puzzles/id962969578?l=en) [![Crouton](https://github.com/plumkewe/indie-app-santa/blob/099ba1f2aaf5a06c17e734f7c1080b18fc3ada8f/Other/Images/c2.svg)](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) [![Structured](https://github.com/plumkewe/indie-app-santa/blob/099ba1f2aaf5a06c17e734f7c1080b18fc3ada8f/Other/Images/r3.svg)](https://apps.apple.com/it/app/structured-daily-planner/id1499198946?l=en)
+
+<br />
 
 
 ###### You can click on them :) If you want to "grab" icons from App Store i made this simple shortcut: [Icons](https://www.icloud.com/shortcuts/6604f67a715e4db39cf2b7766b16ddf1)
 
-<br />
-<br />
 
 `❇️ Free` `✴️ Discount` `💟 Awesome` <br />
 
@@ -78,7 +78,7 @@ There's an **AppRaven** [collection](https://appraven.net/openLink.php?listId=63
 | 19 | [un:safe](https://apps.apple.com/it/app/un-safe-pop-the-lock/id1582291621?l=en) | [@Unsafeapp](https://twitter.com/unsafeapp) | `❇️` | [🇳🇴 Emin](https://twitter.com/emin_ui) |
 | 20 | [FitnessView](https://apps.apple.com/it/app/fitnessview-activity-tracker/id1531983371?l=en) | Not Found | `❇️` | [🇺🇸 Kriss Smolka](https://twitter.com/ksmolka) |
 | 21 | [Time’s Up! — Visual Timer](https://apps.apple.com/us/app/times-up-timer/id1550456653) | [@TimesUpApp](https://twitter.com/TimesUpApp) | `❇️` | [Adam Overholtzer](https://twitter.com/aoverholtzer) |
-| 22 | [Luxilux Light Meter](https://apps.apple.com/it/app/luxilux-light-meter/id1487384157?l=en) | [@LuxiluxApp](https://twitter.com/LuxiluxApp) | `❇️` | [🇩🇪 Christian Lobach](https://twitter.com/DerLobi) |
+| 22 | [Luxilux Light Meter](https://apps.apple.com/it/app/luxilux-light-meter/id1487384157?l=en) | [@LuxiluxApp](https://twitter.com/LuxiluxApp) | `❇️` | [🇩  Christian Lobach](https://twitter.com/DerLobi) |
 | 23 | [Pile: Bookmarks & Mood Boards](https://apps.apple.com/it/app/bookmarks-mood-boards-pile/id1549454338) | [@Pile_app](https://twitter.com/pile_app) | `❇️` | [🇮🇪 Aram Miquel](https://twitter.com/aram_miquel) |
 | 24 | `☁️ I haven't found any information` |  |  |  |
 
@@ -89,7 +89,7 @@ There's an **AppRaven** [collection](https://appraven.net/openLink.php?listId=63
 <br />
 
 | **Day** | **App** | **Twitter** | **Free?**| **Dev**|
-|:--: | :-- | :-- | :--: | :-- |
+|:--: | :-- | :-- | :--: |  :-- |
 | 25 | [Soor](https://apps.apple.com/app/id1439731526?ls=1) | [@Soor_app](https://twitter.com/soor_app) | `✴️` `💟` | [🇮🇳 Tanmay Sonawane](https://twitter.com/tanmays) |
 | 26 | `☁️ I haven't found any information` |  |  |  |
 | 27 | [RonRon: breathing & relaxation](https://apps.apple.com/app/ronron/id1588309394) | [@Ronron__app](https://twitter.com/ronron__app) | `❇️` | [🇫🇷 Pierre Boudoin](https://twitter.com/pboudoin) |
