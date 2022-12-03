@@ -3,8 +3,8 @@
 ### What is it? <br />
 > Indie app santa is like an **advent calendar** but for apps made by **indie** iOS developers, from December **1st to 31st** they share their apps mostly for **free** but sometimes it can be a *discount* for in app purchase. <br />
 
-You can follow the official [**Twitter**](https://twitter.com/indieappsanta?s=21&t=DzSq8UMHflR67STo62OBoA) account for updates or download the official [**app**](https://apps.apple.com/it/app/indie-app-santa/id1594011307?l=en) or... visit the official [site](https://www.indieappsanta.com/)! <br />
-You can even set up a **widget** via [Scriptable](https://apps.apple.com/it/app/scriptable/id1405459188?l=en) app! Here's the [code](https://gist.github.com/frboulais/2a11ac628faacf2532d037314324e1a4). <br />
+You can follow the official [**Twitter**](https://twitter.com/indieappsanta?s=21&t=DzSq8UMHflR67STo62OBoA) account for updates or download the official [**app**](https://apps.apple.com/it/app/indie-app-santa/id1594011307?l=en) or... visit the official [**site***](https://www.indieappsanta.com/)! <br />
+You can even set up a **widget** via [**Scriptable***](https://apps.apple.com/it/app/scriptable/id1405459188?l=en) app! Here's the [code](https://gist.github.com/frboulais/2a11ac628faacf2532d037314324e1a4). <br />
 
 Note that this repository has nothing to do with Indie app santa, it's made by me just for fun and for archive. <br />
 
@@ -15,13 +15,16 @@ Note that this repository has nothing to do with Indie app santa, it's made by m
 
 ## 2022
 
+There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50e7edd2374f34b5460d)
+####### I didn't do it!
+
 `❇️ Free` `✴️ Discount` <br />
 
-| **Day** | **App** | **Twitter** | **Free?**| **Dev** | **Available on** |
-|:--: | :-- | :-- | :-- | :-- | :--: |
-| 1 | [Posture Pal](https://apps.apple.com/it/app/posture-pal-perfect-reminder/id1590316152?l=en) | [@PosturePalApp](https://twitter.com/posturepalapp?s=21&t=DzSq8UMHflR67STo62OBoA)  | `❇️` | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` |
-| 2 | [Padlok](https://apple.co/3ORkSrb) | [@PadlocApp](https://twitter.com/padlokapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `❇️` | [🇫🇷 Thomas Durandx](https://twitter.com/deanatoire?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `⌚️` |
-| 3 | [Tasks](https://apple.co/3B2u6eM) | [@Thetaskapp](https://twitter.com/thetaskapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `✴️ 66% off the lifetime price` | [🇮🇳 Mustafa Yusuf](https://twitter.com/mufasayc?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `💻 ` `iPad` |
+| **Day** | **App** | **Twitter** | **Free?**| **Dev** | **Available on** | **AppHookup** |
+|:--: | :-- | :-- | :-- | :-- | :--: | :-- |
+| 1 | [Posture Pal](https://apps.apple.com/it/app/posture-pal-perfect-reminder/id1590316152?l=en) | [@PosturePalApp](https://twitter.com/posturepalapp?s=21&t=DzSq8UMHflR67STo62OBoA)  | `❇️` | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` | [Thank's for pos...'](https://reddit.com/r/AppHookup/comments/z97ejq/ios_posture_pal_pro_1199_free_app_that_helps_your/) |
+| 2 | [Padlok](https://apple.co/3ORkSrb) | [@PadlocApp](https://twitter.com/padlokapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `❇️` | [🇫🇷 Thomas Durandx](https://twitter.com/deanatoire?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `⌚️` | [>Just need to bu...](https://reddit.com/r/AppHookup/comments/za75wk/ios_pad_lock_lifetime_1499_free_app_that_stores/) |
+| 3 | [Tasks](https://apple.co/3B2u6eM) | [@Thetaskapp](https://twitter.com/thetaskapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `✴️ 66% off the lifetime price` | [🇮🇳 Mustafa Yusuf](https://twitter.com/mufasayc?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `💻 ` `iPad` | [>i'm not payi...'](https://reddit.com/r/AppHookup/comments/zb5f3a/iosmacos_tasks_to_do_lists_planner_lifetime_iap/) |
 
 <br />
 <br />
