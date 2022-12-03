@@ -17,11 +17,11 @@ Note that this repository has nothing to do with Indie app santa, it's made by m
 
 `❇️ Free` `✴️ Discount` <br />
 
-| **Day** | **App** | **Twitter** | **Free?**| **Dev**|
-|:--: | :-- | :-- | :-- | :-- |
-| 1 | [Posture Pal](https://apps.apple.com/it/app/posture-pal-perfect-reminder/id1590316152?l=en) | [@PosturePalApp](https://twitter.com/posturepalapp?s=21&t=DzSq8UMHflR67STo62OBoA)  | `❇️` | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
-| 2 | [Padlok](https://apple.co/3ORkSrb) | [@PadlocApp](https://twitter.com/padlokapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `❇️` | [🇫🇷 Thomas Durandx](https://twitter.com/deanatoire?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
-| 3 | [Tasks](https://apple.co/3B2u6eM) | [@Thetaskapp](https://twitter.com/thetaskapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `✴️ 66% off the lifetime price` | [🇮🇳 Mustafa Yusuf](https://twitter.com/mufasayc?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
+| **Day** | **App** | **Twitter** | **Free?**| **Dev** | **Available on** |
+|:--: | :-- | :-- | :-- | :-- | :--: |
+| 1 | [Posture Pal](https://apps.apple.com/it/app/posture-pal-perfect-reminder/id1590316152?l=en) | [@PosturePalApp](https://twitter.com/posturepalapp?s=21&t=DzSq8UMHflR67STo62OBoA)  | `❇️` | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` |
+| 2 | [Padlok](https://apple.co/3ORkSrb) | [@PadlocApp](https://twitter.com/padlokapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `❇️` | [🇫🇷 Thomas Durandx](https://twitter.com/deanatoire?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `⌚️` |
+| 3 | [Tasks](https://apple.co/3B2u6eM) | [@Thetaskapp](https://twitter.com/thetaskapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `✴️ 66% off the lifetime price` | [🇮🇳 Mustafa Yusuf](https://twitter.com/mufasayc?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `💻 ` `iPad` |
 
 <br />
 <br />
@@ -32,7 +32,7 @@ Note that this repository has nothing to do with Indie app santa, it's made by m
 
 
 | **Day** | **App** | **Twitter** | **Free?**| **Dev**|
-|:--: | :-- | :-- | :-- | :-- |
+|:--: | :-- | :-- | :--: | :-- |
 | 1 | [BlackBox](https://apps.apple.com/it/app/blackbox-brain-puzzles/id962969578?l=en) | [@BlackboxPuzzle](https://twitter.com/blackboxpuzzles) | `❇️` `💟` | [🇳🇱 Ryan McLeod](https://twitter.com/warpling?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
 | 2 | [Structured](https://apps.apple.com/it/app/structured-daily-planner/id1499198946?l=en) | [@Structured_app](https://twitter.com/structured_app) | `❇️` `💟` | [Leo Mehlig](https://twitter.com/leomehlig?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
 | 3 | [McClockFace](https://apps.apple.com/it/app/mcclockface/id1544343485?l=en) | Not Found | `❇️` | [🇬🇧 David Steppenbeck](https://twitter.com/dsteppenbeck) |
@@ -65,7 +65,7 @@ Note that this repository has nothing to do with Indie app santa, it's made by m
 <br />
 
 | **Day** | **App** | **Twitter** | **Free?**| **Dev**|
-|:--: | :-- | :-- | :-- | :-- |
+|:--: | :-- | :-- | :--: | :-- |
 | 25 | [Soor](https://apps.apple.com/app/id1439731526?ls=1) | [@Soor_app](https://twitter.com/soor_app) | `✴️` `💟` | [🇮🇳 Tanmay Sonawane](https://twitter.com/tanmays) |
 | 26 | `☁️ I haven't found any information` |  |  |  |
 | 27 | [RonRon: breathing & relaxation](https://apps.apple.com/app/ronron/id1588309394) | [@Ronron__app](https://twitter.com/ronron__app) | `❇️` | [🇫🇷 Pierre Boudoin](https://twitter.com/pboudoin) |
