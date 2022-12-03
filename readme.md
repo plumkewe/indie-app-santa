@@ -33,9 +33,9 @@ There's an **AppRaven** [collection](https://appraven.net/openLink.php?listId=63
 
 | **Day** | **App** | **Twitter** | **Free?**| **Dev** | **Available on** | **AppHookup** |
 |:--: | :-- | :-- | :-- | :-- | :--: | :-- |
-| 1 | [![Posture Pal](https://github.com/plumkewe/indie-app-santa/blob/97b735b33992ce1b2d7a5bcb010ae9f7da920e01/Other/Images/app%20incons%2050px/Posture%20Pal.PNG "Posture pal") Posture Pal](https://apps.apple.com/it/app/posture-pal-perfect-reminder/id1590316152?l=en) | [@PosturePalApp](https://twitter.com/posturepalapp?s=21&t=DzSq8UMHflR67STo62OBoA)  | `❇️` | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` | [`💬` Thank's for pos...'](https://reddit.com/r/AppHookup/comments/z97ejq/ios_posture_pal_pro_1199_free_app_that_helps_your/) |
-| 2 | [![Padlok](https://github.com/plumkewe/indie-app-santa/blob/97b735b33992ce1b2d7a5bcb010ae9f7da920e01/Other/Images/app%20incons%2050px/Padlok.PNG "Padlok") Padlok](https://apple.co/3ORkSrb) | [@PadlocApp](https://twitter.com/padlokapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `❇️` | [🇫🇷 Thomas Durandx](https://twitter.com/deanatoire?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `⌚️` | [`💬` Just need to bu...](https://reddit.com/r/AppHookup/comments/za75wk/ios_pad_lock_lifetime_1499_free_app_that_stores/) |
-| 3 | [![Tasks](https://github.com/plumkewe/indie-app-santa/blob/97b735b33992ce1b2d7a5bcb010ae9f7da920e01/Other/Images/app%20incons%2050px/Tasks.PNG "Tasks")Tasks](https://apple.co/3B2u6eM) | [@Thetaskapp](https://twitter.com/thetaskapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `✴️ 66% off the lifetime price` | [🇮🇳 Mustafa Yusuf](https://twitter.com/mufasayc?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `💻 ` `iPad` | [`💬` I'm not payi...'](https://reddit.com/r/AppHookup/comments/zb5f3a/iosmacos_tasks_to_do_lists_planner_lifetime_iap/) |
+| 1 | [![Posture Pal](image1.png "Posture pal") Posture Pal](https://apps.apple.com/it/app/posture-pal-perfect-reminder/id1590316152?l=en) | [@PosturePalApp](https://twitter.com/posturepalapp?s=21&t=DzSq8UMHflR67STo62OBoA)  | `❇️` | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` | [`💬` Thank's for pos...'](https://reddit.com/r/AppHookup/comments/z97ejq/ios_posture_pal_pro_1199_free_app_that_helps_your/) |
+| 2 | [![Padlok](image1.png "Padlok") Padlok](https://apple.co/3ORkSrb) | [@PadlocApp](https://twitter.com/padlokapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `❇️` | [🇫🇷 Thomas Durandx](https://twitter.com/deanatoire?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `⌚️` | [`💬` Just need to bu...](https://reddit.com/r/AppHookup/comments/za75wk/ios_pad_lock_lifetime_1499_free_app_that_stores/) |
+| 3 | [![Tasks](image1.png "Tasks")Tasks](https://apple.co/3B2u6eM) | [@Thetaskapp](https://twitter.com/thetaskapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `✴️ 66% off the lifetime price` | [🇮🇳 Mustafa Yusuf](https://twitter.com/mufasayc?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `💻 ` `iPad` | [`💬` I'm not payi...'](https://reddit.com/r/AppHookup/comments/zb5f3a/iosmacos_tasks_to_do_lists_planner_lifetime_iap/) |
 
 <br />
 <br />
@@ -78,7 +78,7 @@ There's an **AppRaven** [collection](https://appraven.net/openLink.php?listId=63
 | 19 | [un:safe](https://apps.apple.com/it/app/un-safe-pop-the-lock/id1582291621?l=en) | [@Unsafeapp](https://twitter.com/unsafeapp) | `❇️` | [🇳🇴 Emin](https://twitter.com/emin_ui) |
 | 20 | [FitnessView](https://apps.apple.com/it/app/fitnessview-activity-tracker/id1531983371?l=en) | Not Found | `❇️` | [🇺🇸 Kriss Smolka](https://twitter.com/ksmolka) |
 | 21 | [Time’s Up! — Visual Timer](https://apps.apple.com/us/app/times-up-timer/id1550456653) | [@TimesUpApp](https://twitter.com/TimesUpApp) | `❇️` | [Adam Overholtzer](https://twitter.com/aoverholtzer) |
-| 22 | [Luxilux Light Meter](https://apps.apple.com/it/app/luxilux-light-meter/id1487384157?l=en) | [@LuxiluxApp](https://twitter.com/LuxiluxApp) | `❇️` | [🇩  Christian Lobach](https://twitter.com/DerLobi) |
+| 22 | [Luxilux Light Meter](https://apps.apple.com/it/app/luxilux-light-meter/id1487384157?l=en) | [@LuxiluxApp](https://twitter.com/LuxiluxApp) | `❇️` | [🇩🇪 Christian Lobach](https://twitter.com/DerLobi) |
 | 23 | [Pile: Bookmarks & Mood Boards](https://apps.apple.com/it/app/bookmarks-mood-boards-pile/id1549454338) | [@Pile_app](https://twitter.com/pile_app) | `❇️` | [🇮🇪 Aram Miquel](https://twitter.com/aram_miquel) |
 | 24 | `☁️ I haven't found any information` |  |  |  |
 
@@ -89,7 +89,7 @@ There's an **AppRaven** [collection](https://appraven.net/openLink.php?listId=63
 <br />
 
 | **Day** | **App** | **Twitter** | **Free?**| **Dev**|
-|:--: | :-- | :-- | :--: |  :-- |
+|:--: | :-- | :-- | :--: | :-- |
 | 25 | [Soor](https://apps.apple.com/app/id1439731526?ls=1) | [@Soor_app](https://twitter.com/soor_app) | `✴️` `💟` | [🇮🇳 Tanmay Sonawane](https://twitter.com/tanmays) |
 | 26 | `☁️ I haven't found any information` |  |  |  |
 | 27 | [RonRon: breathing & relaxation](https://apps.apple.com/app/ronron/id1588309394) | [@Ronron__app](https://twitter.com/ronron__app) | `❇️` | [🇫🇷 Pierre Boudoin](https://twitter.com/pboudoin) |
