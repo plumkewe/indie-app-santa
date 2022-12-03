@@ -15,7 +15,7 @@ Note that this repository has nothing to do with Indie app santa, it's made by m
 
 ## 2022
 
-There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50e7edd2374f34b5460d)
+There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50e7edd2374f34b5460d) <br />
 ####### I didn't do it!
 
 `❇️ Free` `✴️ Discount` <br />
