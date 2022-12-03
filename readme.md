@@ -32,10 +32,10 @@ Note that this repository has nothing to do with Indie app santa, it's made by m
 | 2 | [Structured](https://apps.apple.com/it/app/structured-daily-planner/id1499198946?l=en) | [@Structured_app](https://twitter.com/structured_app) | `❇️` | [Leo Mehlig](https://twitter.com/leomehlig?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
 | 3 | [McClockFace](https://apps.apple.com/it/app/mcclockface/id1544343485?l=en) | Not Found | `❇️` | [🇬🇧 David Steppenbeck](https://twitter.com/dsteppenbeck) |
 | 4 | [Jinks!](https://apps.apple.com/de/app/jinks/id1507193902) | [@Jinks_app](https://twitter.com/jinks_app) | `❇️` | [🇩🇪 Simon Nickel](https://twitter.com/simonnickel) |
-| 5 | [Twidget](https://apps.apple.com/it/app/twidget-widget-for-twitter/id1541494972?l=en) | Not Found | `❇️` | [:uk: :us: James Shaw](https://twitter.com/jsh8w) |
+| 5 | [Twidget](https://apps.apple.com/it/app/twidget-widget-for-twitter/id1541494972?l=en) | Not Found | `❇️` | [🇬🇧 🇺🇸 James Shaw](https://twitter.com/jsh8w) |
 | 6 | [Vinyls](https://apps.apple.com/it/app/vinyls/id1556054655?l=en) | [@Vinylstheapp](https://twitter.com/vinylstheapp) | `❇️` | [Shihab Mehboob](https://twitter.com/JPEGuin) |
-| 7 | [Crouton](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) | [@_CroutonApp](https://twitter.com/_croutonapp) | `❇️` | [:nz: Devin Davies](https://twitter.com/justmedevin) |
-| 8 | [YarnBuddy](https://apps.apple.com/us/app/yarnbuddy-knit-and-crochet/id1267678125) | [@Yarnbuddyapp](https://twitter.com/yarnbuddyapp) | `✴️` | [:us: Becky Hansmeyer](https://twitter.com/bhansmeyer) |
+| 7 | [Crouton](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) | [@_CroutonApp](https://twitter.com/_croutonapp) | `❇️` | [🇳🇿 Devin Davies](https://twitter.com/justmedevin) |
+| 8 | [YarnBuddy](https://apps.apple.com/us/app/yarnbuddy-knit-and-crochet/id1267678125) | [@Yarnbuddyapp](https://twitter.com/yarnbuddyapp) | `✴️` | [🇺🇸 Becky Hansmeyer](https://twitter.com/bhansmeyer) |
 | 9 | []() | [@]() | `✴️` | []() |
 | 10 | []() | [@]() | `✴️` | []() |
 | 11 | []() | [@]() | `✴️` | []() |
