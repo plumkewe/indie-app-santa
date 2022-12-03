@@ -33,7 +33,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 
 ### My top:  <br />
 
-[![Blackbox](https://github.com/plumkewe/indie-app-santa/blob/099ba1f2aaf5a06c17e734f7c1080b18fc3ada8f/Other/Images/l1.svg)](https://apps.apple.com/it/app/blackbox-brain-puzzles/id962969578?l=en) [![Crouton](https://github.com/plumkewe/indie-app-santa/blob/099ba1f2aaf5a06c17e734f7c1080b18fc3ada8f/Other/Images/c2.svg)](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) [![Structured](https://github.com/plumkewe/indie-app-santa/blob/099ba1f2aaf5a06c17e734f7c1080b18fc3ada8f/Other/Images/r3.svg)](https://apps.apple.com/it/app/structured-daily-planner/id1499198946?l=en)
+[![Blackbox](https://github.com/plumkewe/indie-app-santa/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/l1.png)](https://apps.apple.com/it/app/blackbox-brain-puzzles/id962969578?l=en) [![Crouton](https://github.com/plumkewe/indie-app-santa/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/c2.png)](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) [![Structured](https://github.com/plumkewe/indie-app-santa/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/r3.png)](https://apps.apple.com/it/app/structured-daily-planner/id1499198946?l=en)
 
 <br />
 
