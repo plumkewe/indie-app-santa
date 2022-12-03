@@ -18,7 +18,7 @@ Note that this repository has nothing to do with Indie app santa, it's made by m
 `❇️ Free` `✴️ Discount` <br />
 
 | **Day** | **App** | **Twitter** | **Free?**| **Dev**|
-|:-- | :-- | :-- | :-- | :-- |
+|:--: | :-- | :-- | :-- | :-- |
 | 1 | [Posture Pal](https://apps.apple.com/it/app/posture-pal-perfect-reminder/id1590316152?l=en) | [@PosturePalApp](https://twitter.com/posturepalapp?s=21&t=DzSq8UMHflR67STo62OBoA)  | `❇️` | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
 | 2 | [Padlok](https://apple.co/3ORkSrb) | [@PadlocApp](https://twitter.com/padlokapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `❇️` | [🇫🇷 Thomas Durandx](https://twitter.com/deanatoire?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
 | 3 | [Tasks](https://apple.co/3B2u6eM) | [@Thetaskapp](https://twitter.com/thetaskapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `✴️ 66% off the lifetime price` | [🇮🇳 Mustafa Yusuf](https://twitter.com/mufasayc?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
@@ -27,15 +27,19 @@ Note that this repository has nothing to do with Indie app santa, it's made by m
 <br />
 
 ## 2021
+
+`❇️ Free` `✴️ Discount` `💟 Awesome` <br />
+
+
 | **Day** | **App** | **Twitter** | **Free?**| **Dev**|
 |:--: | :-- | :-- | :-- | :-- |
-| 1 | [BlackBox](https://apps.apple.com/it/app/blackbox-brain-puzzles/id962969578?l=en) | [@BlackboxPuzzle](https://twitter.com/blackboxpuzzles) | `❇️` | [🇳🇱 Ryan McLeod](https://twitter.com/warpling?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
-| 2 | [Structured](https://apps.apple.com/it/app/structured-daily-planner/id1499198946?l=en) | [@Structured_app](https://twitter.com/structured_app) | `❇️` | [Leo Mehlig](https://twitter.com/leomehlig?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
+| 1 | [BlackBox](https://apps.apple.com/it/app/blackbox-brain-puzzles/id962969578?l=en) | [@BlackboxPuzzle](https://twitter.com/blackboxpuzzles) | `❇️` `💟` | [🇳🇱 Ryan McLeod](https://twitter.com/warpling?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
+| 2 | [Structured](https://apps.apple.com/it/app/structured-daily-planner/id1499198946?l=en) | [@Structured_app](https://twitter.com/structured_app) | `❇️` `💟` | [Leo Mehlig](https://twitter.com/leomehlig?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
 | 3 | [McClockFace](https://apps.apple.com/it/app/mcclockface/id1544343485?l=en) | Not Found | `❇️` | [🇬🇧 David Steppenbeck](https://twitter.com/dsteppenbeck) |
 | 4 | [Jinks!](https://apps.apple.com/de/app/jinks/id1507193902) | [@Jinks_app](https://twitter.com/jinks_app) | `❇️` | [🇩🇪 Simon Nickel](https://twitter.com/simonnickel) |
 | 5 | [Twidget](https://apps.apple.com/it/app/twidget-widget-for-twitter/id1541494972?l=en) | Not Found | `❇️` | [🇬🇧 🇺🇸 James Shaw](https://twitter.com/jsh8w) |
 | 6 | [Vinyls](https://apps.apple.com/it/app/vinyls/id1556054655?l=en) | [@Vinylstheapp](https://twitter.com/vinylstheapp) | `❇️` | [Shihab Mehboob](https://twitter.com/JPEGuin) |
-| 7 | [Crouton](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) | [@_CroutonApp](https://twitter.com/_croutonapp) | `❇️` | [🇳🇿 Devin Davies](https://twitter.com/justmedevin) |
+| 7 | [Crouton](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) | [@_CroutonApp](https://twitter.com/_croutonapp) | `❇️` `💟` | [🇳🇿 Devin Davies](https://twitter.com/justmedevin) |
 | 8 | [YarnBuddy](https://apps.apple.com/us/app/yarnbuddy-knit-and-crochet/id1267678125) | [@Yarnbuddyapp](https://twitter.com/yarnbuddyapp) | `✴️` | [🇺🇸 Becky Hansmeyer](https://twitter.com/bhansmeyer) |
 | 9 | [Bluebird Focus Timer](https://apps.apple.com/app/id1478757472) | [@Bluebird_app](https://twitter.com/bluebird_app) | `✴️` | [DFS](https://twitter.com/limited_dfs) & [TopoloGiraffe](https://twitter.com/topologiraffe) |
 | 10 | [Paste Pal](https://apps.apple.com/app/id1503446680) | [@PastePalApp](https://twitter.com/PastePalApp) | `✴️` | [🇳🇴 Khoa](https://twitter.com/onmyway133) |
@@ -43,7 +47,7 @@ Note that this repository has nothing to do with Indie app santa, it's made by m
 | 12 | [Guessing Game for SharePlay](https://apps.apple.com/it/app/guessing-game-for-shareplay/id1573083328?l=en) | [@Guessinggameapp](https://twitter.com/guessinggameapp) | `❇️` | [🇺🇸 Greg Gardner](https://twitter.com/gregggreg2) |
 | 13 | `☁️ I haven't found any information` |  |  |  |
 | 14 | [Skaffer - Track subscriptions ](https://apps.apple.com/us/app/id1507248426) | [@Skaffer_app](https://twitter.com/skaffer_app) | `❇️` | [🇧🇾 Egor Iskrenkov](https://twitter.com/eiskrenkov) |
-| 15 | [Sticker Doodle: Photo Stickers](https://apps.apple.com/app/apple-store/id1576281695) | [@StickerDoodler](https://twitter.com/StickerDoodler) | `❇️` | [Chad Etzel](https://twitter.com/jazzychad) |
+| 15 | [Sticker Doodle: Photo Stickers](https://apps.apple.com/app/apple-store/id1576281695) | [@StickerDoodler](https://twitter.com/StickerDoodler) | `❇️` `💟` | [Chad Etzel](https://twitter.com/jazzychad) |
 | 16 | [Calory](https://apps.apple.com/it/app/calory-nutrition-diet-coach/id1441252752?l=en) | [@Calory_app](https://twitter.com/Calory_app) | `❇️` |  [🇺🇸 Kriss Smolka](https://twitter.com/ksmolka) |
 | 17 | [Sync Flashlight With Others](https://apps.apple.com/it/app/sync-flashlight-with-others/id1590512061?l=en) | Not Found | `❇️` | [Rihab Mehboob](https://twitter.com/elohohel) |
 | 18 | [Habit Minder](https://apps.apple.com/it/app/habitminder-habit-tracker/id1253577148?l=en) | [@HabitMinder](https://twitter.com/HabitMinder) | `❇️` | [🇺🇸 Kriss Smolka](https://twitter.com/ksmolka) |
@@ -61,12 +65,12 @@ Note that this repository has nothing to do with Indie app santa, it's made by m
 <br />
 
 | **Day** | **App** | **Twitter** | **Free?**| **Dev**|
-|:-- | :-- | :-- | :-- | :-- |
-| 25 | [Soor](https://apps.apple.com/app/id1439731526?ls=1) | [@Soor_app](https://twitter.com/soor_app) | `✴️` | [🇮🇳 Tanmay Sonawane](https://twitter.com/tanmays) |
+|:--: | :-- | :-- | :-- | :-- |
+| 25 | [Soor](https://apps.apple.com/app/id1439731526?ls=1) | [@Soor_app](https://twitter.com/soor_app) | `✴️` `💟` | [🇮🇳 Tanmay Sonawane](https://twitter.com/tanmays) |
 | 26 | `☁️ I haven't found any information` |  |  |  |
 | 27 | [RonRon: breathing & relaxation](https://apps.apple.com/app/ronron/id1588309394) | [@Ronron__app](https://twitter.com/ronron__app) | `❇️` | [🇫🇷 Pierre Boudoin](https://twitter.com/pboudoin) |
-| 28 | Navi - Subtitles & Translation |  | ❇️ [No more available](https://twitter.com/jordibruin/status/1554371644742942723?s=20&t=NIzP7rfrw3KBjWCGycl6GQ) | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
-| 29 | [Meddify: Medication Management](https://apps.apple.com/it/app/meddify-medication-management/id1562891453?l=en) | [@]() | `❇️` | [🇺🇦 Oleksandr Bandyliuk](https://twitter.com/Bandyliuk) |
+| 28 | Navi - Subtitles & Translation | Not Found | ❇️ [No more available](https://twitter.com/jordibruin/status/1554371644742942723?s=20&t=NIzP7rfrw3KBjWCGycl6GQ) | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
+| 29 | [Meddify: Medication Management](https://apps.apple.com/it/app/meddify-medication-management/id1562891453?l=en) | Not Found | `❇️` | [🇺🇦 Oleksandr Bandyliuk](https://twitter.com/Bandyliuk) |
 | 30 | [Hacker News - Latest in Tech](https://apps.apple.com/it/app/hacker-news-latest-in-tech/id1573004386?l=en) | Not Found | `❇️` | [🇺🇸 Eric Lewis](https://twitter.com/ericlewis) |
 | 31 | `☁️ I haven't found any information` |  |  |  |
 
