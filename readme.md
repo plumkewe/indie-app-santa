@@ -3,8 +3,8 @@
 ### What is it? <br />
 > Indie app santa is like an **advent calendar** but for apps made by **indie** iOS developers, from December **1st to 31st** they share their apps mostly for **free** but sometimes it can be a *discount* for in app purchase. <br />
 
-You can follow the official [**Twitter**](https://twitter.com/indieappsanta?s=21&t=DzSq8UMHflR67STo62OBoA) account for updates or download the official [**app**](https://apps.apple.com/it/app/indie-app-santa/id1594011307?l=en) or... visit the official [**site***](https://www.indieappsanta.com/)! <br />
-You can even set up a **widget** via [**Scriptable***](https://apps.apple.com/it/app/scriptable/id1405459188?l=en) app! Here's the [code](https://gist.github.com/frboulais/2a11ac628faacf2532d037314324e1a4). <br />
+You can follow the official [**Twitter**](https://twitter.com/indieappsanta?s=21&t=DzSq8UMHflR67STo62OBoA) account for updates or download the official [**app**](https://apps.apple.com/it/app/indie-app-santa/id1594011307?l=en) or... visit the official [**site**](https://www.indieappsanta.com/)! <br />
+You can even set up a **widget** via [**Scriptable**](https://apps.apple.com/it/app/scriptable/id1405459188?l=en) app! Here's the [code](https://gist.github.com/frboulais/2a11ac628faacf2532d037314324e1a4). <br />
 
 Note that this repository has nothing to do with Indie app santa, it's made by me just for fun and for archive. <br />
 
@@ -16,7 +16,7 @@ Note that this repository has nothing to do with Indie app santa, it's made by m
 ## 2022
 
 There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50e7edd2374f34b5460d) <br />
-####### I didn't do it!
+###### I didn't do it!
 
 `❇️ Free` `✴️ Discount` <br />
 
