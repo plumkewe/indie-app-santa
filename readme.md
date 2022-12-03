@@ -37,9 +37,6 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 
 <br />
 
-
-
-
 ###### You can click on them :) If you want to "grab" icons from App Store i made this simple shortcut: [Icons](https://www.icloud.com/shortcuts/6604f67a715e4db39cf2b7766b16ddf1)
 
 
