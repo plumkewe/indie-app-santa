@@ -4,27 +4,38 @@
 > Indie app santa is like an **advent calendar** but for apps made by **indie** iOS developers, from December **1st to 31st** they share their apps mostly for **free** but sometimes it can be a *discount* for in app purchase. <br />
 
 You can follow the official [**Twitter**](https://twitter.com/indieappsanta?s=21&t=DzSq8UMHflR67STo62OBoA) account for updates or download the official [**app**](https://apps.apple.com/it/app/indie-app-santa/id1594011307?l=en) or... visit the official [**site**](https://www.indieappsanta.com/)! <br />
-You can even set up a **widget** via [**Scriptable**](https://apps.apple.com/it/app/scriptable/id1405459188?l=en) app! Here's the [code](https://gist.github.com/frboulais/2a11ac628faacf2532d037314324e1a4). <br />
-
+You can even set up a **widget** via [**Scriptable**](https://apps.apple.com/it/app/scriptable/id1405459188?l=en) app! Here's the [code](https://gist.github.com/frboulais/2a11ac628faacf2532d037314324e1a4). 
+###### (see the preview [here]()) <br />
+<!---Add the link here--->
 Note that this repository has nothing to do with Indie app santa, it's made by me just for fun and for archive. <br />
 
 # 🎄 Have an awesome christmas <br />
-###### (for those who celebrate it :) ) <br /> <br />
+###### (for those who celebrate it :) ) 
 
+<br />
 
+## Fun facts!
+
+A new box opens every day at 9 `(00:00 SF TIME)` <br />
+The creator of this initiative is 🇫🇷 [**François**](https://twitter.com/frboulais) and he currently works on this app: [**Drylendar**](https://twitter.com/drylendar?s=21&t=LXfPlLSKonx7EIz49H3fug) you can access it through Test flight! Link available: [**here**](https://twitter.com/frboulais/status/1535498354427408384?s=46&t=LXfPlLSKonx7EIz49H3fug) <br />
+You can buy a cool sticker and support Indie app santa on: [**gumroad**](https://indieappsanta.gumroad.com/l/zXimf) <br />
+A lot of cool apps were spotted on Indie app santa! Like [`💳` **CardPointers**](https://twitter.com/indieappsanta/status/1344870978308870146?s=46&t=LXfPlLSKonx7EIz49H3fug), [`🍱` **Crouton**](https://twitter.com/indieappsanta/status/1468135169538330627?s=46&t=LXfPlLSKonx7EIz49H3fug), [`🚀` **Pocket rocket**](https://twitter.com/indieappsanta/status/1337261258580615168?s=46&t=LXfPlLSKonx7EIz49H3fug)...
+
+<br />
+<br />
 
 ## **2022**
 
-There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50e7edd2374f34b5460d) <br />
+There's an **AppRaven** [collection](https://appraven.net/openLink.php?listId=638b50e7edd2374f34b5460d) <br />
 ###### I didn't do it!
 
 `❇️ Free` `✴️ Discount` <br />
 
 | **Day** | **App** | **Twitter** | **Free?**| **Dev** | **Available on** | **AppHookup** |
 |:--: | :-- | :-- | :-- | :-- | :--: | :-- |
-| 1 | [Posture Pal](https://apps.apple.com/it/app/posture-pal-perfect-reminder/id1590316152?l=en) | [@PosturePalApp](https://twitter.com/posturepalapp?s=21&t=DzSq8UMHflR67STo62OBoA)  | `❇️` | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` | [`💬` Thank's for pos...'](https://reddit.com/r/AppHookup/comments/z97ejq/ios_posture_pal_pro_1199_free_app_that_helps_your/) |
-| 2 | [Padlok](https://apple.co/3ORkSrb) | [@PadlocApp](https://twitter.com/padlokapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `❇️` | [🇫🇷 Thomas Durandx](https://twitter.com/deanatoire?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `⌚️` | [`💬` Just need to bu...](https://reddit.com/r/AppHookup/comments/za75wk/ios_pad_lock_lifetime_1499_free_app_that_stores/) |
-| 3 | [Tasks](https://apple.co/3B2u6eM) | [@Thetaskapp](https://twitter.com/thetaskapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `✴️ 66% off the lifetime price` | [🇮🇳 Mustafa Yusuf](https://twitter.com/mufasayc?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `💻 ` `iPad` | [`💬` I'm not payi...'](https://reddit.com/r/AppHookup/comments/zb5f3a/iosmacos_tasks_to_do_lists_planner_lifetime_iap/) |
+| 1 | [![Posture Pal](image1.png "Posture pal") Posture Pal](https://apps.apple.com/it/app/posture-pal-perfect-reminder/id1590316152?l=en) | [@PosturePalApp](https://twitter.com/posturepalapp?s=21&t=DzSq8UMHflR67STo62OBoA)  | `❇️` | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` | [`💬` Thank's for pos...'](https://reddit.com/r/AppHookup/comments/z97ejq/ios_posture_pal_pro_1199_free_app_that_helps_your/) |
+| 2 | [![Padlok](image1.png "Padlok") Padlok](https://apple.co/3ORkSrb) | [@PadlocApp](https://twitter.com/padlokapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `❇️` | [🇫🇷 Thomas Durandx](https://twitter.com/deanatoire?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `⌚️` | [`💬` Just need to bu...](https://reddit.com/r/AppHookup/comments/za75wk/ios_pad_lock_lifetime_1499_free_app_that_stores/) |
+| 3 | [![Tasks](image1.png "Tasks")Tasks](https://apple.co/3B2u6eM) | [@Thetaskapp](https://twitter.com/thetaskapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `✴️ 66% off the lifetime price` | [🇮🇳 Mustafa Yusuf](https://twitter.com/mufasayc?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `💻 ` `iPad` | [`💬` I'm not payi...'](https://reddit.com/r/AppHookup/comments/zb5f3a/iosmacos_tasks_to_do_lists_planner_lifetime_iap/) |
 
 <br />
 <br />
@@ -91,8 +102,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 
 ### Data
 
-`🇺🇸 × 5` `🇺🇦 × 1` `🇫🇷 × 2` `🇮🇳 × 2` `🇮🇪 × 2` `🇩🇪 × 3` <br />
-`🇳🇴 × 3` `🇨🇦 × 2` `🇬🇧 × 3` `🇳🇱 × 3` `🇧🇾 × 1`
+`🇺🇸 × 5` `🇺🇦 × 1` `🇫🇷 × 2` `🇮🇳 × 2` `🇮🇪 × 2` `🇩🇪 × 3` `🇳🇴 × 3` `🇨🇦 × 2` `🇬🇧 × 3` `🇳🇱 × 3` `🇧🇾 × 1`
 
 
 ## **2020**
