@@ -39,6 +39,8 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 | 2 | [Padlok](https://apps.apple.com/it/app/padlok/id1546719801?l=en) | [@PadlocApp](https://twitter.com/padlokapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `❇️` | [🇫🇷 Thomas Durandx](https://twitter.com/deanatoire?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `⌚️` | [`💬` Just need to bu...](https://reddit.com/r/AppHookup/comments/za75wk/ios_pad_lock_lifetime_1499_free_app_that_stores/) |
 | 3 | [Tasks](https://apps.apple.com/it/app/tasks-to-do-lists-planner/id1502903102?l=en) | [@Thetaskapp](https://twitter.com/thetaskapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `✴️ 66% off the lifetime price` | [🇮🇳 Mustafa Yusuf](https://twitter.com/mufasayc?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `💻 ` `iPad` | [`💬` I'm not payi...'](https://reddit.com/r/AppHookup/comments/zb5f3a/iosmacos_tasks_to_do_lists_planner_lifetime_iap/) |
 | 5 | [See/saw](https://apps.apple.com/it/app/see-saw/id1200202714?l=en) | Not Found | `❇️` | [🇩🇪 Philipp Stollenmayer](https://twitter.com/kamibox_ph) | `📱` `iPad` | [`💬` Hasn't bee...](https://reddit.com/r/AppHookup/comments/zbuw89/ios_seesaw_299_free_indie_app_santa_4_game_die/) |
+| 6 | [Scan it: Mobile scanner, PDF](https://apps.apple.com/us/app/scan-it-mobile-scanner-pdf/id1509634112) | Not Found | `❇️` | [Filip Nemecek](https://twitter.com/nemecek_f) | `📱` `iPad` | [`💬` I assume diagn...](https://www.reddit.com/r/AppHookup/comments/zczd0y/ios_scan_it_pro_499_free_indie_app_santa_day_5/) |
+| 7 | []() | Not Found | `❇️` | []() | `📱` `iPad` | [`💬` ]() |
 
 <br />
 <br />
