@@ -75,9 +75,9 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 | 7 | <img src="Other/Images/Icons/Icons21/crouton.PNG" width="15px" lenght="15px"> [Crouton](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) | [@_CroutonApp](https://twitter.com/_croutonapp) | `❇️` `💟` | [🇳🇿 Devin Davies](https://twitter.com/justmedevin) |
 | 8 | <img src="Other/Images/Icons/Icons21/yarnbuddy.PNG" width="15px" lenght="15px"> [YarnBuddy](https://apps.apple.com/us/app/yarnbuddy-knit-and-crochet/id1267678125) | [@Yarnbuddyapp](https://twitter.com/yarnbuddyapp) | `✴️` | [🇺🇸 Becky Hansmeyer](https://twitter.com/bhansmeyer) |
 | 9 | <img src="Other/Images/Icons/Icons21/bluebird.PNG" width="15px" lenght="15px"> [Bluebird Focus Timer](https://apps.apple.com/app/id1478757472) | [@Bluebird_app](https://twitter.com/bluebird_app) | `✴️` | [DFS](https://twitter.com/limited_dfs) & [TopoloGiraffe](https://twitter.com/topologiraffe) |
-| 10 | <img src="Other/Images/Icons/Icons21/pastepal.PNG" width="15px" lenght="15px"> [Paste Pal](https://apps.apple.com/app/id1503446680) | [@PastePalApp](https://twitter.com/PastePalApp) | `✴️` | [🇳  Khoa](https://twitter.com/onmyway133) |
+| 10 | <img src="Other/Images/Icons/Icons21/pastepal.PNG" width="15px" lenght="15px"> [Paste Pal](https://apps.apple.com/app/id1503446680) | [@PastePalApp](https://twitter.com/PastePalApp) | `✴️` | [🇳� Khoa](https://twitter.com/onmyway133) |
 | 11 | <img src="Other/Images/Icons/Icons21/wynkwidget.PNG" width="15px" lenght="15px"> [Wynk Widget](https://apps.apple.com/us/app/wynk-widget/id1540207299) | [@WynkApp](https://twitter.com/WynkApp) | `❇️` | [🇨🇦 Ian Keen](https://twitter.com/IanKay) |
-| 12 | <img src="Other/Images/Icons/Icons21/guessinggame.PNG" width="15px" lenght="15px"> [Guessing Game for SharePlay](https://apps.apple.com/it/app/guessing-game-for-shareplay/id1573083328?l=en) | [@Guessinggameap p](https://twitter.com/guessinggameapp) | `❇️` | [🇺🇸 Greg Gardner](https://twitter.com/gregggreg2) |
+| 12 | <img src="Other/Images/Icons/Icons21/guessinggame.PNG" width="15px" lenght="15px"> [Guessing Game for SharePlay](https://apps.apple.com/it/app/guessing-game-for-shareplay/id1573083328?l=en) | [@Guessinggameap�p](https://twitter.com/guessinggameapp) | `❇️` | [🇺🇸 Greg Gardner](https://twitter.com/gregggreg2) |
 | 14 | <img src="Other/Images/Icons/Icons21/skaffer.PNG" width="15px" lenght="15px"> [Skaffer](https://apps.apple.com/us/app/id1507248426) | [@Skaffer_app](https://twitter.com/skaffer_app) | `❇️` | [🇧🇾 Egor Iskrenkov](https://twitter.com/eiskrenkov) |
 | 15 | <img src="Other/Images/Icons/Icons21/stickerdoodle.PNG" width="15px" lenght="15px"> [Sticker Doodle](https://apps.apple.com/app/apple-store/id1576281695) | [@StickerDoodler](https://twitter.com/StickerDoodler) | `❇️` `💟` | [Chad Etzel](https://twitter.com/jazzychad) |
 | 16 | <img src="Other/Images/Icons/Icons21/calory.PNG" width="15px" lenght="15px"> [Calory](https://apps.apple.com/it/app/calory-nutrition-diet-coach/id1441252752?l=en) | [@Calory_app](https://twitter.com/Calory_app) | `❇️` |  [🇺🇸 Kriss Smolka](https://twitter.com/ksmolka) |
@@ -115,7 +115,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 
 <br />
 
-#### Developers info 
+### Developers info 
 
 <br />
 
