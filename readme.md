@@ -28,7 +28,6 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 
 `❇️ Free` `✴️ Discount` `☁️ No info` <br />
 
-
 | **Day** | **App** | **Twitter** | **Free?**| **Dev** | **Available on** | **AppHookup** | **AppRaven** |
 |:--: | :-- | :-- | :-- | :-- | :--: | :-- | :--: |
 | 1 | <img src="https://github.com/plumkewe/indie-app-santa/blob/b4a37bdc03dff68be80bcc2d35d37a957d3f8494/Other/Images/Icons/Posture-Pal.PNG" width="15px" lenght="15px" alt="Posture-pal" title="Posture-pal"> [Posture Pal](https://apps.apple.com/it/app/posture-pal-perfect-reminder/id1590316152?l=en) | [@PosturePalApp](https://twitter.com/posturepalapp?s=21&t=DzSq8UMHflR67STo62OBoA)  | `❇️` | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` | [`💬` Thank's for pos...](https://reddit.com/r/AppHookup/comments/z97ejq/ios_posture_pal_pro_1199_free_app_that_helps_your/) | [`🔗`](https://appraven.net/openLink.php?appId=1590316152) |
@@ -65,6 +64,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 
 <br />
 
+
 `❇️ Free` `✴️ Discount` `💟 Awesome` `☁️ No info` <br />
 
 | **Day** | **App** | **Twitter** | **Free?**| **Dev**|
@@ -91,6 +91,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 | 21 | <img src="Other/Images/Icons/Icons21/timesup.PNG" width="15px" lenght="15px"> [Time’s Up](https://apps.apple.com/us/app/times-up-timer/id1550456653) | [@TimesUpApp](https://twitter.com/TimesUpApp) | `❇️` | [Adam Overholtzer](https://twitter.com/aoverholtzer) |
 | 22 | [Luxilux Light Meter](https://apps.apple.com/it/app/luxilux-light-meter/id1487384157?l=en) | [@LuxiluxApp](https://twitter.com/LuxiluxApp) | `❇️` | [🇩🇪 Christian Lobach](https://twitter.com/DerLobi) |
 | 23 | <img src="Other/Images/Icons/Icons21/pile.PNG" width="15px" lenght="15px"> [Pile](https://apps.apple.com/it/app/bookmarks-mood-boards-pile/id1549454338) | [@Pile_app](https://twitter.com/pile_app) | `❇️` | [🇮🇪 Aram Miquel](https://twitter.com/aram_miquel) |
+
 <br />
 
 ### Extending: [Tweet](https://twitter.com/indieappsanta/status/1474049239407906826)
@@ -118,5 +119,3 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 <br />
 
 # **2020**
-
-
