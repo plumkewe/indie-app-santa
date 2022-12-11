@@ -38,13 +38,13 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 | 6 | <img src="Other/Images/Icons/mango.PNG" width="15px" lenght="15px"> [ManGo](https://apps.apple.com/app/apple-store/id1604385869) | [@Mango_ios](https://twitter.com/mango_ios) | `❇️` | [🇳🇱 Joost van den Akker](https://twitter.com/joost_akker) | `📱` `⌚️` `iPad` | [`💬` What a great a...](https://www.reddit.com/r/AppHookup/comments/zdoynl/ios_universalmangoiap_399_free/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1604385869) |
 | 7 | <img src="Other/Images/Icons/shipmunk.PNG" width="15px" lenght="15px"> [Shipmunk](https://apps.apple.com/it/app/shipmunk-aso-keywords/id1638481575?l=en) | [@ShipmunkApp](https://twitter.com/ShipmunkApp) | `✴️ 50% off the lifetime price` | [🇳🇴 Khoa](https://twitter.com/onmyway133) & [Kenny](https://twitter.com/khuong291) | `📱` `💻` `iPad` | [`💬`Santa’s on th...](https://www.reddit.com/r/AppHookup/comments/zenl5s/ios_universalshipmunkiap_1999_999/) | [`🔗`](https://appraven.net/openLink.php?appId=1638481575) |
 | 8 | <img src="Other/Images/Icons/safe-space.PNG" width="15px" lenght="15px"> [Safe Space](https://apps.apple.com/it/app/safe-space-hide-photo-video/id1536734125?l=en) | `☁️` | `✴️ €4.99 instead of €14.99` | [Dmitry Petrov](https://twitter.com/satanworker) | `📱` | [`💬`Useless san...](https://reddit.com/r/AppHookup/comments/zfm7p1/ios_safe_space_hide_photo_video_iap_1499_499/) | [`🔗`](https://appraven.net/openLink.php?appId=1638481575) |
-| 9 | <img src="Other/Images/Icons/nowplaying.PNG" width="15px" lenght="15px"> [Now Playing](https://apps.apple.com/it/app/nowplaying-music-facts/id1596487035?l=en) | [@NowPlayingGold](https://twitter.com/nowplayinggold) | `✴️ €0.99 instead of €24.99` | [🇳🇱 Hidde van der Ploeg](https://twitter.com/hiddevdploeg) | `📱` `⌚️` `iPad` | [`💬`So Nowplaying...](https://reddit.com/r/AppHookup/comments/zggno5/ios_universalnowplayingiap_2499_099/) | [`🔗`](https://appraven.net/openLink.php?appId=1596487035) |
+| 9 | <img src="Other/Images/Icons/nowplaying.PNG" width="15px" lenght="15px"> [Now Playing](https://apps.apple.com/it/app/nowplaying-music-facts/id1596487035?l=en) | [@NowPlayingGold](https://twitter.com/nowplayinggold) | `✴️ €0.99 instead of €24.99` | [🇳🇱 Hidde van der Ploeg](https://twitter.com/hiddevdploeg) | `📱` `⌚️` `iPad` | [`💬` So Nowplaying...](https://reddit.com/r/AppHookup/comments/zggno5/ios_universalnowplayingiap_2499_099/) | [`🔗`](https://appraven.net/openLink.php?appId=1596487035) |
 | 10 | <img src="Other/Images/Icons/calzy.PNG" width="15px" lenght="15px"> [Calzy](https://apps.apple.com/us/app/calzy/id623690732?ign-itscg=30200&ign-itsct=apps_box_link) | `☁️` | `✴️ €1.99 instead of €4.99` | [🇮🇳 Raja Vijayaraman](https://twitter.com/rajavijayaraman) | `📱` `⌚️` `iPad` | [`💬` Have owned th...](https://www.reddit.com/r/AppHookup/comments/zhjape/ios_universal_calzy_499_199_modern_calculator/) | [`🔗`](https://appraven.net/apps/detail.php?appId=623690732) |
 | 11 | <img src="Other/Images/Icons/weatherontheway.PNG" width="15px" lenght="15px"> [Weather on the way](https://apps.apple.com/us/app/weather-on-the-way/id1471394318) | [@WeatherOnTheWay](https://twitter.com/weatherontheway) | `✴️ €4.99 instead of €24.99 sub` | [Piotr Knapczyk](https://twitter.com/piotr_knapczyk) | `📱` `iPad` | [`💬` This app is actua...](https://www.reddit.com/r/AppHookup/comments/zikjrb/ios_weather_on_the_way_2499_499_indie_app_santa/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1471394318) |
 
 <hr>
 
-### Data
+### Data <br /> 
 
 `🇩🇪 × 1` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1`
 
@@ -78,7 +78,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 | 8 | <img src="Other/Images/Icons/Icons21/yarnbuddy.PNG" width="15px" lenght="15px"> [YarnBuddy](https://apps.apple.com/us/app/yarnbuddy-knit-and-crochet/id1267678125) | [@Yarnbuddyapp](https://twitter.com/yarnbuddyapp) | `✴️` | [🇺🇸 Becky Hansmeyer](https://twitter.com/bhansmeyer) |
 | 9 | <img src="Other/Images/Icons/Icons21/bluebird.PNG" width="15px" lenght="15px"> [Bluebird Focus Timer](https://apps.apple.com/app/id1478757472) | [@Bluebird_app](https://twitter.com/bluebird_app) | `✴️` | [DFS](https://twitter.com/limited_dfs) & [TopoloGiraffe](https://twitter.com/topologiraffe) |
 | 10 | <img src="Other/Images/Icons/Icons21/pastepal.PNG" width="15px" lenght="15px"> [Paste Pal](https://apps.apple.com/app/id1503446680) | [@PastePalApp](https://twitter.com/PastePalApp) | `✴️` | [🇳  Khoa](https://twitter.com/onmyway133) |
-| 11 | <img src="Other/Images/Icons/Icons21/wynkwidget.PNG" width="15px" lenght="15px"> [Wynk Widget](https://apps.apple.com/us/app/wynk-widget/id1540207299) | [@WynkApp](https://twitter.com/WynkApp) | `❇️` | [🇨🇦 Ian Keen](https://twitter.com/IanKay) |
+| 11 | [Wynk Widget](https://apps.apple.com/us/app/wynk-widget/id1540207299) | [@WynkApp](https://twitter.com/WynkApp) | `❇️` | [🇨🇦 Ian Keen](https://twitter.com/IanKay) |
 | 12 | <img src="Other/Images/Icons/Icons21/guessinggame.PNG" width="15px" lenght="15px"> [Guessing Game for SharePlay](https://apps.apple.com/it/app/guessing-game-for-shareplay/id1573083328?l=en) | [@Guessinggameap p](https://twitter.com/guessinggameapp) | `❇️` | [🇺🇸 Greg Gardner](https://twitter.com/gregggreg2) |
 | 14 | <img src="Other/Images/Icons/Icons21/skaffer.PNG" width="15px" lenght="15px"> [Skaffer](https://apps.apple.com/us/app/id1507248426) | [@Skaffer_app](https://twitter.com/skaffer_app) | `❇️` | [🇧🇾 Egor Iskrenkov](https://twitter.com/eiskrenkov) |
 | 15 | <img src="Other/Images/Icons/Icons21/stickerdoodle.PNG" width="15px" lenght="15px"> [Sticker Doodle](https://apps.apple.com/app/apple-store/id1576281695) | [@StickerDoodler](https://twitter.com/StickerDoodler) | `❇️` `💟` | [Chad Etzel](https://twitter.com/jazzychad) |
@@ -86,7 +86,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 | 17 | <img src="Other/Images/Icons/Icons21/synkflash.PNG" width="15px" lenght="15px"> [Sync Flashlight With Others](https://apps.apple.com/it/app/sync-flashlight-with-others/id1590512061?l=en) | `☁️` | `❇️` | [Rihab Mehboob](https://twitter.com/elohohel) |
 | 18 | <img src="Other/Images/Icons/Icons21/habitminder.PNG" width="15px" lenght="15px"> [Habit Minder](https://apps.apple.com/it/app/habitminder-habit-tracker/id1253577148?l=en) | [@HabitMinder](https://twitter.com/HabitMinder) | `❇️` | [🇺🇸 Kriss Smolka](https://twitter.com/ksmolka) |
 | 19 | <img src="Other/Images/Icons/Icons21/unsafe.PNG" width="15px" lenght="15px"> [un:safe](https://apps.apple.com/it/app/un-safe-pop-the-lock/id1582291621?l=en) | [@Unsafeapp](https://twitter.com/unsafeapp) | `❇️` | [🇳🇴 Emin](https://twitter.com/emin_ui) |
-| 20 | <img src="" width="15px" lenght="15px"> [FitnessView](https://apps.apple.com/it/app/fitnessview-activity-tracker/id1531983371?l=en) | Not Found | `❇️` | [🇺🇸 Kriss Smolka](https://twitter.com/ksmolka) |
+| 20 | [FitnessView](https://apps.apple.com/it/app/fitnessview-activity-tracker/id1531983371?l=en) | Not Found | `❇️` | [🇺🇸 Kriss Smolka](https://twitter.com/ksmolka) |
 | 21 | <img src="Other/Images/Icons/Icons21/timesup.PNG" width="15px" lenght="15px"> [Time’s Up](https://apps.apple.com/us/app/times-up-timer/id1550456653) | [@TimesUpApp](https://twitter.com/TimesUpApp) | `❇️` | [Adam Overholtzer](https://twitter.com/aoverholtzer) |
 | 22 | [Luxilux Light Meter](https://apps.apple.com/it/app/luxilux-light-meter/id1487384157?l=en) | [@LuxiluxApp](https://twitter.com/LuxiluxApp) | `❇️` | [🇩🇪 Christian Lobach](https://twitter.com/DerLobi) |
 | 23 | <img src="Other/Images/Icons/Icons21/pile.PNG" width="15px" lenght="15px"> [Pile](https://apps.apple.com/it/app/bookmarks-mood-boards-pile/id1549454338) | [@Pile_app](https://twitter.com/pile_app) | `❇️` | [🇮🇪 Aram Miquel](https://twitter.com/aram_miquel) |
@@ -107,7 +107,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 
 <hr>
 
-### Data
+### Data <br /> 
 
 `🇺🇸 × 5` `🇺🇦 × 1` `🇫🇷 × 2` `🇮🇳 × 2` `🇮🇪 × 2` `🇩🇪 × 3` `🇳🇴 × 3` `🇨🇦 × 2` `🇬🇧 × 3` `🇳🇱 × 3` `🇧🇾 × 1`
 
@@ -117,7 +117,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 
 <br />
 
-#### Developers info 
+### Developers info 
 
 <br />
 
