@@ -29,7 +29,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 `❇️ Free` `✴️ Discount` `☁️ No info` <br />
 
 | **Day** | **App** | **Twitter** | **Free?**| **Dev** | **Available on** | **AppHookup** | **AppRaven** |
-|:--: | :-- | :-- | :-- | :-- | :--: | :-- | --: |
+|:--: | :-- | :-- | :-- | :-- | :--: | :-- | :--: |
 | 1 | <img src="https://github.com/plumkewe/indie-app-santa/blob/b4a37bdc03dff68be80bcc2d35d37a957d3f8494/Other/Images/Icons/Posture-Pal.PNG" width="15px" lenght="15px" alt="Posture-pal" title="Posture-pal"> [Posture Pal](https://apps.apple.com/it/app/posture-pal-perfect-reminder/id1590316152?l=en) | [@PosturePalApp](https://twitter.com/posturepalapp?s=21&t=DzSq8UMHflR67STo62OBoA)  | `❇️` | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` | [`💬` Thank's for pos...](https://reddit.com/r/AppHookup/comments/z97ejq/ios_posture_pal_pro_1199_free_app_that_helps_your/) | [`🔗`](https://appraven.net/openLink.php?appId=1590316152) |
 | 2 | <img src="https://github.com/plumkewe/indie-app-santa/blob/b4a37bdc03dff68be80bcc2d35d37a957d3f8494/Other/Images/Icons/Padlok.PNG" width="15px" lenght="15px" alt="Padlok" title="Padlok"> [Padlok](https://apps.apple.com/it/app/padlok/id1546719801?l=en) | [@PadlocApp](https://twitter.com/padlokapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `❇️` | [🇫🇷 Thomas Durandx](https://twitter.com/deanatoire?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `⌚️` | [`💬` Just need to bu...](https://reddit.com/r/AppHookup/comments/za75wk/ios_pad_lock_lifetime_1499_free_app_that_stores/) | [`🔗`](https://appraven.net/openLink.php?appId=1546719801) |
 | 3 | <img src="https://github.com/plumkewe/indie-app-santa/blob/b4a37bdc03dff68be80bcc2d35d37a957d3f8494/Other/Images/Icons/Tasks.PNG" width="15px" lenght="15px" alt="Tasks" title="Tasks"> [Tasks](https://apps.apple.com/it/app/tasks-to-do-lists-planner/id1502903102?l=en) | [@Thetaskapp](https://twitter.com/thetaskapp?s=21&t=DzSq8UMHflR67STo62OBoA) | `✴️ 66% off the lifetime price` | [🇮🇳 Mustafa Yusuf](https://twitter.com/mufasayc?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `💻 ` `iPad` | [`💬` I'm not payi...](https://reddit.com/r/AppHookup/comments/zb5f3a/iosmacos_tasks_to_do_lists_planner_lifetime_iap/) | [`🔗`](https://appraven.net/openLink.php?appId=1502903102) |
@@ -44,9 +44,11 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 
 <hr>
 
-### Data <br /> 
+### Data
 
 `🇩🇪 × 1` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1`
+
+<br />
 
 `❇️ × 6` `✴️ × 6`
 
@@ -63,7 +65,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 
 <br />
 
-`❇️ Free` `✴️ Discount` `💟 Awesome` `☁️ No info`<br />
+`❇️ Free` `✴️ Discount` `💟 Awesome` `☁️ No info` <br />
 
 
 | **Day** | **App** | **Twitter** | **Free?**| **Dev**|
@@ -77,7 +79,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 | 7 | <img src="Other/Images/Icons/Icons21/crouton.PNG" width="15px" lenght="15px"> [Crouton](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) | [@_CroutonApp](https://twitter.com/_croutonapp) | `❇️` `💟` | [🇳🇿 Devin Davies](https://twitter.com/justmedevin) |
 | 8 | <img src="Other/Images/Icons/Icons21/yarnbuddy.PNG" width="15px" lenght="15px"> [YarnBuddy](https://apps.apple.com/us/app/yarnbuddy-knit-and-crochet/id1267678125) | [@Yarnbuddyapp](https://twitter.com/yarnbuddyapp) | `✴️` | [🇺🇸 Becky Hansmeyer](https://twitter.com/bhansmeyer) |
 | 9 | <img src="Other/Images/Icons/Icons21/bluebird.PNG" width="15px" lenght="15px"> [Bluebird Focus Timer](https://apps.apple.com/app/id1478757472) | [@Bluebird_app](https://twitter.com/bluebird_app) | `✴️` | [DFS](https://twitter.com/limited_dfs) & [TopoloGiraffe](https://twitter.com/topologiraffe) |
-| 10 | <img src="Other/Images/Icons/Icons21/pastepal.PNG" width="15px" lenght="15px"> [Paste Pal](https://apps.apple.com/app/id1503446680) | [@PastePalApp](https://twitter.com/PastePalApp) | `✴️` | [🇳  Khoa](https://twitter.com/onmyway133) |
+| 10 | <img src="Other/Images/Icons/Icons21/pastepal.PNG" width="15px" lenght="15px"> [Paste Pal](https://apps.apple.com/app/id1503446680) | [@PastePalApp](https://twitter.com/PastePalApp) | `✴️` | [Khoa](https://twitter.com/onmyway133) |
 | 11 | [Wynk Widget](https://apps.apple.com/us/app/wynk-widget/id1540207299) | [@WynkApp](https://twitter.com/WynkApp) | `❇️` | [🇨🇦 Ian Keen](https://twitter.com/IanKay) |
 | 12 | <img src="Other/Images/Icons/Icons21/guessinggame.PNG" width="15px" lenght="15px"> [Guessing Game for SharePlay](https://apps.apple.com/it/app/guessing-game-for-shareplay/id1573083328?l=en) | [@Guessinggameap p](https://twitter.com/guessinggameapp) | `❇️` | [🇺🇸 Greg Gardner](https://twitter.com/gregggreg2) |
 | 14 | <img src="Other/Images/Icons/Icons21/skaffer.PNG" width="15px" lenght="15px"> [Skaffer](https://apps.apple.com/us/app/id1507248426) | [@Skaffer_app](https://twitter.com/skaffer_app) | `❇️` | [🇧🇾 Egor Iskrenkov](https://twitter.com/eiskrenkov) |
@@ -107,7 +109,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 
 <hr>
 
-### Data <br /> 
+### Data
 
 `🇺🇸 × 5` `🇺🇦 × 1` `🇫🇷 × 2` `🇮🇳 × 2` `🇮🇪 × 2` `🇩🇪 × 3` `🇳🇴 × 3` `🇨🇦 × 2` `🇬🇧 × 3` `🇳🇱 × 3` `🇧🇾 × 1`
 
@@ -116,13 +118,5 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 `❇️ × 23` `✴️ × 4` 
 
 <br />
-
-### Developers info 
-
-<br />
-
-Coming soon!!
-
-<br /> <br />
 
 # **2020**
