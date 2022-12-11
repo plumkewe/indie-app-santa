@@ -60,13 +60,12 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 
 [<img alt="Blackbox" width="103px" lenght="222px" src="https://github.com/plumkewe/indie-app-santa/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/l1.png" />](https://apps.apple.com/it/app/blackbox-brain-puzzles/id962969578?l=en) [<img alt="Crouton" width="103px" lenght="222px"  src="https://github.com/plumkewe/indie-app-santa/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/c2.png" />](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) [<img alt="Structured" width="103px" lenght="222px"  src="https://github.com/plumkewe/indie-app-santa/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/r3.png" />](https://apps.apple.com/it/app/structured-daily-planner/id1499198946?l=en)
 
-
 ###### You can click on them :) If you want to "grab" icons from App Store i made this simple shortcut: [Icons](https://www.icloud.com/shortcuts/6604f67a715e4db39cf2b7766b16ddf1)
 
 <br />
 
-`❇️ Free` `✴️ Discount` `💟 Awesome` `☁️ No info` <br />
 
+`❇️ Free` `✴️ Discount` `💟 Awesome` `☁️ No info` <br />
 
 | **Day** | **App** | **Twitter** | **Free?**| **Dev**|
 |:--: | :-- | :-- | :--: | :-- |
@@ -81,7 +80,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 | 9 | <img src="Other/Images/Icons/Icons21/bluebird.PNG" width="15px" lenght="15px"> [Bluebird Focus Timer](https://apps.apple.com/app/id1478757472) | [@Bluebird_app](https://twitter.com/bluebird_app) | `✴️` | [DFS](https://twitter.com/limited_dfs) & [TopoloGiraffe](https://twitter.com/topologiraffe) |
 | 10 | <img src="Other/Images/Icons/Icons21/pastepal.PNG" width="15px" lenght="15px"> [Paste Pal](https://apps.apple.com/app/id1503446680) | [@PastePalApp](https://twitter.com/PastePalApp) | `✴️` | [Khoa](https://twitter.com/onmyway133) |
 | 11 | [Wynk Widget](https://apps.apple.com/us/app/wynk-widget/id1540207299) | [@WynkApp](https://twitter.com/WynkApp) | `❇️` | [🇨🇦 Ian Keen](https://twitter.com/IanKay) |
-| 12 | <img src="Other/Images/Icons/Icons21/guessinggame.PNG" width="15px" lenght="15px"> [Guessing Game for SharePlay](https://apps.apple.com/it/app/guessing-game-for-shareplay/id1573083328?l=en) | [@Guessinggameap p](https://twitter.com/guessinggameapp) | `❇️` | [🇺🇸 Greg Gardner](https://twitter.com/gregggreg2) |
+| 12 | <img src="Other/Images/Icons/Icons21/guessinggame.PNG" width="15px" lenght="15px"> [Guessing Game for SharePlay](https://apps.apple.com/it/app/guessing-game-for-shareplay/id1573083328?l=en) | [@Guessinggameapp](https://twitter.com/guessinggameapp) | `❇️` | [🇺🇸 Greg Gardner](https://twitter.com/gregggreg2) |
 | 14 | <img src="Other/Images/Icons/Icons21/skaffer.PNG" width="15px" lenght="15px"> [Skaffer](https://apps.apple.com/us/app/id1507248426) | [@Skaffer_app](https://twitter.com/skaffer_app) | `❇️` | [🇧🇾 Egor Iskrenkov](https://twitter.com/eiskrenkov) |
 | 15 | <img src="Other/Images/Icons/Icons21/stickerdoodle.PNG" width="15px" lenght="15px"> [Sticker Doodle](https://apps.apple.com/app/apple-store/id1576281695) | [@StickerDoodler](https://twitter.com/StickerDoodler) | `❇️` `💟` | [Chad Etzel](https://twitter.com/jazzychad) |
 | 16 | <img src="Other/Images/Icons/Icons21/calory.PNG" width="15px" lenght="15px"> [Calory](https://apps.apple.com/it/app/calory-nutrition-diet-coach/id1441252752?l=en) | [@Calory_app](https://twitter.com/Calory_app) | `❇️` |  [🇺🇸 Kriss Smolka](https://twitter.com/ksmolka) |
