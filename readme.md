@@ -40,7 +40,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 | 8 | <img src="Other/Images/Icons/safe-space.PNG" width="15px" lenght="15px"> [Safe Space](https://apps.apple.com/it/app/safe-space-hide-photo-video/id1536734125?l=en) | `☁️` | `✴️ €4.99 instead of €14.99` | [Dmitry Petrov](https://twitter.com/satanworker) | `📱` | [`💬`Useless san...](https://reddit.com/r/AppHookup/comments/zfm7p1/ios_safe_space_hide_photo_video_iap_1499_499/) | [`🔗`](https://appraven.net/openLink.php?appId=1638481575) |
 | 9 | <img src="Other/Images/Icons/nowplaying.PNG" width="15px" lenght="15px"> [Now Playing](https://apps.apple.com/it/app/nowplaying-music-facts/id1596487035?l=en) | [@NowPlayingGold](https://twitter.com/nowplayinggold) | `✴️ €0.99 instead of €24.99` | [🇳🇱 Hidde van der Ploeg](https://twitter.com/hiddevdploeg) | `📱` `⌚️` `iPad` | [`💬`So Nowplaying...](https://reddit.com/r/AppHookup/comments/zggno5/ios_universalnowplayingiap_2499_099/) | [`🔗`](https://appraven.net/openLink.php?appId=1596487035) |
 | 10 | <img src="Other/Images/Icons/calzy.PNG" width="15px" lenght="15px"> [Calzy](https://apps.apple.com/us/app/calzy/id623690732?ign-itscg=30200&ign-itsct=apps_box_link) | `☁️` | `✴️ €1.99 instead of €4.99` | [🇮🇳 Raja Vijayaraman](https://twitter.com/rajavijayaraman) | `📱` `⌚️` `iPad` | [`💬`Have owned th...](https://www.reddit.com/r/AppHookup/comments/zhjape/ios_universal_calzy_499_199_modern_calculator/) | [`🔗`](https://appraven.net/apps/detail.php?appId=623690732) |
-| 11 | <img src="Other/Images/Icons/weatherontheway.PNG" width="15px" lenght="15px"> [Weather on the way](https://apps.apple.com/us/app/weather-on-the-way/id1471394318) | [@WeatherOnTheWay](https://twitter.com/weatherontheway) | `✴️ €4.99 instead of €24.99 (sub)` | [Piotr Knapczyk](https://twitter.com/piotr_knapczyk) | `📱` `iPad` | [`💬`This app is actua](https://www.reddit.com/r/AppHookup/comments/zikjrb/ios_weather_on_the_way_2499_499_indie_app_santa/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1471394318) |
+| 11 | <img src="Other/Images/Icons/weatherontheway.PNG" width="15px" lenght="15px"> [Weather on the way](https://apps.apple.com/us/app/weather-on-the-way/id1471394318) | [@WeatherOnTheWay](https://twitter.com/weatherontheway) | `✴️ €4.99 instead of €24.99 sub` | [Piotr Knapczyk](https://twitter.com/piotr_knapczyk) | `📱` `iPad` | [`💬`This app is actua...](https://www.reddit.com/r/AppHookup/comments/zikjrb/ios_weather_on_the_way_2499_499_indie_app_santa/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1471394318) |
 
 <hr>
 
@@ -115,7 +115,6 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 
 `❇️ × 23` `✴️ × 4` 
 
-<br />
 
 
 # **2020**
