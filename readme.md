@@ -119,7 +119,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 
 <br />
 
-#### Developers info 
+### Developers info 
 
 <br />
 
