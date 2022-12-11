@@ -50,7 +50,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 
 <br />
 
-`❇️ × 6` `✴️ × 6`
+`❇️ × 5` `✴️ × 6`
 
 <br /> <br />
 
