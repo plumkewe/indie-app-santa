@@ -136,7 +136,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 `❇️ Free` `✴️ Discount` <br />
 
 | **Day** | **App** | **Twitter Post** | **Free?**|
-|:--: | :-- | :-- | :--: |
+|:--: | :-- | :-- | :-- |
 | 1 | <img src="Other/Images/Icons/Icons20/comingsoon.png" width="15px" lenght="15px"> [Lunch Money](https://t.co/Da9qDOcFxK) | [`🔗`](https://twitter.com/indieappsanta/status/1356104996102656003?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ First year 50% off` |
 | 2 | <img src="Other/Images/Icons/Icons20/comingsoon.png" width="15px" lenght="15px"> [BodyOK](https://apps.apple.com/it/app/bodyok-intermittent-fasting/id1472114109?ign-itscg=30200&ign-itsct=apps_box) | [`🔗`](https://twitter.com/indieappsanta/status/1356467382273732609?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
 | 3 | <img src="Other/Images/Icons/Icons20/comingsoon.png" width="15px" lenght="15px"> [Orbit](https://apps.apple.com/app/orbit-time-based-invoicing/id1501298198) | [`🔗`](https://twitter.com/indieappsanta/status/1356829771326349315?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 3 Moths -75% & 1 year -75%` |
@@ -177,7 +177,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 `❇️ Free` `✴️ Discount` <br />
 
 | **Day** | **App** | **Twitter Post** | **Free?**|
-|:--: | :-- | :-- | :--: |
+|:--: | :-- | :-- | :-- |
 | 1 | <img src="Other/Images/Icons/Icons20/comingsoon.png" width="15px" lenght="15px"> [Apollo](https://apps.apple.com/app/id1373682251) | [`🔗`](https://twitter.com/indieappsanta/status/1366251855421059074?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
 | 2 | <img src="Other/Images/Icons/Icons20/comingsoon.png" width="15px" lenght="15px"> [Birthday Reminder App & Widget](https://apps.apple.com/app/id1550516996) | [`🔗`](https://twitter.com/indieappsanta/status/1366614242103857159?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 50% off` |
 
