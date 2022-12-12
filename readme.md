@@ -103,12 +103,14 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 | **Day** | **App** | **Twitter** | **Free?**| **Dev**|
 |:--: | :-- | :-- | :--: | :-- |
 | 25 | <img src="Other/Images/Icons/Icons21/soor.PNG" width="15px" lenght="15px"> [Soor](https://apps.apple.com/app/id1439731526?ls=1) | [@Soor_app](https://twitter.com/soor_app) | `✴️` `💟` | [🇮🇳 Tanmay Sonawane](https://twitter.com/tanmays) |
-| 27 | <img src="Other/Images/Icons/Icons21/ronron.PNG" width="15px" lenght="15px"> [RonRon: breathing & relaxation](https://apps.apple.com/app/ronron/id1588309394) | [@Ronron__app](https://twitter.com/ronron__app) | `❇️` | [🇫🇷 Pierre Boudoin](https://twitter.com/pboudoin) |
+| 27 | <img src="Other/Images/Icons/Icons21/ronron.PNG" width="15px" lenght="15px"> [RonRon](https://apps.apple.com/app/ronron/id1588309394) | [@Ronron__app](https://twitter.com/ronron__app) | `❇️` | [🇫🇷 Pierre Boudoin](https://twitter.com/pboudoin) |
 | 28 | Navi | `☁️` | ❇️ [ℹ️ No more available](https://twitter.com/jordibruin/status/1554371644742942723?s=20&t=NIzP7rfrw3KBjWCGycl6GQ) | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) |
 | 29 | <img src="Other/Images/Icons/Icons21/meddify.PNG" width="15px" lenght="15px"> [Meddify](https://apps.apple.com/it/app/meddify-medication-management/id1562891453?l=en) | `☁️` | `❇️` | [🇺🇦 Oleksandr Bandyliuk](https://twitter.com/Bandyliuk) |
 | 30 | <img src="Other/Images/Icons/Icons21/nackernews.PNG" width="15px" lenght="15px"> [Hacker News](https://apps.apple.com/it/app/hacker-news-latest-in-tech/id1573004386?l=en) | `☁️` | `❇️` | [🇺🇸 Eric Lewis](https://twitter.com/ericlewis) |
 
 <hr>
+
+###### [Summary](indie-app-santa/Other/Summaries/2021summary.JPG) <br />
 
 ### Data
 
