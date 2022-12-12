@@ -140,10 +140,10 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 `❇️ Free` `✴️ Discount` `💟 Awesome`  <br />
 
 | **Day** | **App** | **Twitter Post** | **Free?**|
-| 4 | [Avary 1]() | [`🔗`](https://twitter.com/indieappsanta/status/1334729538379657216?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
-| 5 | [The Wallpaper App ](https://apps.apple.com/us/app/the-wallpaper-app/id1518228413) | [`🔗`](https://twitter.com/indieappsanta/status/1335086532143755265?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 4 | Avary 1 | [`🔗`](https://twitter.com/indieappsanta/status/1334729538379657216?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 5 | [The Wallpaper App](https://apps.apple.com/us/app/the-wallpaper-app/id1518228413) | [`🔗`](https://twitter.com/indieappsanta/status/1335086532143755265?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
 | 6 | [Santa's Naughty or Nice List](https://apps.apple.com/us/app/santas-naughty-or-nice-list/id522851505) | [`🔗`](https://twitter.com/indieappsanta/status/1335449639378702336?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
-| 7 | [Remote NumPad Keyboard ](https://apps.apple.com/us/app/remote-keypad-numpad-pro/id1135300319) | [`🔗`](https://twitter.com/indieappsanta/status/1335811465622790144?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 7 | [Remote NumPad Keyboard](https://apps.apple.com/us/app/remote-keypad-numpad-pro/id1135300319) | [`🔗`](https://twitter.com/indieappsanta/status/1335811465622790144?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
 | 8 | [HLTH Posture & Break Reminders](https://apps.apple.com/it/app/hlth-posture-break-reminders/id1503879351?mt=12) | [`🔗`](https://twitter.com/indieappsanta/status/1336176062011674630?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
 | 9 | [Weight tracker](https://apps.apple.com/us/app/vekt-weight-tracking/id1114721073) | [`🔗`](https://twitter.com/indieappsanta/status/1336538822209888258?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
 | 10 | [AC Helper](https://apps.apple.com/us/app/ac-helper/id1508764244) | [`🔗`](https://twitter.com/indieappsanta/status/1336899893747740672?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 50% off` |
@@ -163,7 +163,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 | 26 | [Screen Mirroring](https://apps.apple.com/app/id1468495939) | [`🔗`](https://twitter.com/indieappsanta/status/1342698505928925184?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
 | 27 | [Bolt](https://apps.apple.com/us/app/bolt-weight-lifting-journal/id1439649927) | [`🔗`](https://twitter.com/indieappsanta/status/1343059030692904960?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 50% off` |
 | 28 | [Tunable](https://apps.apple.com/us/app/tunable-music-practice-tools/id608540795) | [`🔗`](https://twitter.com/indieappsanta/status/1343423441546977280?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
-| 29 | [Sticky Widgets](https://apps.apple.com/us/app/sticky-widgets/id1533254320) | [`🔗`](https://twitter.com/indieappsanta/status/1343784054664126465?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 67% off` | 
+| 29 | [Sticky Widgets](https://apps.apple.com/us/app/sticky-widgets/id1533254320) | [`🔗`](https://twitter.com/indieappsanta/status/1343784054664126465?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 67% off` |
 | 30 | [Highlighted](https://apps.apple.com/us/app/highlighted-book-highlighter/id1480216009) | [`🔗`](https://twitter.com/indieappsanta/status/1344188514943070208?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `🐨 Discover` |
 
 <hr>
