@@ -139,7 +139,8 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 
 `❇️ Free` `✴️ Discount` `💟 Awesome`  <br />
 
-| **Day** | **App** | **Twitter Post** | **Free?**|
+| **Day** | **App** | **Twitter Post** | **Free?** |
+|:--: | :-- | :-- | :-- | :-- |
 | 4 | Avary 1 | [`🔗`](https://twitter.com/indieappsanta/status/1334729538379657216?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
 | 5 | [The Wallpaper App](https://apps.apple.com/us/app/the-wallpaper-app/id1518228413) | [`🔗`](https://twitter.com/indieappsanta/status/1335086532143755265?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
 | 6 | [Santa's Naughty or Nice List](https://apps.apple.com/us/app/santas-naughty-or-nice-list/id522851505) | [`🔗`](https://twitter.com/indieappsanta/status/1335449639378702336?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
