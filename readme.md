@@ -11,7 +11,7 @@ You can even set up a **widget** via [**Scriptable**](https://apps.apple.com/it/
 
 <br />
 
-### Index <br /> 
+## Index <br /> 
 - [2022](#2022) <br />
 - [2021](#2021) <br />
 - [2020](#2020) <br />
@@ -135,6 +135,88 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 
 <br />
 
+## **December**
+
+`❇️ Free` `✴️ Discount` `💟 Awesome`  <br />
+
+| **Day** | **App** | **Twitter Post** | **Free?**|
+| 4 | [Avary 1]() | [`🔗`](https://twitter.com/indieappsanta/status/1334729538379657216?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 5 | [The Wallpaper App ](https://apps.apple.com/us/app/the-wallpaper-app/id1518228413) | [`🔗`](https://twitter.com/indieappsanta/status/1335086532143755265?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 6 | [Santa's Naughty or Nice List](https://apps.apple.com/us/app/santas-naughty-or-nice-list/id522851505) | [`🔗`](https://twitter.com/indieappsanta/status/1335449639378702336?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 7 | [Remote NumPad Keyboard ](https://apps.apple.com/us/app/remote-keypad-numpad-pro/id1135300319) | [`🔗`](https://twitter.com/indieappsanta/status/1335811465622790144?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 8 | [HLTH Posture & Break Reminders](https://apps.apple.com/it/app/hlth-posture-break-reminders/id1503879351?mt=12) | [`🔗`](https://twitter.com/indieappsanta/status/1336176062011674630?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 9 | [Weight tracker](https://apps.apple.com/us/app/vekt-weight-tracking/id1114721073) | [`🔗`](https://twitter.com/indieappsanta/status/1336538822209888258?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 10 | [AC Helper](https://apps.apple.com/us/app/ac-helper/id1508764244) | [`🔗`](https://twitter.com/indieappsanta/status/1336899893747740672?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 50% off` |
+| 11 | [Pocket Rocket](https://apps.apple.com/us/app/pocket-rocket/id1493916909) | [`🔗`](https://twitter.com/indieappsanta/status/1337261258580615168?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 12 | [Easy Calendar](https://apps.apple.com/app/easy-calendar/id421724209) | [`🔗`](https://twitter.com/indieappsanta/status/1337623346780008449?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 15 | [ConnectKit](https://apps.apple.com/it/app/connectkit/id1534510889) | [`🔗`](https://twitter.com/indieappsanta/status/1338711861508837376?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 50% off` |
+| 16 | [Foldify](https://apps.apple.com/us/app/foldify-create-print-fold/id527118971) | [`🔗`](https://twitter.com/indieappsanta/status/1339072764204879873?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 17 | [Nudget](https://apps.apple.com/us/app/nudget-spending-tracker/id1517339257) | [`🔗`](https://twitter.com/indieappsanta/status/1339435218382536706?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 75% off` |
+| 18 | [Soosee](https://apps.apple.com/us/app/soosee-food-scanner/id1502026145) | [`🔗`](https://twitter.com/indieappsanta/status/1339797541005758465?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 19 | [PhotInfo](https://apps.apple.com/us/app/photinfo/id597139381) | [`🔗`](https://twitter.com/indieappsanta/status/1340159927923265538?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 20 | [OpenBudget](https://apps.apple.com/us/app/openbudget-budget-and-save/id1526973735) | [`🔗`](https://twitter.com/indieappsanta/status/1340522070954926086?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 85% off` |
+| 21 | [SolarWatch Sunrise Sunset Time](https://apps.apple.com/us/app/solarwatch-daylight-widget/id1191365122) | [`🔗`](https://twitter.com/indieappsanta/status/1340884705751818242?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 70% off` | 
+| 22 | [Dark Noise](https://apps.apple.com/us/app/dark-noise/id1465439395) | [`🔗`](https://twitter.com/indieappsanta/status/1341247092304433152?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 50% off` |
+| 23 | [Pomodoro Timer](https://apps.apple.com/us/app/focused-work-stay-productive/id1523968394) | [`🔗`](https://twitter.com/indieappsanta/status/1341612595535630337?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️ Free year` |
+| 24 | [Countdown App & Widget](https://apps.apple.com/us/app/widget-studio-event-countdown/id1533996161) | [`🔗`](https://twitter.com/indieappsanta/status/1341973399288094720?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` | 
+| 25 | [Usage](https://apps.apple.com/us/app/usage-monitor/id970353453) | [`🔗`](https://twitter.com/indieappsanta/status/1342337525613010944?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 26 | [Screen Mirroring](https://apps.apple.com/app/id1468495939) | [`🔗`](https://twitter.com/indieappsanta/status/1342698505928925184?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 27 | [Bolt](https://apps.apple.com/us/app/bolt-weight-lifting-journal/id1439649927) | [`🔗`](https://twitter.com/indieappsanta/status/1343059030692904960?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 50% off` |
+| 28 | [Tunable](https://apps.apple.com/us/app/tunable-music-practice-tools/id608540795) | [`🔗`](https://twitter.com/indieappsanta/status/1343423441546977280?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 29 | [Sticky Widgets](https://apps.apple.com/us/app/sticky-widgets/id1533254320) | [`🔗`](https://twitter.com/indieappsanta/status/1343784054664126465?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 67% off` | 
+| 30 | [Highlighted](https://apps.apple.com/us/app/highlighted-book-highlighter/id1480216009) | [`🔗`](https://twitter.com/indieappsanta/status/1344188514943070208?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `🐨 Discover` |
+
+<hr>
+
+### Data <br /> 
+
+`❇️ × 16` `✴️ × 8` 
+
+<br />
+
+## **Jenuary**
+
+`❇️ Free` `✴️ Discount` `💟 Awesome`  <br />
+
+| **Day** | **App** | **Twitter Post** | **Free?**|
+|:--: | :-- | :-- | :-- |
+| 2 | [Tasks](https://apps.apple.com/in/app/tasks-to-do-lists-reminders/id1502903102) | [`🔗`](https://twitter.com/indieappsanta/status/1345233356955344896?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $4.99/year, lifetime: $24.99` |
+| 3 | [Pathways](https://apps.apple.com/app/id1459259446) | [`🔗`](https://twitter.com/indieappsanta/status/1345631698290155524?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ Remove Ads: $0` `✴️ Pack of 20 Hints: $0.99` |
+| 4 | [Themed](https://apps.apple.com/us/app/themed/id1532653006) | [`🔗`](https://twitter.com/indieappsanta/status/1345958134225879040?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️` |
+| 5 | [Money Flow](https://apps.apple.com/us/app/money-flow-expense-tracker/id1511066535) | [`🔗`](https://twitter.com/indieappsanta/status/1346320522943062017?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $0.99` |
+| 6 | [Book Tracker](https://apps.apple.com/us/app/book-track-gestore-di-libri/id1491660771) | [`🔗`](https://twitter.com/indieappsanta/status/1346682908719898627?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $1.99` |
+| 7 | [TiMe](https://apps.apple.com/app/id1525675446) | [`🔗`](https://twitter.com/indieappsanta/status/1347045297688465408?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️` |
+| 8 | [Iconboard](https://apps.apple.com/app/iconboard/id1535254664) | [`🔗`](https://twitter.com/indieappsanta/status/1347407687030501378?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ Free Orb Icon Pack` `✴️ Pro Unlock at $2.99` |
+| 9 | [Outgoings](https://apps.apple.com/app/id1498070873) | [`🔗`](https://twitter.com/indieappsanta/status/1347770075084947456?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️` |
+| 10 | [CheezyCam](https://apps.apple.com/us/app/cheezycam/id1494567419) | [`🔗`](https://twitter.com/indieappsanta/status/1348132463034458114?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ Free Pro, Free animals sound pack` |
+| 11 | [Sofa]](https://apps.apple.com/app/id1276554886) | [`🔗`](https://twitter.com/indieappsanta/status/1348494849415122945?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ All winter themes are free` |
+| 12 | [Codeshot](https://apps.apple.com/app/id1541665460) | [`🔗`](https://twitter.com/indieappsanta/status/1348860677625163776?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️` |
+| 13 | [DuoCam Multicam video camera](https://apps.apple.com/it/app/duocam-multicam-video-camera/id1482277903) | [`🔗`](https://twitter.com/indieappsanta/status/1349219623762161665?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️` |
+| 14 | [Marvis Pro](https://apps.apple.com/app/id1447768809) | [`🔗`](https://twitter.com/indieappsanta/status/1349582011481128960?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $0.99` |
+| 15 | [Cone](https://apps.apple.com/app/id1221305627) | [`🔗`](https://twitter.com/indieappsanta/status/1349944399556452352?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ 60% discount` |
+| 16 | [ShopFella](https://apps.apple.com/app/id1534146687) | [`🔗`](https://twitter.com/indieappsanta/status/1350356657423986689?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️` |
+| 17 | [Kata Puzzle](https://apps.apple.com/app/id1533689261) | [`🔗`](https://twitter.com/indieappsanta/status/1350669175060983810?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ Pack 1 for free` |
+| 19 | [Cre8](https://apps.apple.com/us/app/id1529769524) | [`🔗`](https://twitter.com/indieappsanta/status/1351450659376275456?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $9.99` |
+| 20 | [Popcorn Movies](https://apps.apple.com/app/id1400768489) | [`🔗`](https://twitter.com/indieappsanta/status/1351756338901245952?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ 1 Year Subscription at $4.99, Lifetime at $19.99 ` |
+| 21 | [Fenix for Twitter](https://apps.apple.com/app/id1437821840) | [`🔗`](https://twitter.com/indieappsanta/status/1352118726968053762?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $1.99` |
+| 22 | [RCKit](https://apps.apple.com/app/id1544144499) | [`🔗`](https://twitter.com/indieappsanta/status/1352481115014115328?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $0.99` |
+| 23 | [Sam](https://apps.apple.com/app/id1468088479) | [`🔗`](https://twitter.com/indieappsanta/status/1352843503773093888?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $5.99 |
+| 24 | [Clearful Daily Journal & Diary](https://apps.apple.com/us/app/id1513257639) | [`🔗`](https://twitter.com/indieappsanta/status/1353205890111815680?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ Free year of Pro ` |
+| 25 | [Nihongo](https://apps.apple.com/app/id881697245) | [`🔗`](https://twitter.com/indieappsanta/status/1353568279911137286?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $24.99` |
+| 26 | [Remote Mouse & Keyboard Pro](https://apps.apple.com/app/id884153085) | [`🔗`](https://twitter.com/indieappsanta/status/1353930669211095040?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️` |
+| 28 | [Everlog](https://apps.apple.com/app/everlog/id1519935634) | [`🔗`](https://twitter.com/indieappsanta/status/1355017830073249793?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $4.99` |
+| 29 | [Charty for Shortcuts](https://apps.apple.com/app/id1494386093?ls=1) | [`🔗`](https://twitter.com/indieappsanta/status/1355017830073249793?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $0.99` |
+| 30 | [Learn Japanese](https://apps.apple.com/app/id1541592138) | [`🔗`](https://twitter.com/indieappsanta/status/1355380219130097665?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ Pro Lifetime at 70% off` `❇️ 1 month free` |
+| 31 | [Liftin' Workout Tracker](https://apps.apple.com/app/id1445041669) | [`🔗`](https://twitter.com/indieappsanta/status/1355742607997952006?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ Year for free` |
+
+<hr>
+
+### Data <br /> 
+
+`❇️ × 15` `✴️ × 16` 
+
+<br />
+
 
 ## **February**
 
@@ -169,6 +251,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 | 26 | <img src="Other/Images/Icons/Icons20/nodeshifter.PNG" width="15px" lenght="15px"> [Nodeshifter](https://apps.apple.com/app/id1331367687) | [`🔗`](https://twitter.com/indieappsanta/status/1365164691375468546?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 60% off` |
 | 28 | <img src="Other/Images/Icons/Icons20/dailyplanner.PNG" width="15px" lenght="15px"> [Daily Planner](https://apps.apple.com/app/id1482922018) | [`🔗`](https://twitter.com/indieappsanta/status/1365889465487560707?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 1 month free` |
 
+<hr>
 
 ### Data <br />
 
@@ -184,6 +267,8 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 |:--: | :-- | :-- | :-- |
 | 1 | <img src="Other/Images/Icons/Icons20/apollo.PNG" width="15px" lenght="15px"> [Apollo](https://apps.apple.com/app/id1373682251) | [`🔗`](https://twitter.com/indieappsanta/status/1366251855421059074?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
 | 2 | <img src="Other/Images/Icons/Icons20/birthday.PNG" width="15px" lenght="15px"> [Birthday Reminder App & Widget](https://apps.apple.com/app/id1550516996) | [`🔗`](https://twitter.com/indieappsanta/status/1366614242103857159?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 50% off` |
+
+<hr>
 
 ### Data <br />
 
