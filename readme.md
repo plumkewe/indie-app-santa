@@ -189,7 +189,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 | 8 | [Iconboard](https://apps.apple.com/app/iconboard/id1535254664) | [`🔗`](https://twitter.com/indieappsanta/status/1347407687030501378?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ Free Orb Icon Pack` `✴️ Pro Unlock at $2.99` |
 | 9 | [Outgoings](https://apps.apple.com/app/id1498070873) | [`🔗`](https://twitter.com/indieappsanta/status/1347770075084947456?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️` |
 | 10 | [CheezyCam](https://apps.apple.com/us/app/cheezycam/id1494567419) | [`🔗`](https://twitter.com/indieappsanta/status/1348132463034458114?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ Free Pro, Free animals sound pack` |
-| 11 | [Sofa]](https://apps.apple.com/app/id1276554886) | [`🔗`](https://twitter.com/indieappsanta/status/1348494849415122945?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ All winter themes are free` |
+| 11 | [Sofa](https://apps.apple.com/app/id1276554886) | [`🔗`](https://twitter.com/indieappsanta/status/1348494849415122945?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ All winter themes are free` |
 | 12 | [Codeshot](https://apps.apple.com/app/id1541665460) | [`🔗`](https://twitter.com/indieappsanta/status/1348860677625163776?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️` |
 | 13 | [DuoCam Multicam video camera](https://apps.apple.com/it/app/duocam-multicam-video-camera/id1482277903) | [`🔗`](https://twitter.com/indieappsanta/status/1349219623762161665?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️` |
 | 14 | [Marvis Pro](https://apps.apple.com/app/id1447768809) | [`🔗`](https://twitter.com/indieappsanta/status/1349582011481128960?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $0.99` |
