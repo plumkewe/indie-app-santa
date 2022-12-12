@@ -108,9 +108,9 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 | 29 | <img src="Other/Images/Icons/Icons21/meddify.PNG" width="15px" lenght="15px"> [Meddify](https://apps.apple.com/it/app/meddify-medication-management/id1562891453?l=en) | `☁️` | `❇️` | [🇺🇦 Oleksandr Bandyliuk](https://twitter.com/Bandyliuk) |
 | 30 | <img src="Other/Images/Icons/Icons21/nackernews.PNG" width="15px" lenght="15px"> [Hacker News](https://apps.apple.com/it/app/hacker-news-latest-in-tech/id1573004386?l=en) | `☁️` | `❇️` | [🇺🇸 Eric Lewis](https://twitter.com/ericlewis) |
 
-<hr>
+###### [Summary](https://github.com/plumkewe/indie-app-santa/blob/d19503517d2a327c433304f8bd59afcde1d05581/Other/Summaries/2021summary.JPG) <br />
 
-###### [Summary](indie-app-santa/Other/Summaries/2021summary.JPG) <br />
+<hr>
 
 ### Data
 
