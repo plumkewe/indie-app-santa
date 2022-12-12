@@ -7,9 +7,14 @@ You can follow the official [**Twitter**](https://twitter.com/indieappsanta?s=21
 You can even set up a **widget** via [**Scriptable**](https://apps.apple.com/it/app/scriptable/id1405459188?l=en) app! Here's the [**code**](https://gist.github.com/frboulais/2a11ac628faacf2532d037314324e1a4). 
 ###### (see the preview [**here**](https://github.com/plumkewe/indie-app-santa/blob/97b735b33992ce1b2d7a5bcb010ae9f7da920e01/Other/Images/widgets.PNG)) <br /> <br />
 
-Note that this repository has nothing to do with Indie app santa, it's made by me just for fun and for archive. <br />
+! Note that this repository has nothing to do with Indie app santa, it's made by me just for fun and for archive. <br />
 
-# 🎄 Have an awesome christmas (for those who celebrate it :) ) 
+<br />
+
+### Index <br /> 
+- [2022](#2022) <br />
+- [2021](#2021) <br />
+- [2020](#2020) <br />
 
 <br />
 
