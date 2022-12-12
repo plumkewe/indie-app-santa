@@ -41,16 +41,18 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 | 9 | <img src="Other/Images/Icons/nowplaying.PNG" width="15px" lenght="15px"> [Now Playing](https://apps.apple.com/it/app/nowplaying-music-facts/id1596487035?l=en) | [@NowPlayingGold](https://twitter.com/nowplayinggold) | `✴️ €0.99 instead of €24.99` | [🇳🇱 Hidde van der Ploeg](https://twitter.com/hiddevdploeg) | `📱` `⌚️` `iPad` | [`💬` So Nowplaying...](https://reddit.com/r/AppHookup/comments/zggno5/ios_universalnowplayingiap_2499_099/) | [`🔗`](https://appraven.net/openLink.php?appId=1596487035) |
 | 10 | <img src="Other/Images/Icons/calzy.PNG" width="15px" lenght="15px"> [Calzy](https://apps.apple.com/us/app/calzy/id623690732?ign-itscg=30200&ign-itsct=apps_box_link) | `☁️` | `✴️ €1.99 instead of €4.99` | [🇮🇳 Raja Vijayaraman](https://twitter.com/rajavijayaraman) | `📱` `⌚️` `iPad` | [`💬` Have owned th...](https://www.reddit.com/r/AppHookup/comments/zhjape/ios_universal_calzy_499_199_modern_calculator/) | [`🔗`](https://appraven.net/apps/detail.php?appId=623690732) |
 | 11 | <img src="Other/Images/Icons/weatherontheway.PNG" width="15px" lenght="15px"> [Weather on the way](https://apps.apple.com/us/app/weather-on-the-way/id1471394318) | [@WeatherOnTheWay](https://twitter.com/weatherontheway) | `✴️ €4.99 instead of €24.99 sub` | [Piotr Knapczyk](https://twitter.com/piotr_knapczyk) | `📱` `iPad` | [`💬` This app is actua...](https://www.reddit.com/r/AppHookup/comments/zikjrb/ios_weather_on_the_way_2499_499_indie_app_santa/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1471394318) |
+| 12 | <img src="Other/Images/Icons/eat5.PNG" width="15px" lenght="15px"> [Eat 5](https://apps.apple.com/it/app/eat-5-build-healthy-habits/id1610892700?l=en) | [@Eat5App](https://twitter.com/eat5app) | `❇️` | [🇮🇪 Marius Capps](https://twitter.com/marius_capps) | `📱` `iPad` | [`💬` Just a head...](https://twitter.com/marius_capps?s=11&t=OylgtaZ0Aljiwk2RWFiuQg) | [`🔗`](https://appraven.net/openLink.php?appId=1610892700) |
+
 
 <hr>
 
 ### Data
 
-`🇩🇪 × 1` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1`
+`🇩🇪 × 1` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1` `🇮🇪 × 1`
 
 <br />
 
-`❇️ × 5` `✴️ × 6`
+`❇️ × 6` `✴️ × 6`
 
 <br /> <br />
 
