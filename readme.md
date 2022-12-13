@@ -175,7 +175,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 
 <br />
 
-## **Jenuary**
+## **January**
 
 `❇️ Free` `✴️ Discount` `💟 Awesome`  <br />
 
