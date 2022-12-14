@@ -47,17 +47,18 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=638b50
 | 10 | <img src="Other/Images/Icons/calzy.PNG" width="15px" lenght="15px"> [Calzy](https://apps.apple.com/us/app/calzy/id623690732?ign-itscg=30200&ign-itsct=apps_box_link) | `☁️` | `✴️ €1.99 instead of €4.99` | [🇮🇳 Raja Vijayaraman](https://twitter.com/rajavijayaraman) | `📱` `⌚️` `iPad` | [`💬` Have owned th...](https://www.reddit.com/r/AppHookup/comments/zhjape/ios_universal_calzy_499_199_modern_calculator/) | [`🔗`](https://appraven.net/apps/detail.php?appId=623690732) |
 | 11 | <img src="Other/Images/Icons/weatherontheway.PNG" width="15px" lenght="15px"> [Weather on the way](https://apps.apple.com/us/app/weather-on-the-way/id1471394318) | [@WeatherOnTheWay](https://twitter.com/weatherontheway) | `✴️ €4.99 instead of €24.99 sub` | [Piotr Knapczyk](https://twitter.com/piotr_knapczyk) | `📱` `iPad` | [`💬` This app is actua...](https://www.reddit.com/r/AppHookup/comments/zikjrb/ios_weather_on_the_way_2499_499_indie_app_santa/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1471394318) |
 | 12 | <img src="Other/Images/Icons/eat5.PNG" width="15px" lenght="15px"> [Eat 5](https://apps.apple.com/it/app/eat-5-build-healthy-habits/id1610892700?l=en) | [@Eat5App](https://twitter.com/eat5app) | `❇️` | [🇮🇪 Marius Capps](https://twitter.com/marius_capps) | `📱` `iPad` | [`💬` Just a head...](https://twitter.com/marius_capps?s=11&t=OylgtaZ0Aljiwk2RWFiuQg) | [`🔗`](https://appraven.net/openLink.php?appId=1610892700) |
-
+| 13 | <img src="Other/Images/Icons/landscape.PNG" width="15px" lenght="15px"> [Landscape](https://apps.apple.com/it/app/landscape-mountaineering/id1500216643?l=en) | [@Landscape_app](https://twitter.com/landscape_app) | `❇️ 1 year free` | [🇺🇸 Cameron Deardorff](https://twitter.com/camdeardorff) |  `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1500216643) |
+| 14 | <img src="Other/Images/Icons/classifier.PNG" width="15px" lenght="15px"> [Classifier](https://apps.apple.com/it/app/classifier-collection-tracker/id1594081352?l=en) | [@Getclassifier](https://twitter.com/getclassifier) | `❇️` | [🇬🇧 Roddy Munro](https://twitter.com/podomunro) | `📱` `💻` `iPad` | [`💬` OMG, finall...](https://www.reddit.com/r/AppHookup/comments/zlbm2c/iosipadosmacos_classifier_pro_iap_1999_free_as/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1594081352) |
 
 <hr>
 
 ### Data
 
-`🇩🇪 × 1` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1` `🇮🇪 × 1`
+`🇩🇪 × 1` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1` `🇮🇪 × 1` `🇬🇧 × 1` `🇺🇸 × 1`
 
 <br />
 
-`❇️ × 6` `✴️ × 6`
+`❇️ × 8` `✴️ × 6`
 
 <br /> <br />
 
@@ -140,7 +141,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 `❇️ Free` `✴️ Discount` `💟 Awesome`  <br />
 
 | **Day** | **App** | **Twitter Post** | **Free?** |
-|:--: | :-- | :-- | :-- | :-- |
+|:--: | :-- | :-- | :-- |
 | 4 | Avary 1 | [`🔗`](https://twitter.com/indieappsanta/status/1334729538379657216?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
 | 5 | [The Wallpaper App](https://apps.apple.com/us/app/the-wallpaper-app/id1518228413) | [`🔗`](https://twitter.com/indieappsanta/status/1335086532143755265?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
 | 6 | [Santa's Naughty or Nice List](https://apps.apple.com/us/app/santas-naughty-or-nice-list/id522851505) | [`🔗`](https://twitter.com/indieappsanta/status/1335449639378702336?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
@@ -208,7 +209,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 | 28 | [Everlog](https://apps.apple.com/app/everlog/id1519935634) | [`🔗`](https://twitter.com/indieappsanta/status/1355017830073249793?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $4.99` |
 | 29 | [Charty for Shortcuts](https://apps.apple.com/app/id1494386093?ls=1) | [`🔗`](https://twitter.com/indieappsanta/status/1355017830073249793?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $0.99` |
 | 30 | [Learn Japanese](https://apps.apple.com/app/id1541592138) | [`🔗`](https://twitter.com/indieappsanta/status/1355380219130097665?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ Pro Lifetime at 70% off` `❇️ 1 month free` |
-| 31 | [Liftin' Workout Tracker](https://apps.apple.com/app/id1445041669) | [`🔗`](https://twitter.com/indieappsanta/status/1355742607997952006?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ Year for free` |
+| 31 | [Liftin' Workout Tracker](https://apps.apple.com/app/id1445041669) | [` `](https://twitter.com/indieappsanta/status/1355742607997952006?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ Year for free` |
 
 <hr>
 
@@ -225,7 +226,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 
 | **Day** | **App** | **Twitter Post** | **Free?**|
 |:--: | :-- | :-- | :-- |
-| 2 | [BodyOK](https://apps.apple.com/it/app/bodyok-intermittent-fasting/id1472114109?ign-itscg=30200&ign-itsct=apps_box) | [`🔗`](https://twitter.com/indieappsanta/status/1356467382273732609?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
+| 2 | [BodyOK](https://apps.apple.com/it/app/bodyok-intermittent-fasting/id1472114109?ign-itscg=30200&ign-itsct=apps_box) | [`🔗`](https://twitter.com/indieappsanta/status/1356467382273732609?s=20 &t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
 | 3 | <img src="Other/Images/Icons/Icons20/orbit.PNG" width="15px" lenght="15px"> [Orbit](https://apps.apple.com/app/orbit-time-based-invoicing/id1501298198) | [`🔗`](https://twitter.com/indieappsanta/status/1356829771326349315?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 3 Moths -75% & 1 year -75%` |
 | 4 | <img src="Other/Images/Icons/Icons20/sceneshot.PNG" width="15px" lenght="15px"> [SceneShot](https://apps.apple.com/it/app/sceneshot/id1451459822) | [`🔗`](https://twitter.com/indieappsanta/status/1357192157128396801?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
 | 5 | <img src="Other/Images/Icons/Icons20/universaltv.PNG" width="15px" lenght="15px"> [TV Remote](https://apps.apple.com/it/app/tv-remote-telecomando-tv-app/id1539419805) | [`🔗`](https://twitter.com/indieappsanta/status/1357554545576923137?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 50% off` |
