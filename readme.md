@@ -176,7 +176,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 
 <br />
 
-## **January**
+## **Jenuary**
 
 `❇️ Free` `✴️ Discount` `💟 Awesome`  <br />
 
@@ -209,7 +209,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 | 28 | [Everlog](https://apps.apple.com/app/everlog/id1519935634) | [`🔗`](https://twitter.com/indieappsanta/status/1355017830073249793?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $4.99` |
 | 29 | [Charty for Shortcuts](https://apps.apple.com/app/id1494386093?ls=1) | [`🔗`](https://twitter.com/indieappsanta/status/1355017830073249793?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $0.99` |
 | 30 | [Learn Japanese](https://apps.apple.com/app/id1541592138) | [`🔗`](https://twitter.com/indieappsanta/status/1355380219130097665?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ Pro Lifetime at 70% off` `❇️ 1 month free` |
-| 31 | [Liftin' Workout Tracker](https://apps.apple.com/app/id1445041669) | [` `](https://twitter.com/indieappsanta/status/1355742607997952006?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ Year for free` |
+| 31 | [Liftin' Workout Tracker](https://apps.apple.com/app/id1445041669) | [`🔗`](https://twitter.com/indieappsanta/status/1355742607997952006?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ Year for free` |
 
 <hr>
 
@@ -226,7 +226,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=5fca86
 
 | **Day** | **App** | **Twitter Post** | **Free?**|
 |:--: | :-- | :-- | :-- |
-| 2 | [BodyOK](https://apps.apple.com/it/app/bodyok-intermittent-fasting/id1472114109?ign-itscg=30200&ign-itsct=apps_box) | [`🔗`](https://twitter.com/indieappsanta/status/1356467382273732609?s=20 &t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
+| 2 | [BodyOK](https://apps.apple.com/it/app/bodyok-intermittent-fasting/id1472114109?ign-itscg=30200&ign-itsct=apps_box) | [`🔗`](https://twitter.com/indieappsanta/status/1356467382273732609?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
 | 3 | <img src="Other/Images/Icons/Icons20/orbit.PNG" width="15px" lenght="15px"> [Orbit](https://apps.apple.com/app/orbit-time-based-invoicing/id1501298198) | [`🔗`](https://twitter.com/indieappsanta/status/1356829771326349315?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 3 Moths -75% & 1 year -75%` |
 | 4 | <img src="Other/Images/Icons/Icons20/sceneshot.PNG" width="15px" lenght="15px"> [SceneShot](https://apps.apple.com/it/app/sceneshot/id1451459822) | [`🔗`](https://twitter.com/indieappsanta/status/1357192157128396801?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
 | 5 | <img src="Other/Images/Icons/Icons20/universaltv.PNG" width="15px" lenght="15px"> [TV Remote](https://apps.apple.com/it/app/tv-remote-telecomando-tv-app/id1539419805) | [`🔗`](https://twitter.com/indieappsanta/status/1357554545576923137?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 50% off` |
