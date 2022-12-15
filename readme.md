@@ -49,7 +49,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | 12 | <img src="Other/Images/Icons/eat5.PNG" width="15px" lenght="15px"> [Eat 5](https://apps.apple.com/it/app/eat-5-build-healthy-habits/id1610892700?l=en) | [@Eat5App](https://twitter.com/eat5app) | `❇️` | [🇮🇪 Marius Capps](https://twitter.com/marius_capps) | `📱` `iPad` | [`💬` Just a head...](https://twitter.com/marius_capps?s=11&t=OylgtaZ0Aljiwk2RWFiuQg) | [`🔗`](https://appraven.net/openLink.php?appId=1610892700) |
 | 13 | <img src="Other/Images/Icons/landscape.PNG" width="15px" lenght="15px"> [Landscape](https://apps.apple.com/it/app/landscape-mountaineering/id1500216643?l=en) | [@Landscape_app](https://twitter.com/landscape_app) | `❇️ 1 year free` | [🇺🇸 Cameron Deardorff](https://twitter.com/camdeardorff) |  `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1500216643) |
 | 14 | <img src="Other/Images/Icons/classifier.PNG" width="15px" lenght="15px"> [Classifier](https://apps.apple.com/it/app/classifier-collection-tracker/id1594081352?l=en) | [@Getclassifier](https://twitter.com/getclassifier) | `❇️` | [🇬🇧 Roddy Munro](https://twitter.com/podomunro) | `📱` `💻` `iPad` | [`💬` OMG, finall...](https://www.reddit.com/r/AppHookup/comments/zlbm2c/iosipadosmacos_classifier_pro_iap_1999_free_as/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1594081352) |
-| 14 | <img src="Other/Images/Icons/dash.PNG" width="15px" lenght="15px"> [Dashkit](https://apps.apple.com/it/app/dashkit-personal-dashboards/id1557027838?l=en) | `☁️` | `✴️ €0.99 instead of €8.40 sub` | [🇮🇹 Matteo Villa](https://twitter.com/mttvll) | `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1557027838) |
+| 15 | <img src="Other/Images/Icons/dash.PNG" width="15px" lenght="15px"> [Dashkit](https://apps.apple.com/it/app/dashkit-personal-dashboards/id1557027838?l=en) | `☁️` | `✴️ €0.99 instead of €8.40 sub` | [🇮🇹 Matteo Villa](https://twitter.com/mttvll) | `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1557027838) |
 
 <hr>
 
@@ -59,7 +59,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 
 <br />
 
-`❇️ × 8` `✴️ × 6`
+`❇️ × 8` `✴️ × 7`
 
 <br /> <br />
 
