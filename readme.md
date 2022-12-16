@@ -29,7 +29,11 @@ A lot of cool apps were spotted on Indie app santa! Like [`💳` **CardPointers*
 
 # **2022**
 
+<br />
+
 There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c60904afd2a981cc206)
+
+<br />
 
 `❇️ Free` `✴️ Discount` `☁️ 🏳️ No info` <br />
 
@@ -75,6 +79,8 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 <br />
 
 There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979a26904afd2a981cc205)
+
+<br />
 
 `❇️ Free` `✴️ Discount` `💟 Awesome` `☁️ 🏳️ No info` <br />
 
