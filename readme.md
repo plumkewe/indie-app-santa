@@ -55,16 +55,17 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | 14 | <img src="Other/Images/Icons/classifier.PNG" width="15px" lenght="15px"> [Classifier](https://apps.apple.com/it/app/classifier-collection-tracker/id1594081352?l=en) | [@Getclassifier](https://twitter.com/getclassifier) | `❇️` | [🇬🇧 Roddy Munro](https://twitter.com/podomunro) | `📱` `💻` `iPad` | [`💬` OMG, finall...](https://www.reddit.com/r/AppHookup/comments/zlbm2c/iosipadosmacos_classifier_pro_iap_1999_free_as/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1594081352) |
 | 14 | <img src="Other/Images/Icons/dash.PNG" width="15px" lenght="15px"> [Dashkit](https://apps.apple.com/it/app/dashkit-personal-dashboards/id1557027838?l=en) | `☁️` | `✴️ €0.99 instead of €8.40 sub` | [🇮🇹 Matteo Villa](https://twitter.com/mttvll) | `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1557027838) |
 | 15 | <img src="Other/Images/Icons/health_exp.PNG" width="15px" lenght="15px"> [Health Export CSV](https://apps.apple.com/it/app/health-export-csv/id1477944755?l=en) | [@Healthexportapp](https://twitter.com/healthexportapp) | `❇️` | [🇨🇿 Tomáš Pařízek](https://twitter.com/TomasParizekCZ) | `📱` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1477944755) |
+| 16 | <img src="Other/Images/Icons/health_exp.PNG" width="15px" lenght="15px"> [Loco Looper](https://apps.apple.com/it/app/loco-looper/id1271717438) | `☁️` | `✴️ €0.99 instead of €4.99` | [🇳🇿 James Vanas](https://twitter.com/jamesvanas) | `📱` `iPad` | [`💬` Love the graph...](https://www.reddit.com/r/AppHookup/comments/znzdaw/ios_loco_looper_499_099_as_a_part_of_indie_app/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1271717438) |
 
 <hr>
 
 ### Data
 
-`🇩🇪 × 1` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1` `🇮🇪 × 1` `🇬🇧 × 1` `🇺🇸 × 1` `🇮🇹 × 1` `🇨🇿 × 1`
+`🇩🇪 × 1` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1` `🇮🇪 × 1` `🇬🇧 × 1` `🇺🇸 × 1` `🇮🇹 × 1` `🇨🇿 × 1` `🇳🇿 × 1`
 
 <br />
 
-`❇️ × 9` `✴️ × 6`
+`❇️ × 9` `✴️ × 7`
 
 <br /> <br />
 
