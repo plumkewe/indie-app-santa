@@ -131,7 +131,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979a
 
 ### Data
 
-`🇺🇸 × 5` `🇺🇦 × 1` `🇫🇷 × 2` `🇮🇳 × 2` `🇮🇪 × 2` `🇩🇪 × 3` `🇳🇴 × 3` `🇨🇦 × 2` `🇬🇧 × 3` `🇳🇱 × 3` ` 🇾 × 1`
+`🇺🇸 × 5` `🇺🇦 × 1` `🇫🇷 × 2` `🇮🇳 × 2` `🇮🇪 × 2` `🇩🇪 × 3` `🇳🇴 × 3` `🇨🇦 × 2` `🇬🇧 × 3` `🇳🇱 × 3` `🇧🇾 × 1`
 
 <br /> 
 
@@ -153,7 +153,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=639798
 
 | **Day** | **App** | **Twitter Post** | **Free?** |
 |:--: | :-- | :-- | :-- |
-| 4 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px">  Avary 1 | [`🔗`](https://twitter.com/indieappsanta/status/1334729538379657216?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️`  |
+| 4 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px">  Avary 1 | [`🔗`](https://twitter.com/indieappsanta/status/1334729538379657216?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
 | 5 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px">  [The Wallpaper App](https://apps.apple.com/us/app/the-wallpaper-app/id1518228413) | [`🔗`](https://twitter.com/indieappsanta/status/1335086532143755265?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
 | 6 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px">  [Santa's Naughty or Nice List](https://apps.apple.com/us/app/santas-naughty-or-nice-list/id522851505) | [`🔗`](https://twitter.com/indieappsanta/status/1335449639378702336?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
 | 7 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px">  [Remote NumPad Keyboard](https://apps.apple.com/us/app/remote-keypad-numpad-pro/id1135300319) | [`🔗`](https://twitter.com/indieappsanta/status/1335811465622790144?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
