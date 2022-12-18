@@ -46,7 +46,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | 5 | <img src="https://github.com/plumkewe/indie-app-santa/blob/b4a37bdc03dff68be80bcc2d35d37a957d3f8494/Other/Images/Icons/scan-it.PNG" width="15px" lenght="15px" alt="Scan-it" title="Scan-it"> [Scan it](https://apps.apple.com/us/app/scan-it-mobile-scanner-pdf/id1509634112) | `☁️` | `❇️` | [🇺🇳 Filip Nemecek](https://twitter.com/nemecek_f) | `📱` `iPad` | [`💬` I assume diagn...](https://www.reddit.com/r/AppHookup/comments/zczd0y/ios_scan_it_pro_499_free_indie_app_santa_day_5/) | [`🔗`](https://appraven.net/openLink.php?appId=1509634112) |
 | 6 | <img src="Other/Images/Icons/mango.PNG" width="15px" lenght="15px"> [ManGo](https://apps.apple.com/app/apple-store/id1604385869) | [@Mango_ios](https://twitter.com/mango_ios) | `❇️` | [🇳🇱 Joost van den Akker](https://twitter.com/joost_akker) | `📱` `⌚️` `iPad` | [`💬` What a great a...](https://www.reddit.com/r/AppHookup/comments/zdoynl/ios_universalmangoiap_399_free/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1604385869) |
 | 7 | <img src="Other/Images/Icons/shipmunk.PNG" width="15px" lenght="15px"> [Shipmunk](https://apps.apple.com/it/app/shipmunk-aso-keywords/id1638481575?l=en) | [@ShipmunkApp](https://twitter.com/ShipmunkApp) | `✴️ 50% off the lifetime price` | [🇳🇴 Khoa](https://twitter.com/onmyway133) & [Kenny](https://twitter.com/khuong291) | `📱` `💻` `iPad` | [`💬`Santa’s on th...](https://www.reddit.com/r/AppHookup/comments/zenl5s/ios_universalshipmunkiap_1999_999/) | [`🔗`](https://appraven.net/openLink.php?appId=1638481575) |
-| 8 | <img src="Other/Images/Icons/safe-space.PNG" width="15px" lenght="15px"> [Safe Space](https://apps.apple.com/it/app/safe-space-hide-photo-video/id1536734125?l=en) | `☁️` | `✴️ €4.99 instead of €14.99` | [Dmitry Petrov](https://twitter.com/satanworker) | `📱` | [`💬`Useless san...](https://reddit.com/r/AppHookup/comments/zfm7p1/ios_safe_space_hide_photo_video_iap_1499_499/) | [`🔗`](https://appraven.net/openLink.php?appId=1638481575) |
+| 8 | <img src="Other/Images/Icons/safe-space.PNG" width="15px" lenght="15px"> [Safe Space](https://apps.apple.com/it/app/safe-space-hide-photo-video/id1536734125?l=en) | `☁️` | `✴️ €4.99 instead of €14.99` | [🇺🇳 Dmitry Petrov](https://twitter.com/satanworker) | `📱` | [`💬`Useless san...](https://reddit.com/r/AppHookup/comments/zfm7p1/ios_safe_space_hide_photo_video_iap_1499_499/) | [`🔗`](https://appraven.net/openLink.php?appId=1638481575) |
 | 9 | <img src="Other/Images/Icons/nowplaying.PNG" width="15px" lenght="15px"> [Now Playing](https://apps.apple.com/it/app/nowplaying-music-facts/id1596487035?l=en) | [@NowPlayingGold](https://twitter.com/nowplayinggold) | `✴️ €0.99 instead of €24.99` | [🇳🇱 Hidde van der Ploeg](https://twitter.com/hiddevdploeg) | `📱` `⌚️` `iPad` | [`💬` So Nowplaying...](https://reddit.com/r/AppHookup/comments/zggno5/ios_universalnowplayingiap_2499_099/) | [`🔗`](https://appraven.net/openLink.php?appId=1596487035) |
 | 10 | <img src="Other/Images/Icons/calzy.PNG" width="15px" lenght="15px"> [Calzy](https://apps.apple.com/us/app/calzy/id623690732?ign-itscg=30200&ign-itsct=apps_box_link) | `☁️` | `✴️ €1.99 instead of €4.99` | [🇮🇳 Raja Vijayaraman](https://twitter.com/rajavijayaraman) | `📱` `⌚️` `iPad` | [`💬` Have owned th...](https://www.reddit.com/r/AppHookup/comments/zhjape/ios_universal_calzy_499_199_modern_calculator/) | [`🔗`](https://appraven.net/apps/detail.php?appId=623690732) |
 | 11 | <img src="Other/Images/Icons/weatherontheway.PNG" width="15px" lenght="15px"> [Weather on the way](https://apps.apple.com/us/app/weather-on-the-way/id1471394318) | [@WeatherOnTheWay](https://twitter.com/weatherontheway) | `✴️ €4.99 instead of €24.99 sub` | [🇺🇳 Piotr Knapczyk](https://twitter.com/piotr_knapczyk) | `📱` `iPad` | [`💬` This app is actua...](https://www.reddit.com/r/AppHookup/comments/zikjrb/ios_weather_on_the_way_2499_499_indie_app_santa/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1471394318) |
@@ -56,6 +56,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | 14 | <img src="Other/Images/Icons/dash.PNG" width="15px" lenght="15px"> [Dashkit](https://apps.apple.com/it/app/dashkit-personal-dashboards/id1557027838?l=en) | `☁️` | `✴️ €0.99 instead of €8.40 sub` | [🇮🇹 Matteo Villa](https://twitter.com/mttvll) | `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1557027838) |
 | 15 | <img src="Other/Images/Icons/health_exp.PNG" width="15px" lenght="15px"> [Health Export CSV](https://apps.apple.com/it/app/health-export-csv/id1477944755?l=en) | [@Healthexportapp](https://twitter.com/healthexportapp) | `❇️` | [🇨🇿 Tomáš Pařízek](https://twitter.com/TomasParizekCZ) | `📱` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1477944755) |
 | 16 | <img src="Other/Images/Icons/loco.PNG" width="15px" lenght="15px"> [Loco Looper](https://apps.apple.com/it/app/loco-looper/id1271717438) | `☁️` | `✴️ €0.99 instead of €4.99` | [🇳🇿 James Vanas](https://twitter.com/jamesvanas) | `📱` `iPad` | [`💬` Love the graph...](https://www.reddit.com/r/AppHookup/comments/znzdaw/ios_loco_looper_499_099_as_a_part_of_indie_app/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1271717438) |
+| 17 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px"> [AI Profile Pic](https://apps.apple.com/it/app/ai-profile-pic-avatar-maker/id6444115082?l=en) | `☁️` | `✴️ €2.99 instead of €6.99` | [🇺🇳 Rony Fedal](https://twitter.com/ronyfadel) | `📱` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=6444115082) |
 
 <hr>
 
@@ -65,7 +66,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 
 <br />
 
-`❇️ × 9` `✴️ × 7`
+`❇️ × 9` `✴️ × 8`
 
 <br /> <br />
 
@@ -130,7 +131,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979a
 
 ### Data
 
-`🇺🇸 × 5` `🇺🇦 × 1` `🇫🇷 × 2` `🇮🇳 × 2` `🇮🇪 × 2` `🇩🇪 × 3` `🇳🇴 × 3` `🇨🇦 × 2` `🇬🇧 × 3` `🇳🇱 × 3` `🇧🇾 × 1`
+`🇺🇸 × 5` `🇺🇦 × 1` `🇫🇷 × 2` `🇮🇳 × 2` `🇮🇪 × 2` `🇩🇪 × 3` `🇳🇴 × 3` `🇨🇦 × 2` `🇬🇧 × 3` `🇳🇱 × 3` ` 🇾 × 1`
 
 <br /> 
 
@@ -152,7 +153,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=639798
 
 | **Day** | **App** | **Twitter Post** | **Free?** |
 |:--: | :-- | :-- | :-- |
-| 4 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px">  Avary 1 | [`🔗`](https://twitter.com/indieappsanta/status/1334729538379657216?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
+| 4 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px">  Avary 1 | [`🔗`](https://twitter.com/indieappsanta/status/1334729538379657216?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️`  |
 | 5 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px">  [The Wallpaper App](https://apps.apple.com/us/app/the-wallpaper-app/id1518228413) | [`🔗`](https://twitter.com/indieappsanta/status/1335086532143755265?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
 | 6 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px">  [Santa's Naughty or Nice List](https://apps.apple.com/us/app/santas-naughty-or-nice-list/id522851505) | [`🔗`](https://twitter.com/indieappsanta/status/1335449639378702336?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
 | 7 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px">  [Remote NumPad Keyboard](https://apps.apple.com/us/app/remote-keypad-numpad-pro/id1135300319) | [`🔗`](https://twitter.com/indieappsanta/status/1335811465622790144?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` |
