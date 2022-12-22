@@ -59,6 +59,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | 17 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px"> [AI Profile Pic](https://apps.apple.com/it/app/ai-profile-pic-avatar-maker/id6444115082?l=en) | `☁️` | `✴️ €2.99 instead of €6.99` | [🇺🇳 Rony Fedal](https://twitter.com/ronyfadel) | `📱` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=6444115082) |
 | 18 | <img src="Other/Images/Icons/music.PNG" width="15px" lenght="15px"> [MusicSmart](https://apps.apple.com/it/app/musicsmart-liner-notes/id1512195368?l=en) | [@MusicSmartApp](https://twitter.com/MusicSmartApp) | `❇️` | [🇧🇷 Marcos Tanaka](https://twitter.com/mactanaka) | `📱` `💻` `📺` `iPad` | [`💬`](https://www.reddit.com/r/AppHookup/comments/zpnaw2/iosmacapple_tv_musicsmart_liner_notes_299_free/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1512195368) |
 | 19 | <img src="Other/Images/Icons/pastle.PNG" width="15px" lenght="15px"> [Pastle](https://apps.apple.com/au/app/pestle-kitchen-recipe-manager/id1574776971?ign-itscg=30200&ign-itsct=apps_box_link) | [@Pestlechef](https://twitter.com/pestlechef) | `✴️ €4.99 instead of €19.99` | [🇦🇺 Will Bishop](https://twitter.com/WillRBishop) | `📱` `iPad` | [`💬` Looks good but su...](https://www.reddit.com/r/AppHookup/comments/zqk7nr/ios_pestle_recipe_organizer_1999_499_first_year/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1574776971) |
+| 20 | <img src="Other/Images/Icons/outgoings.PNG" width="15px" lenght="15px"> [Outgoings](https://apps.apple.com/au/app/pestle-kitchen-recipe-manager/id1574776971?ign-itscg=30200&ign-itsct=apps_box_link) | `☁️` | `✴️ €4.99 instead of €19.99` | [🇺🇳 Gianpeppino Frangiamore](https://twitter.com/gianfrangiamore) | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1498070873) |
 
 <hr>
 
@@ -68,7 +69,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 
 <br />
 
-`❇️ × 10` `✴️ × 9`
+`❇️ × 10` `✴️ × 10`
 
 <br /> <br />
 
@@ -76,7 +77,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 
 ### My top: 
 
-[<img alt="Blackbox" width="103px" lenght="222px" src="https://github.com/plumkewe/indie-app-sant 890'ì   xcxxcxxxddx  a/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/l1.png" />](https://apps.apple.com/it/app/blackbox-brain-puzzles/id962969578?l=en) [<img alt="Crouton" width="103px" lenght="222px"  src="https://github.com/plumkewe/indie-app-santa/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/c2.png" />](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) [<img alt="Structured" width="103px" lenght="222px"  src="https://github.com/plumkewe/indie-app-santa/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/r3.png" />](https://apps.apple.com/it/app/structured-daily-planner/id1499198946?l=en)
+[<img alt="Blackbox" width="103px" lenght="222px" src="https://github.com/plumkewe/indie-app-santa/blob/25133102acf85f3a423148ba3df869d0ff27a453/Other/Images/l1.png" />](https://apps.apple.com/it/app/blackbox-brain-puzzles/id962969578?l=en) [<img alt="Crouton" width="103px" lenght="222px"  src="https://github.com/plumkewe/indie-app-santa/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/c2.png" />](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) [<img alt="Structured" width="103px" lenght="222px"  src="https://github.com/plumkewe/indie-app-santa/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/r3.png" />](https://apps.apple.com/it/app/structured-daily-planner/id1499198946?l=en)
 
 ###### You can click on them :) If you want to "grab" icons from App Store i made this simple shortcut: [Icons](https://www.icloud.com/shortcuts/6604f67a715e4db39cf2b7766b16ddf1)
 
