@@ -60,16 +60,17 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | 18 | <img src="Other/Images/Icons/music.PNG" width="15px" lenght="15px"> [MusicSmart](https://apps.apple.com/it/app/musicsmart-liner-notes/id1512195368?l=en) | [@MusicSmartApp](https://twitter.com/MusicSmartApp) | `❇️` | [🇧🇷 Marcos Tanaka](https://twitter.com/mactanaka) | `📱` `💻` `📺` `iPad` | [`💬`](https://www.reddit.com/r/AppHookup/comments/zpnaw2/iosmacapple_tv_musicsmart_liner_notes_299_free/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1512195368) |
 | 19 | <img src="Other/Images/Icons/pastle.PNG" width="15px" lenght="15px"> [Pastle](https://apps.apple.com/au/app/pestle-kitchen-recipe-manager/id1574776971?ign-itscg=30200&ign-itsct=apps_box_link) | [@Pestlechef](https://twitter.com/pestlechef) | `✴️ €4.99 instead of €19.99` | [🇦🇺 Will Bishop](https://twitter.com/WillRBishop) | `📱` `iPad` | [`💬` Looks good but su...](https://www.reddit.com/r/AppHookup/comments/zqk7nr/ios_pestle_recipe_organizer_1999_499_first_year/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1574776971) |
 | 20 | <img src="Other/Images/Icons/outgoings.PNG" width="15px" lenght="15px"> [Outgoings](https://apps.apple.com/au/app/pestle-kitchen-recipe-manager/id1574776971?ign-itscg=30200&ign-itsct=apps_box_link) | `☁️` | `✴️ €4.99 instead of €19.99` | [🇺🇳 Gianpeppino Frangiamore](https://twitter.com/gianfrangiamore) | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1498070873) |
+| 21 | <img src="Other/Images/Icons/quicknotes.PNG" width="15px" lenght="15px"> [Quick Notes To Self](https://apps.apple.com/it/app/quick-notes-to-self-email-me/id1090744587) | [@EmailMeApp](https://twitter.com/EmailMeApp) | `✴️ 9.99 instead of €2w9.99` | [🇪🇸 Manuel Escrig](https://twitter.com/ManuelEscrig) | `📱` `⌚️` `💻` `iPad` | [`💬` Why is this so exp...](https://www.reddit.com/r/AppHookup/comments/zsojgk/iosmacos_quick_notes_to_self_email_me_lifetime/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1090744587) |
 
 <hr>
 
 ### Data
 
-`🇩🇪 × 1` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1` `🇮🇪 × 1` `🇬🇧 × 1` `🇺🇸 × 1` `🇮🇹 × 1` `🇨🇿 × 1` `🇳🇿 × 1` `🇧🇷 × 1` `🇦🇺 × 1`
+`🇩🇪 × 1` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1` `🇮🇪 × 1` `🇬🇧 × 1` `🇺🇸 × 1` `🇮🇹 × 1` `🇨🇿 × 1` `🇳🇿 × 1` `🇧🇷 × 1` `🇦🇺 × 1` `🇪🇸 × 1`
 
 <br />
 
-`❇️ × 10` `✴️ × 10`
+`❇️ × 10` `✴️ × 11`
 
 <br /> <br />
 
@@ -93,13 +94,13 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979a
 |:--: | :-- | :-- | :-- | :-- | :--: |
 | 1 | <img src="Other/Images/Icons/Icons21/blackbox.PNG" width="15px" lenght="15px"> [BlackBox](https://apps.apple.com/it/app/blackbox-brain-puzzles/id962969578?l=en) | [@BlackboxPuzzle](https://twitter.com/blackboxpuzzles) | `❇️` `💟` | [🇳🇱 Ryan McLeod](https://twitter.com/warpling?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `iPad` |
 | 2 | <img src="Other/Images/Icons/Icons21/structured.PNG" width="15px" lenght="15px"> [Structured](https://apps.apple.com/it/app/structured-daily-planner/id1499198946?l=en) | [@Structured_app](https://twitter.com/structured_app) | `❇️` `💟` | [🇺🇳 Leo Mehlig](https://twitter.com/leomehlig?s=21&t=gKCEXxOsxXSD-oUl8cAQIw) | `📱` `💻` `⌚️` `iPad` |
-| 3 | <img src="Other/Images/Icons/Icons21/mcclockface.PNG" width="15px" lenght="15px"> [McClockFace](https://apps.apple.com/it/app/mcclockface/id1544343485?l=en) | `☁️` | `❇️` | [// David Steppenbeck](https://twitter.com/dsteppenbeck) | `📱` `iPad` |
+| 3 | <img src="Other/Images/Icons/Icons21/mcclockface.PNG" width="15px" lenght="15px"> [McClockFace](https://apps.apple.com/it/app/mcclockface/id1544343485?l=en) | `☁️` | `❇️` | [🇬🇧 David Steppenbeck](https://twitter.com/dsteppenbeck) | `📱` `iPad` |
 | 4 | <img src="Other/Images/Icons/Icons21/no_icon.PNG" width="15px" lenght="15px"> [Jinks!](https://apps.apple.com/de/app/jinks/id1507193902) | [@Jinks_app](https://twitter.com/jinks_app) | `❇️` | [🇩🇪 Simon Nickel](https://twitter.com/simonnickel) | `📱` `iPad` |
 | 5 | <img src="Other/Images/Icons/Icons21/twidget.PNG" width="15px" lenght="15px"> [Twidget](https://apps.apple.com/it/app/twidget-widget-for-twitter/id1541494972?l=en) | `☁️` | `❇️` | [🇬🇧 🇺🇸 James Shaw](https://twitter.com/jsh8w) | `📱` |
 | 6 | <img src="Other/Images/Icons/Icons21/vinyls.PNG" width="15px" lenght="15px"> [Vinyls](https://apps.apple.com/it/app/vinyls/id1556054655?l=en) | [@Vinylstheapp](https://twitter.com/vinylstheapp) | `❇️` | [🇺🇳 Shihab Mehboob](https://twitter.com/JPEGuin) | `📱` `💻` `⌚️` `📺` `iPad` |
 | 7 | <img src="Other/Images/Icons/Icons21/crouton.PNG" width="15px" lenght="15px"> [Crouton](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) | [@_CroutonApp](https://twitter.com/_croutonapp) | `❇️` `💟` | [🇳🇿 Devin Davies](https://twitter.com/justmedevin) | `📱` `💻` `iPad` |
 | 8 | <img src="Other/Images/Icons/Icons21/yarnbuddy.PNG" width="15px" lenght="15px"> [YarnBuddy](https://apps.apple.com/us/app/yarnbuddy-knit-and-crochet/id1267678125) | [@Yarnbuddyapp](https://twitter.com/yarnbuddyapp) | `✴️` | [🇺🇸 Becky Hansmeyer](https://twitter.com/bhansmeyer) | `📱` `💻` `⌚️` `iPad` |
-| 9 | <img src="Other/Images/Icons/Icons21/bluebird.PNG" width="15px" lenght="15px"> [Bluebird Focus Timer](https://apps.apple.com/app/id1478757472) | [@Bluebird_app](https://twitter.com/bluebird_app) | `✴️` | [// DFS](https://twitter.com/limited_dfs) & [🇺🇳 TopoloGiraffe](https://twitter.com/topologiraffe) | `📱` `💻` `⌚️` `iPad` |
+| 9 | <img src="Other/Images/Icons/Icons21/bluebird.PNG" width="15px" lenght="15px"> [Bluebird Focus Timer](https://apps.apple.com/app/id1478757472) | [@Bluebird_app](https://twitter.com/bluebird_app) | `✴️` | [🇺🇳 DFS](https://twitter.com/limited_dfs) & [🇺🇳 TopoloGiraffe](https://twitter.com/topologiraffe) | `📱` `💻` `⌚️` `iPad` |
 | 10 | <img src="Other/Images/Icons/Icons21/pastepal.PNG" width="15px" lenght="15px"> [Paste Pal](https://apps.apple.com/app/id1503446680) | [@PastePalApp](https://twitter.com/PastePalApp) | `✴️` | [🇺🇳 Khoa](https://twitter.com/onmyway133) | `📱` `💻` `iPad` |
 | 11 | <img src="Other/Images/Icons/Icons21/no_icon.PNG" width="15px" lenght="15px"> [Wynk Widget](https://apps.apple.com/u�s/app/wynk-widget/id1540207299) | [@WynkApp](https://twitter.com/WynkApp) | `❇️` | [🇨🇦 Ian Keen](https://twitter.com/IanKay) | `📱` `iPad` |
 | 12 | <img src="Other/Images/Icons/Icons21/guessinggame.PNG" width="15px" lenght="15px"> [Guessing Game for SharePlay](https://apps.apple.com/it/app/guessing-game-for-shareplay/id1573083328?l=en) | [@Guessinggameapp](https://twitter.com/guessinggameapp) | `❇️` | [🇺🇸 Greg Gardner](https://twitter.com/gregggreg2) | `📱` `💻` `iPad` |
@@ -134,7 +135,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979a
 
 ### Data
 
-`🇺🇸 × 5` `🇺🇦 × 1` `🇫🇷 × 2` `🇮🇳 × 2` `🇮🇪 × 2` `🇩🇪 × 3` `🇳🇴 × 3` `🇨🇦 × 2` `// × 3` `🇳🇱 × 3` `// × 1`
+`🇺🇸 × 5` `🇺🇦 × 1` `🇫🇷 × 2` `🇮🇳 × 2` `🇮🇪 × 2` `🇩🇪 × 3` `🇳🇴 × 3` `🇨🇦 × 2` `🇬🇧 × 3` `🇳🇱 × 3` `🇧🇾 × 1`
 
 <br /> 
 
