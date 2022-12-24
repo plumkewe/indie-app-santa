@@ -5,7 +5,7 @@
 
 You can follow the official [**Twitter**](https://twitter.com/indieappsanta?s=21&t=DzSq8UMHflR67STo62OBoA) account for updates or download the official [**app**](https://apps.apple.com/it/app/indie-app-santa/id1594011307?l=en) or... visit the official [**site**](https://www.indieappsanta.com/)! <br />
 You can even set up a **widget** via [**Scriptable**](https://apps.apple.com/it/app/scriptable/id1405459188?l=en) app! Here's the [**code**](https://gist.github.com/frboulais/2a11ac628faacf2532d037314324e1a4). 
-###### (see the preview [**here**]()) <br /> <br />
+###### (see the preview [**here**](https://github.com/plumkewe/indie-app-santa/blob/main/Other/Images/widget.PNG)) <br /> <br />
 
 ! Note that this repository has nothing to do with Indie app santa, it's made by me just for fun and for archive. <br />
 
@@ -61,8 +61,8 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | 20 | <img src="Other/Images/Icons/pastle.PNG" width="15px" lenght="15px"> [Pastle](https://apps.apple.com/au/app/pestle-kitchen-recipe-manager/id1574776971?ign-itscg=30200&ign-itsct=apps_box_link) | [@Pestlechef](https://twitter.com/pestlechef) | `✴️ €4.99 instead of €19.99` | [🇦🇺 Will Bishop](https://twitter.com/WillRBishop) | `📱` `iPad` | [`💬` Looks good but su...](https://www.reddit.com/r/AppHookup/comments/zqk7nr/ios_pestle_recipe_organizer_1999_499_first_year/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1574776971) |
 | 21 | <img src="Other/Images/Icons/outgoings.PNG" width="15px" lenght="15px"> [Outgoings](https://apps.apple.com/au/app/pestle-kitchen-recipe-manager/id1574776971?ign-itscg=30200&ign-itsct=apps_box_link) | `☁️` | `✴️ €4.99 instead of €19.99` | [🇺🇳 Gianpeppino Frangiamore](https://twitter.com/gianfrangiamore) | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1498070873) |
 | 22 | <img src="Other/Images/Icons/quicknotes.PNG" width="15px" lenght="15px"> [Quick Notes To Self](https://apps.apple.com/it/app/quick-notes-to-self-email-me/id1090744587) | [@EmailMeApp](https://twitter.com/EmailMeApp) | `✴️ 9.99 instead of €29.99` | [🇪🇸 Manuel Escrig](https://twitter.com/ManuelEscrig) | `📱` `⌚️` `💻` `iPad` | [`💬` Why is this so exp...](https://www.reddit.com/r/AppHookup/comments/zsojgk/iosmacos_quick_notes_to_self_email_me_lifetime/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1090744587) |
-| 23 | <img src="Other/Images/Icons/konsensus" width="15px" lenght="15px"> [Konsensus](https://apps.apple.com/it/app/konsensus-movies-tv-shows/id1542511377?l=en) | [@Konsensusapp](https://twitter.com/konsensusapp) | `✴️ 50% off all plans` | [🇺🇳 Saffet Emin Reisoğlu](https://twitter.com/sereisoglu) | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1542511377) |
-| 24 | <img src="Other/Images/Icons/expenses" width="15px" lenght="15px"> [Expenses](https://apps.apple.com/it/app/expenses-spending-tracker/id1492055171?l=en) | [@Expensesapp](https://twitter.com/expensesapp) | `❇️` | [🇺🇳 Hiroki Nagasawa](https://twitter.com/pixyzehn) | `📱` `💻` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1492055171) |
+| 23 | <img src="Other/Images/Icons/konsensus.PNG" width="15px" lenght="15px"> [Konsensus](https://apps.apple.com/it/app/konsensus-movies-tv-shows/id1542511377?l=en) | [@Konsensusapp](https://twitter.com/konsensusapp) | `✴️ 50% off all plans` | [🇺🇳 Saffet Emin Reisoğlu](https://twitter.com/sereisoglu) | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1542511377) |
+| 24 | <img src="Other/Images/Icons/expenses.PNG" width="15px" lenght="15px"> [Expenses](https://apps.apple.com/it/app/expenses-spending-tracker/id1492055171?l=en) | [@Expensesapp](https://twitter.com/expensesapp) | `❇️` | [🇺🇳 Hiroki Nagasawa](https://twitter.com/pixyzehn) | `📱` `💻` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1492055171) |
 
 <hr>
 
@@ -190,6 +190,8 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=639798
 ### Data <br /> 
 
 `🇬🇧 × 2` `🇺🇸 × 7` `🇫🇷 × 1` `🇺🇦 × 1` `🇩🇪 × 2` `🇪🇸 × 1` `🇳🇱 × 2` `🇦🇺 × 1`
+
+<br />
 
 `❇️ × 16` `✴️ × 8` 
 
