@@ -64,16 +64,17 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | 23 | <img src="Other/Images/Icons/konsensus.PNG" width="15px" lenght="15px"> [Konsensus](https://apps.apple.com/it/app/konsensus-movies-tv-shows/id1542511377?l=en) | [@Konsensusapp](https://twitter.com/konsensusapp) | `✴️ 50% off all plans` | [🇺🇳 Saffet Emin Reisoğlu](https://twitter.com/sereisoglu) | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1542511377) |
 | 24 | <img src="Other/Images/Icons/expenses.PNG" width="15px" lenght="15px"> [Expenses](https://apps.apple.com/it/app/expenses-spending-tracker/id1492055171?l=en) | [@Expensesapp](https://twitter.com/expensesapp) | `❇️` | [🇺🇳 Hiroki Nagasawa](https://twitter.com/pixyzehn) | `📱` `💻` `iPad` | [`💬` Now this is one...](https://reddit.com/r/AppHookup/comments/ztx0sj/iosipadosmacos_expenses_spending_tracker_pro_iap/) | [`🔗`](https://appraven.net/openLink.php?appId=1492055171) |
 | 25 | <img src="Other/Images/Icons/luana.PNG" width="15px" lenght="15px"> [Luana](https://apps.apple.com/it/app/luana-motivation-journal/id1622980363?l=en) | [@Luana_app](https://twitter.com/luana_app) | `✴️ 4.99 instead of €39.99` | [🇩🇪 Stefan Liesendahl](https://twitter.com/StefanLdhl) | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1622980363) |
+| 26 | <img src="Other/Images/Icons/frantic.PNG" width="15px" lenght="15px"> [Frantic Ball](https://apps.apple.com/it/app/frantic-fall/id1591348188?l=en) | `☁️` | `✴️ 0.99 instead of €1.99` | [🇸🇬 Vikas Pawarux](https://twitter.com/pawar_vikas036) | `📱` `💻` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1591348188) |
 
 <hr>
 
 ### Data
 
-`🇩🇪 × 2` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1` `🇮🇪 × 1` `🇬🇧 × 1` `🇺🇸 × 1` `🇮🇹 × 1` `🇨🇿 × 1` `🇳🇿 × 1` `🇧🇷 × 1` `🇦🇺 × 1` `🇪🇸 × 1`
+`🇩🇪 × 2` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1` `🇮🇪 × 1` `🇬🇧 × 1` `🇺🇸 × 1` `🇮🇹 × 1` `🇨🇿 × 1` `🇳🇿 × 1` `🇧🇷 × 1` `🇦🇺 × 1` `🇪🇸 × 1` `🇸🇬 × 1`
 
 <br />
 
-`❇️ × 11` `✴️ × 12`
+`❇️ × 11` `✴️ × 15`
 
 <br /> <br />
 
