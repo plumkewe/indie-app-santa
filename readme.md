@@ -5,16 +5,16 @@
 
 You can follow the official [**Twitter**](https://twitter.com/indieappsanta?s=21&t=DzSq8UMHflR67STo62OBoA) account for updates or download the official [**app**](https://apps.apple.com/it/app/indie-app-santa/id1594011307?l=en) or... visit the official [**site**](https://www.indieappsanta.com/)! <br />
 You can even set up a **widget** via [**Scriptable**](https://apps.apple.com/it/app/scriptable/id1405459188?l=en) app! Here's the [**code**](https://gist.github.com/frboulais/2a11ac628faacf2532d037314324e1a4). 
-###### (see the preview [**here**]()) <br /> <br />
+###### (see the preview [**here**](https://github.com/plumkewe/indie-app-santa/blob/main/Other/Images/widget.PNG)) <br /> <br />
 
 ! Note that this repository has nothing to do with Indie app santa, it's made by me just for fun and for archive. <br />
 
 <br />
 
 ## Index <br /> 
-- [2022](#2022) <br />
-- [2021](#2021) <br />
-- [2020](#2020) <br />
+#### [2022](#2022) <br />
+#### [2021](#2021) <br />
+#### [2020](#2020) <br />
 
 <br />
 
@@ -61,18 +61,21 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | 20 | <img src="Other/Images/Icons/pastle.PNG" width="15px" lenght="15px"> [Pastle](https://apps.apple.com/au/app/pestle-kitchen-recipe-manager/id1574776971?ign-itscg=30200&ign-itsct=apps_box_link) | [@Pestlechef](https://twitter.com/pestlechef) | `✴️ €4.99 instead of €19.99` | [🇦🇺 Will Bishop](https://twitter.com/WillRBishop) | `📱` `iPad` | [`💬` Looks good but su...](https://www.reddit.com/r/AppHookup/comments/zqk7nr/ios_pestle_recipe_organizer_1999_499_first_year/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1574776971) |
 | 21 | <img src="Other/Images/Icons/outgoings.PNG" width="15px" lenght="15px"> [Outgoings](https://apps.apple.com/au/app/pestle-kitchen-recipe-manager/id1574776971?ign-itscg=30200&ign-itsct=apps_box_link) | `☁️` | `✴️ €4.99 instead of €19.99` | [🇺🇳 Gianpeppino Frangiamore](https://twitter.com/gianfrangiamore) | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1498070873) |
 | 22 | <img src="Other/Images/Icons/quicknotes.PNG" width="15px" lenght="15px"> [Quick Notes To Self](https://apps.apple.com/it/app/quick-notes-to-self-email-me/id1090744587) | [@EmailMeApp](https://twitter.com/EmailMeApp) | `✴️ 9.99 instead of €29.99` | [🇪🇸 Manuel Escrig](https://twitter.com/ManuelEscrig) | `📱` `⌚️` `💻` `iPad` | [`💬` Why is this so exp...](https://www.reddit.com/r/AppHookup/comments/zsojgk/iosmacos_quick_notes_to_self_email_me_lifetime/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1090744587) |
-| 23 | <img src="Other/Images/Icons/konsensus" width="15px" lenght="15px"> [Konsensus](https://apps.apple.com/it/app/konsensus-movies-tv-shows/id1542511377?l=en) | [@Konsensusapp](https://twitter.com/konsensusapp) | `✴️ 50% off all plans` | [🇺🇳 Saffet Emin Reisoğlu](https://twitter.com/sereisoglu) | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1542511377) |
-| 24 | <img src="Other/Images/Icons/expenses" width="15px" lenght="15px"> [Expenses](https://apps.apple.com/it/app/expenses-spending-tracker/id1492055171?l=en) | [@Expensesapp](https://twitter.com/expensesapp) | `❇️` | [🇺🇳 Hiroki Nagasawa](https://twitter.com/pixyzehn) | `📱` `💻` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1492055171) |
+| 23 | <img src="Other/Images/Icons/konsensus.PNG" width="15px" lenght="15px"> [Konsensus](https://apps.apple.com/it/app/konsensus-movies-tv-shows/id1542511377?l=en) | [@Konsensusapp](https://twitter.com/konsensusapp) | `✴️ 50% off all plans` | [🇺🇳 Saffet Emin Reisoğlu](https://twitter.com/sereisoglu) | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1542511377) |
+| 24 | <img src="Other/Images/Icons/expenses.PNG" width="15px" lenght="15px"> [Expenses](https://apps.apple.com/it/app/expenses-spending-tracker/id1492055171?l=en) | [@Expensesapp](https://twitter.com/expensesapp) | `❇️` | [🇺🇳 Hiroki Nagasawa](https://twitter.com/pixyzehn) | `📱` `💻` `iPad` | [`💬` Now this is one...](https://reddit.com/r/AppHookup/comments/ztx0sj/iosipadosmacos_expenses_spending_tracker_pro_iap/) | [`🔗`](https://appraven.net/openLink.php?appId=1492055171) |
+| 25 | <img src="Other/Images/Icons/luana.PNG" width="15px" lenght="15px"> [Luana](https://apps.apple.com/it/app/luana-motivation-journal/id1622980363?l=en) | [@Luana_app](https://twitter.com/luana_app) | `✴️ 4.99 instead of €39.99` | [🇩🇪 Stefan Liesendahl](https://twitter.com/StefanLdhl) | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1622980363) |
+| 26 | <img src="Other/Images/Icons/frantic.PNG" width="15px" lenght="15px"> [Frantic Ball](https://apps.apple.com/it/app/frantic-fall/id1591348188?l=en) | `☁️` | `✴️ 0.99 instead of €1.99` | [🇸🇬 Vikas Pawarux](https://twitter.com/pawar_vikas036) | `📱` `💻` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1591348188) |
+| 27 | <img src="Other/Images/Icons/foodnorms.PNG" width="15px" lenght="15px"> [FoodNorms](https://apps.apple.com/it/app/foodnoms-food-tracker/id1479461686?l=en) | [@Food_noms](https://twitter.com/food_noms) | `❇️ free 6 months` | [🇺🇸 Ryan Ashcraft](https://twitter.com/ryanashcraft) | `📱` `⌚️` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1479461686) |
 
 <hr>
 
 ### Data
 
-`🇩🇪 × 1` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1` `🇮🇪 × 1` `🇬🇧 × 1` `🇺🇸 × 1` `🇮🇹 × 1` `🇨🇿 × 1` `🇳🇿 × 1` `🇧🇷 × 1` `🇦🇺 × 1` `🇪🇸 × 1`
+`🇩🇪 × 2` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1` `🇮🇪 × 1` `🇬🇧 × 1` `🇺🇸 × 2` `🇮🇹 × 1` `🇨🇿 × 1` `🇳🇿 × 1` `🇧🇷 × 1` `🇦🇺 × 1` `🇪🇸 × 1` `🇸🇬 × 1`
 
 <br />
 
-`❇️ × 11` `✴️ × 12`
+`❇️ × 12` `✴️ × 15`
 
 <br /> <br />
 
@@ -80,9 +83,10 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 
 ### My top: 
 
-[<img alt="Blackbox" width="103px" lenght="222px" src="https://github.com/plumkewe/indie-app-santa/blob/25133102acf85f3a423148ba3df869d0ff27a453/Other/Images/l1.png" />](https://apps.apple.com/it/app/blackbox-brain-puzzles/id962969578?l=en) [<img alt="Crouton" width="103px" lenght="222px"  src="https://github.com/plumkewe/indie-app-santa/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/c2.png" />](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) [<img alt="Structured" width="103px" lenght="222px"  src="https://github.com/plumkewe/indie-app-santa/blob/1bb3041ab977b61065e88b72aaeab62e83a4ce80/Other/Images/r3.png" />](https://apps.apple.com/it/app/structured-daily-planner/id1499198946?l=en)
+#### 🥇 [Blackbox](https://apps.apple.com/it/app/blackbox-brain-puzzles/id962969578?l=en)
+#### 🥈 [Crouton](https://apps.apple.com/it/app/crouton-cooking-companion/id1461650987?l=en) 
+#### 🥉 [Structured](https://apps.apple.com/it/app/structured-daily-planner/id1499198946?l=en)
 
-###### You can click on them :) If you want to "grab" icons from App Store i made this simple shortcut: [Icons](https://www.icloud.com/shortcuts/6604f67a715e4db39cf2b7766b16ddf1)
 
 <br />
 
@@ -190,6 +194,8 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=639798
 ### Data <br /> 
 
 `🇬🇧 × 2` `🇺🇸 × 7` `🇫🇷 × 1` `🇺🇦 × 1` `🇩🇪 × 2` `🇪🇸 × 1` `🇳🇱 × 2` `🇦🇺 × 1`
+
+<br />
 
 `❇️ × 16` `✴️ × 8` 
 
