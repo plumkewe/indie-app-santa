@@ -20,6 +20,7 @@ You can even set up a **widget** via [**Scriptable**](https://apps.apple.com/it/
 
 ## Fun facts!
 
+A new box opens every day at 01:00 (16:00 SF TIME) 
 The creator of this initiative is 🇫🇷 [**François**](https://twitter.com/frboulais) and he currently works on this app: [**Drylendar**](https://twitter.com/drylendar?s=21&t=LXfPlLSKonx7EIz49H3fug) you can access it through Test flight! Link available: [**here**](https://twitter.com/frboulais/status/1535498354427408384?s=46&t=LXfPlLSKonx7EIz49H3fug) <br />
 You can buy a cool sticker and support Indie app santa on: [**gumroad**](https://indieappsanta.gumroad.com/l/zXimf) <br />
 A lot of cool apps were spotted on Indie app santa! Like [`💳` **CardPointers**](https://twitter.com/indieappsanta/status/1344870978308870146?s=46&t=LXfPlLSKonx7EIz49H3fug), [`🍱` **Crouton**](https://twitter.com/indieappsanta/status/1468135169538330627?s=46&t=LXfPlLSKonx7EIz49H3fug), [`🚀` **Pocket rocket**](https://twitter.com/indieappsanta/status/1337261258580615168?s=46&t=LXfPlLSKonx7EIz49H3fug)...
@@ -28,6 +29,12 @@ A lot of cool apps were spotted on Indie app santa! Like [`💳` **CardPointers*
 <br />
 
 # **2022**
+
+### My top:
+
+#### 🥇 [Waiting]()
+#### 🥈 [Waiting]() 
+#### 🥉 [Waiting]()
 
 <br />
 
@@ -151,6 +158,12 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979a
 
 # **2020**
 
+### My top: 
+
+#### 🥇 [Pocket Rocket](https://apps.apple.com/us/app/pocket-rocket/id1493916909)
+#### 🥈 [Weight Tracker](https://apps.apple.com/us/app/vekt-weight-tracking/id1114721073) 
+#### 🥉 [Usage](https://apps.apple.com/us/app/usage-monitor/id970353453)
+
 <br />
 
 There's an AppRaven [collection](https://appraven.net/openLink.php?listId=639798be904afd2a981cc202)
@@ -162,27 +175,27 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=639798
 `❇️ Free` `✴️ Discount` `💟 Awesome` `☁️ 🇺🇳 No info` <br />
 
 | **Day** | **App** | **Twitter Post** | **Free?** | **Dev** | **AppRaven** |
-|:--: | :-- | :-- | :-- | :-- | :-: |
+|:--: | :-- | :--: | :--: | :-- | :-: |
 | 4 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px">  Aviary 1 | [`🔗`](https://twitter.com/indieappsanta/status/1334729538379657216?s=20&t=vDtzFbr5jd�qm3mfd2iCuEw) | `❇️` | [🇬🇧 Shihab Mehboob](https://twitter.com/JPEGuin) | [`🔗`](https://appraven.net/openLink.php?appId=1522043420) |
 | 5 | <img src="Other/Images/Icons/Icons20/December/thewallpaperapp.PNG" width="15px" lenght="15px">  [The Wallpaper App](https://apps.apple.com/us/app/the-wallpaper-app/id1518228413) | [`🔗`](https://twitter.com/indieappsanta/status/1335086532143755265?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` | [🇬🇧 Ben Harraway](https://twitter.com/BenLumenDigital) | [`🔗`](https://appraven.net/openLink.php?appId=1518228413) |
 | 6 | <img src="Other/Images/Icons/Icons20/December/santa.PNG" width="15px" lenght="15px">  [Santa's Naughty or Nice List](https://apps.apple.com/us/app/santas-naughty-or-nice-list/id522851505) | [`🔗`](https://twitter.com/indieappsanta/status/1335449639378702336?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=522851505) |
 | 7 | <img src="Other/Images/Icons/Icons20/December/remotenum.PNG" width="15px" lenght="15px">  [Remote NumPad Keyboard](https://apps.apple.com/us/app/remote-keypad-numpad-pro/id1135300319) | [`🔗`](https://twitter.com/indieappsanta/status/1335811465622790144?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1135300319) |
 | 8 | <img src="Other/Images/Icons/Icons20/December/posture.PNG" width="15px" lenght="15px">  [HLTH Posture & Break Reminders](https://apps.apple.com/it/app/hlth-posture-break-reminders/id1503879351?mt=12) | [`🔗`](https://twitter.com/indieappsanta/status/1336176062011674630?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` | [🇺🇳 Jordy](https://twitter.com/yowdyyowdy) | [`🔗`](https://appraven.net/openLink.php?appId=1503879351) |
-| 9 | <img src="Other/Images/Icons/Icons20/December/weight.PNG" width="15px" lenght="15px"> [Weight tracker](https://apps.apple.com/us/app/vekt-weight-tracking/id1114721073) | [`🔗`](https://twitter.com/indieappsanta/status/1336538822209888258?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` | [🇳🇱 Hidde van der Ploeg](https://twitter.com/hiddevdploeg) | [`🔗`](https://appraven.net/openLink.php?appId=1114721073) |
+| 9 | <img src="Other/Images/Icons/Icons20/December/weight.PNG" width="15px" lenght="15px"> [Weight tracker](https://apps.apple.com/us/app/vekt-weight-tracking/id1114721073) | [`🔗`](https://twitter.com/indieappsanta/status/1336538822209888258?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` `💟` | [🇳🇱 Hidde van der Ploeg](https://twitter.com/hiddevdploeg) | [`🔗`](https://appraven.net/openLink.php?appId=1114721073) |
 | 10 | <img src="Other/Images/Icons/Icons20/December/achelper.PNG" width="15px" lenght="15px">  [AC Helper](https://apps.apple.com/us/app/ac-helper/id1508764244) | [`🔗`](https://twitter.com/indieappsanta/status/1336899893747740672?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 50% off` | [🇫🇷 Thomas Ricouard](https://twitter.com/Dimillian) | [`🔗`](https://appraven.net/openLink.php?appId=1508764244) |
-| 11 | <img src="Other/Images/Icons/Icons20/December/pocketrocket.PNG" width="15px" lenght="15px">  [Pocket Rocket](https://apps.apple.com/us/app/pocket-rocket/id1493916909) | [`🔗`](https://twitter.com/indieappsanta/status/1337261258580615168?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` | [🇺🇸 Tim Isenman](https://twitter.com/TimIsenman) | [`🔗`](https://appraven.net/openLink.php?appId=1493916909) |
+| 11 | <img src="Other/Images/Icons/Icons20/December/pocketrocket.PNG" width="15px" lenght="15px">  [Pocket Rocket](https://apps.apple.com/us/app/pocket-rocket/id1493916909) | [`🔗`](https://twitter.com/indieappsanta/status/1337261258580615168?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` `💟` | [🇺🇸 Tim Isenman](https://twitter.com/TimIsenman) | [`🔗`](https://appraven.net/openLink.php?appId=1493916909) |
 | 12 | <img src="Other/Images/Icons/Icons20/December/easycalendar.PNG" width="15px" lenght="15px"> [Easy Calendar](https://apps.apple.com/app/easy-calendar/id421724209) | [`🔗`](https://twitter.com/indieappsanta/status/1337623346780008449?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=421724209) |
 | 15 | <img src="Other/Images/Icons/Icons20/December/connectkit.PNG" width="15px" lenght="15px"> [ConnectKit](https://apps.apple.com/it/app/connectkit/id1534510889) | [`🔗`](https://twitter.com/indieappsanta/status/1338711861508837376?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 50% off` | [🇺🇸 Josh Holtz](https://twitter.com/joshdholtz) | [`🔗`](https://appraven.net/openLink.php?appId=1534510889) |
 | 16 | <img src="Other/Images/Icons/Icons20/December/foldify.PNG" width="15px" lenght="15px"> [Foldify](https://apps.apple.com/us/app/foldify-create-print-fold/id527118971) | [`🔗`](https://twitter.com/indieappsanta/status/1339072764204879873?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=527118971) |
-| 17 | <img src="Other/Images/Icons/Icons20/December/nudget.PNG" width="15px" lenght="15px"> [Nudget](https://apps.apple.com/us/app/nudget-spending-tracker/id1517339257) | [`🔗`](https://twitter.com/indieappsanta/status/1339435218382536706?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 75% off` | [🇺🇳 Sawyer Blatz](https://twitter.com/SawyerBlatz/likes) | [`🔗`](https://appraven.net/openLink.php?appId=1517339257) |
+| 17 | <img src="Other/Images/Icons/Icons20/December/nudget.PNG" width="15px" lenght="15px"> [Nudget](https://apps.apple.com/us/app/nudget-spending-tracker/id1517339257) | [`🔗`](https://twitter.com/indieappsanta/status/1339435218382536706?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 75% off` `💟` | [🇺🇳 Sawyer Blatz](https://twitter.com/SawyerBlatz/likes) | [`🔗`](https://appraven.net/openLink.php?appId=1517339257) |
 | 18 | <img src="Other/Images/Icons/Icons20/December/soose.PNG" width="15px" lenght="15px"> [Soosee](https://apps.apple.com/us/app/soosee-food-scanner/id1502026145) | [`🔗`](https://twitter.com/indieappsanta/status/1339797541005758465?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` | [🇳🇱 Jordi Bruin](https://twitter.com/jordibruin) | [`🔗`](https://appraven.net/openLink.php?appId=1502026145) |
 | 19 | <img src="Other/Images/Icons/Icons20/December/photoinfo.PNG" width="15px" lenght="15px"> [PhotInfo](https://apps.apple.com/us/app/photinfo/id597139381) | [`🔗`](https://twitter.com/indieappsanta/status/1340159927923265538?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` | [🇺🇳 Enrico Bonaldo](https://twitter.com/asclepix) | [`🔗`](https://appraven.net/openLink.php?appId=597139381) |
 | 20 | <img src="Other/Images/Icons/Icons20/December/openbudget.PNG" width="15px" lenght="15px"> [OpenBudget](https://apps.apple.com/us/app/openbudget-budget-and-save/id1526973735) | [`🔗`](https://twitter.com/indieappsanta/status/1340522070954926086?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 85% off` | [🇺🇸 Khan Winter](https://twitter.com/thecoolwinter) | [`🔗`](https://appraven.net/openLink.php?appId=1526973735) |
 | 21 | <img src="Other/Images/Icons/Icons20/December/solarwatch.PNG" width="15px" lenght="15px"> [SolarWatch Sunrise Sunset Time](https://apps.apple.com/us/app/solarwatch-daylight-widget/id1191365122) | [`🔗`](https://twitter.com/indieappsanta/status/1340884705751818242?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 70% off` | [🇩🇪 Engin Kurutepe](https://twitter.com/ekurutepe) | [`🔗`](https://appraven.net/openLink.php?appId=1191365122) |
 | 22 | <img src="Other/Images/Icons/Icons20/December/darknoise.PNG" width="15px" lenght="15px"> [Dark Noise](https://apps.apple.com/us/app/dark-noise/id1465439395) | [`🔗`](https://twitter.com/indieappsanta/status/1341247092304433152?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 50% off` | [🇺🇸 Charlie Chapman](https://twitter.com/_chuckyc) | [`🔗`](https://appraven.net/openLink.php?appId=1465439395) |
 | 23 | <img src="Other/Images/Icons/Icons20/December/pomodorotimer.PNG" width="15px" lenght="15px"> [Pomodoro Timer](https://apps.apple.com/us/app/focused-work-stay-productive/id1523968394) | [`🔗`](https://twitter.com/indieappsanta/status/1341612595535630337?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️ Free year` | [🇦🇺 Michael Tigas](https://twitter.com/michael_tigas) | [`🔗`](https://appraven.net/openLink.php?appId=1523968394) |
-| 24 | <img src="Other/Images/Icons/Icons20/December/countdown.PNG" width="15px" lenght="15px"> [Countdown App & Widget](https://apps.apple.com/us/app/widget-studio-event-countdown/id1533996161) | [`🔗`](https://twitter.com/indieappsanta/status/1341973399288094720?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` | [🇩🇪 Stefan Liesendahl](https://twitter.com/StefanLdhl) | [`🔗`](https://appraven.net/openLink.php?appId=1533996161) |
-| 25 | <img src="Other/Images/Icons/Icons20/December/usage.PNG" width="15px" lenght="15px"> [Usage](https://apps.apple.com/us/app/usage-monitor/id970353453) | [`🔗`](https://twitter.com/indieappsanta/status/1342337525613010944?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` | [🇺🇦 Oleh Stasula](https://twitter.com/endore8_) | [`🔗`](https://appraven.net/openLink.php?appId=970353453) |
+| 24 | <img src="Other/Images/Icons/Icons20/December/countdown.PNG" width="15px" lenght="15px"> [Countdown App & Widget](https://apps.apple.com/us/app/widget-studio-event-countdown/id1533996161) | [`🔗`](https://twitter.com/indieappsanta/status/1341973399288094720?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` `💟` | [🇩🇪 Stefan Liesendahl](https://twitter.com/StefanLdhl) | [`🔗`](https://appraven.net/openLink.php?appId=1533996161) |
+| 25 | <img src="Other/Images/Icons/Icons20/December/usage.PNG" width="15px" lenght="15px"> [Usage](https://apps.apple.com/us/app/usage-monitor/id970353453) | [`🔗`](https://twitter.com/indieappsanta/status/1342337525613010944?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` `💟` | [🇺🇦 Oleh Stasula](https://twitter.com/endore8_) | [`🔗`](https://appraven.net/openLink.php?appId=970353453) |
 | 26 | <img src="Other/Images/Icons/Icons20/December/screenmiroring.PNG" width="15px" lenght="15px"> [Screen Mirroring](https://apps.apple.com/app/id1468495939) | [`🔗`](https://twitter.com/indieappsanta/status/1342698505928925184?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` | [🇪🇸 Tiago Martinho](https://twitter.com/martinho_t) | [`🔗`](https://appraven.net/openLink.php?appId=1468495939) |
 | 27 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px"> [Bolt](https://apps.apple.com/us/app/bolt-weight-lifting-journal/id1439649927) | [`🔗`](https://twitter.com/indieappsanta/status/1343059030692904960?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `✴️ 50% off` | [🇺🇸 Matthew](https://twitter.com/mattpermanent) | [`🔗`](https://appraven.net/openLink.php?appId=1439649927) |
 | 28 | <img src="Other/Images/Icons/Icons20/December/tunable.PNG" width="15px" lenght="15px"> [Tunable](https://apps.apple.com/us/app/tunable-music-practice-tools/id608540795) | [`🔗`](https://twitter.com/indieappsanta/status/1343423441546977280?s=20&t=vDtzFbr5jdqm3mfd2iCuEw) | `❇️` | [🇺🇸 Seth Sandler](https://twitter.com/SethSandler) | [`🔗`](https://appraven.net/openLink.php?appId=608540795) |
@@ -206,7 +219,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=639798
 `❇️ Free` `✴️ Discount` `💟 Awesome`  <br />
 
 | **Day** | **App** | **Twitter Post** | **Free?**|
-|:--: | :-- | :-- | :-- |
+|:--: | :-- | :--: | :--: |
 | 2 | <img src="Other/Images/Icons/Icons20/Jenuary/tasks.PNG" width="15px" lenght="15px"> [Tasks](https://apps.apple.com/in/app/tasks-to-do-lists-reminders/id1502903102) | [`🔗`](https://twitter.com/indieappsanta/status/1345233356955344896?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $4.99/year, lifetime: $24.99` |
 | 3 | <img src="Other/Images/Icons/Icons20/Jenuary/pathways.PNG" width="15px" lenght="15px"> [Pathways](https://apps.apple.com/app/id1459259446) | [`🔗`](https://twitter.com/indieappsanta/status/1345631698290155524?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ Remove Ads: $0` `✴️ Pack of 20 Hints: $0.99` |
 | 4 | <img src="Other/Images/Icons/Icons20/Jenuary/themed.PNG" width="15px" lenght="15px"> [Themed](https://apps.apple.com/us/app/themed/id1532653006) | [`🔗`](https://twitter.com/indieappsanta/status/1345958134225879040?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️` |
@@ -250,7 +263,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=639798
 `❇️ Free` `✴️ Discount` `💟 Awesome`  <br />
 
 | **Day** | **App** | **Twitter Post** | **Free?**|
-|:--: | :-- | :-- | :-- |
+|:--: | :-- | :--: | :--: |
 | 2 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px"> [BodyOK](https://apps.apple.com/it/app/bodyok-intermittent-fasting/id1472114109?ign-itscg=30200&ign-itsct=apps_box) | [`🔗`](https://twitter.com/indieappsanta/status/1356467382273732609?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
 | 3 | <img src="Other/Images/Icons/Icons20/orbit.PNG" width="15px" lenght="15px"> [Orbit](https://apps.apple.com/app/orbit-time-based-invoicing/id1501298198) | [`🔗`](https://twitter.com/indieappsanta/status/1356829771326349315?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 3 Moths -75% & 1 year -75%` |
 | 4 | <img src="Other/Images/Icons/Icons20/sceneshot.PNG" width="15px" lenght="15px"> [SceneShot](https://apps.apple.com/it/app/sceneshot/id1451459822) | [`🔗`](https://twitter.com/indieappsanta/status/1357192157128396801?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
@@ -291,7 +304,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=639798
 `❇️ Free` `✴️ Discount` <br />
 
 | **Day** | **App** | **Twitter Post** | **Free?**|
-|:--: | :-- | :-- | :-- |
+|:--: | :-- | :--: | :--: |
 | 1 | <img src="Other/Images/Icons/Icons20/apollo.PNG" width="15px" lenght="15px"> [Apollo](https://apps.apple.com/app/id1373682251) | [`🔗`](https://twitter.com/indieappsanta/status/1366251855421059074?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
 | 2 | <img src="Other/Images/Icons/Icons20/birthday.PNG" width="15px" lenght="15px"> [Birthday Reminder App & Widget](https://apps.apple.com/app/id1550516996) | [`🔗`](https://twitter.com/indieappsanta/status/1366614242103857159?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 50% off` |
 
