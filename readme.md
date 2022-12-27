@@ -20,10 +20,25 @@ You can even set up a **widget** via [**Scriptable**](https://apps.apple.com/it/
 
 ## Fun facts!
 
-A new box opens every day at 01:00 (16:00 SF TIME) 
+A new box opens every day at 01:00 (16:00 SF TIME)  <br />
 The creator of this initiative is 🇫🇷 [**François**](https://twitter.com/frboulais) and he currently works on this app: [**Drylendar**](https://twitter.com/drylendar?s=21&t=LXfPlLSKonx7EIz49H3fug) you can access it through Test flight! Link available: [**here**](https://twitter.com/frboulais/status/1535498354427408384?s=46&t=LXfPlLSKonx7EIz49H3fug) <br />
 You can buy a cool sticker and support Indie app santa on: [**gumroad**](https://indieappsanta.gumroad.com/l/zXimf) <br />
-A lot of cool apps were spotted on Indie app santa! Like [`💳` **CardPointers**](https://twitter.com/indieappsanta/status/1344870978308870146?s=46&t=LXfPlLSKonx7EIz49H3fug), [`🍱` **Crouton**](https://twitter.com/indieappsanta/status/1468135169538330627?s=46&t=LXfPlLSKonx7EIz49H3fug), [`🚀` **Pocket rocket**](https://twitter.com/indieappsanta/status/1337261258580615168?s=46&t=LXfPlLSKonx7EIz49H3fug)...
+A lot of cool apps were spotted on Indie app santa! Like [`💳` **CardPointers**](https://twitter.com/indieappsanta/status/1344870978308870146?s=46&t=LXfPlLSKonx7EIz49H3fug), [`🍱` **Crouton**](https://twitter.com/indieappsanta/status/1468135169538330627?s=46&t=LXfPlLSKonx7EIz49H3fug), [`🚀` **Pocket rocket**](https://twitter.com/indieappsanta/status/1337261258580615168?s=46&t=LXfPlLSKonx7EIz49H3fug)... <br />
+
+## General data
+
+###### coming soon!
+
+Here were spotted developers from more than **21** countries, here are some of them
+
+🇩🇪 🇳🇱 🇮🇳 🇫🇷 🇳🇴 🇮🇪 🇬🇧 🇺🇸 🇮🇹 🇨🇿 🇳🇿 🇧🇷 🇦🇺 🇪🇸 🇸🇬 🇺🇦 🇫🇷 🇮🇪 🇳🇴 🇨🇦 🇧🇾
+
+At least **142** deals were offered
+
+The count of free deals: **x**
+
+The total amount of cash saved (free offers only) is approximately: **x** $
+
 
 <br />
 <br />
