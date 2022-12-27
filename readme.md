@@ -29,7 +29,7 @@ A lot of cool apps were spotted on Indie app santa! Like [`💳` **CardPointers*
 
 ###### coming soon!
 
-Here were spotted developers from more than **21** countries, here are some of them
+Here were spotted developers from more than **21** countries, some of them
 
 🇩🇪 🇳🇱 🇮🇳 🇫🇷 🇳🇴 🇮🇪 🇬🇧 🇺🇸 🇮🇹 🇨🇿 🇳🇿 🇧🇷 🇦🇺 🇪🇸 🇸🇬 🇺🇦 🇫🇷 🇮🇪 🇳🇴 🇨🇦 🇧🇾
 
