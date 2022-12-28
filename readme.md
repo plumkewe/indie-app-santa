@@ -29,9 +29,9 @@ A lot of cool apps were spotted on Indie app santa! Like [`💳` **CardPointers*
 
 ###### coming soon!
 
-Here were spotted developers from more than **21** countries, some of them
+Here were spotted developers from more than **18** countries, some of them
 
-🇩🇪 🇳🇱 🇮🇳 🇫🇷 🇳🇴 🇮🇪 🇬🇧 🇺🇸 🇮🇹 🇨🇿 🇳🇿 🇧🇷 🇦🇺 🇪🇸 🇸🇬 🇺🇦 🇫🇷 🇮🇪 🇳🇴 🇨🇦 🇧🇾
+🇩🇪 🇳🇱 🇮🇳 🇫🇷 🇳🇴 🇮🇪 🇬🇧 🇺🇸 🇮🇹 🇨🇿 🇳🇿 🇧🇷 🇦🇺 🇪🇸 🇸🇬 🇺🇦 🇨🇦 🇧🇾
 
 At least **142** deals were offered
 
@@ -88,6 +88,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | 25 | <img src="Other/Images/Icons/luana.PNG" width="15px" lenght="15px"> [Luana](https://apps.apple.com/it/app/luana-motivation-journal/id1622980363?l=en) | [@Luana_app](https://twitter.com/luana_app) | `✴️ 4.99 instead of €39.99` | [🇩🇪 Stefan Liesendahl](https://twitter.com/StefanLdhl) | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1622980363) |
 | 26 | <img src="Other/Images/Icons/frantic.PNG" width="15px" lenght="15px"> [Frantic Ball](https://apps.apple.com/it/app/frantic-fall/id1591348188?l=en) | `☁️` | `✴️ 0.99 instead of €1.99` | [🇸🇬 Vikas Pawarux](https://twitter.com/pawar_vikas036) | `📱` `💻` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1591348188) |
 | 27 | <img src="Other/Images/Icons/foodnorms.PNG" width="15px" lenght="15px"> [FoodNoms](https://apps.apple.com/it/app/foodnoms-food-tracker/id1479461686?l=en) | [@Food_noms](https://twitter.com/food_noms) | `❇️ free 6 months` | [🇺🇸 Ryan Ashcraft](https://twitter.com/ryanashcraft) | `📱` `⌚️` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1479461686) |
+| 28 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [Kattam](https://apps.apple.com/app/id1605984718) | `☁️` | `❇️` | [🇺🇸 Ozarius](https://twitter.com/ozarius) | `📱` `💻` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1605984718) |
 
 <hr>
 
@@ -97,7 +98,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 
 <br />
 
-`❇️ × 12` `✴️ × 15`
+`❇️ × 13` `✴️ × 15`
 
 <br /> <br />
 
@@ -234,7 +235,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=639798
 `❇️ Free` `✴️ Discount` `💟 Awesome`  <br />
 
 | **Day** | **App** | **Twitter Post** | **Free?**|
-|:--: | :-- | :--: | :--: |
+|:--: | :-- | :--: | :-- |
 | 2 | <img src="Other/Images/Icons/Icons20/Jenuary/tasks.PNG" width="15px" lenght="15px"> [Tasks](https://apps.apple.com/in/app/tasks-to-do-lists-reminders/id1502903102) | [`🔗`](https://twitter.com/indieappsanta/status/1345233356955344896?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `✴️ $4.99/year, lifetime: $24.99` |
 | 3 | <img src="Other/Images/Icons/Icons20/Jenuary/pathways.PNG" width="15px" lenght="15px"> [Pathways](https://apps.apple.com/app/id1459259446) | [`🔗`](https://twitter.com/indieappsanta/status/1345631698290155524?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️ Remove Ads: $0` `✴️ Pack of 20 Hints: $0.99` |
 | 4 | <img src="Other/Images/Icons/Icons20/Jenuary/themed.PNG" width="15px" lenght="15px"> [Themed](https://apps.apple.com/us/app/themed/id1532653006) | [`🔗`](https://twitter.com/indieappsanta/status/1345958134225879040?s=20&t=Tw9dUxPjjfEfzifTr0kM5g) | `❇️` |
@@ -278,7 +279,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=639798
 `❇️ Free` `✴️ Discount` `💟 Awesome`  <br />
 
 | **Day** | **App** | **Twitter Post** | **Free?**|
-|:--: | :-- | :--: | :--: |
+|:--: | :-- | :--: | :-- |
 | 2 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px"> [BodyOK](https://apps.apple.com/it/app/bodyok-intermittent-fasting/id1472114109?ign-itscg=30200&ign-itsct=apps_box) | [`🔗`](https://twitter.com/indieappsanta/status/1356467382273732609?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
 | 3 | <img src="Other/Images/Icons/Icons20/orbit.PNG" width="15px" lenght="15px"> [Orbit](https://apps.apple.com/app/orbit-time-based-invoicing/id1501298198) | [`🔗`](https://twitter.com/indieappsanta/status/1356829771326349315?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 3 Moths -75% & 1 year -75%` |
 | 4 | <img src="Other/Images/Icons/Icons20/sceneshot.PNG" width="15px" lenght="15px"> [SceneShot](https://apps.apple.com/it/app/sceneshot/id1451459822) | [`🔗`](https://twitter.com/indieappsanta/status/1357192157128396801?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
@@ -319,7 +320,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=639798
 `❇️ Free` `✴️ Discount` <br />
 
 | **Day** | **App** | **Twitter Post** | **Free?**|
-|:--: | :-- | :--: | :--: |
+|:--: | :-- | :--: | :-- |
 | 1 | <img src="Other/Images/Icons/Icons20/apollo.PNG" width="15px" lenght="15px"> [Apollo](https://apps.apple.com/app/id1373682251) | [`🔗`](https://twitter.com/indieappsanta/status/1366251855421059074?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
 | 2 | <img src="Other/Images/Icons/Icons20/birthday.PNG" width="15px" lenght="15px"> [Birthday Reminder App & Widget](https://apps.apple.com/app/id1550516996) | [`🔗`](https://twitter.com/indieappsanta/status/1366614242103857159?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 50% off` |
 
