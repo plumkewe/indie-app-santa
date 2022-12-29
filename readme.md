@@ -89,16 +89,17 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | 26 | <img src="Other/Images/Icons/frantic.PNG" width="15px" lenght="15px"> [Frantic Ball](https://apps.apple.com/it/app/frantic-fall/id1591348188?l=en) | `☁️` | `✴️ 0.99 instead of €1.99` | [🇸🇬 Vikas Pawarux](https://twitter.com/pawar_vikas036) | `📱` `💻` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1591348188) |
 | 27 | <img src="Other/Images/Icons/foodnorms.PNG" width="15px" lenght="15px"> [FoodNoms](https://apps.apple.com/it/app/foodnoms-food-tracker/id1479461686?l=en) | [@Food_noms](https://twitter.com/food_noms) | `❇️ free 6 months` | [🇺🇸 Ryan Ashcraft](https://twitter.com/ryanashcraft) | `📱` `⌚️` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1479461686) |
 | 28 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [Kattam](https://apps.apple.com/app/id1605984718) | `☁️` | `❇️` | [🇺🇸 Ozarius](https://twitter.com/ozarius) | `📱` `💻` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1605984718) |
+| 29 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [WaterMinder](https://apps.apple.com/it/app/waterminder-water-tracker/id653031147?l=en) | [@WaterMinder_app](https://twitter.com/waterminder_app) | `✴️  9.99 instead of €24.99` | [🇺🇸 Kriss Smolka](https://twitter.com/ksmolka) | `📱` `⌚️` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=653031147) |
 
 <hr>
 
 ### Data
 
-`🇩🇪 × 2` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1` `🇮🇪 × 1` `🇬🇧 × 1` `🇺🇸 × 2` `🇮🇹 × 1` `🇨🇿 × 1` `🇳🇿 × 1` `🇧🇷 × 1` `🇦🇺 × 1` `🇪🇸 × 1` `🇸🇬 × 1`
+`🇩🇪 × 2` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1` `🇮🇪 × 1` `🇬🇧 × 1` `🇺🇸 × 4` `🇮🇹 × 1` `🇨🇿 × 1` `🇳🇿 × 1` `🇧🇷 × 1` `🇦🇺 × 1` `🇪🇸 × 1` `🇸🇬 × 1`
 
 <br />
 
-`❇️ × 13` `✴️ × 15`
+`❇️ × 13` `✴️ × 16`
 
 <br /> <br />
 
