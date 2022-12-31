@@ -47,9 +47,9 @@ The total amount of cash saved (free offers only) is approximately: **x** $
 
 ### My top:
 
-#### 🥇 [Waiting]()
-#### 🥈 [Waiting]() 
-#### 🥉 [Waiting]()
+#### 🥇 [ManGo](https://apps.apple.com/it/app/mango-anime-manga-tracker/id1604385869?l=en)
+#### 🥈 [Expenses](https://apps.apple.com/it/app/expenses-spending-tracker/id1492055171?l=en) 
+#### 🥉 [MusicSmart](https://apps.apple.com/it/app/musicsmart-liner-notes/id1512195368?l=en)
 
 <br />
 
@@ -88,19 +88,20 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | 25 | <img src="Other/Images/Icons/luana.PNG" width="15px" lenght="15px"> [Luana](https://apps.apple.com/it/app/luana-motivation-journal/id1622980363?l=en) | [@Luana_app](https://twitter.com/luana_app) | `✴️ 4.99 instead of €39.99` | [🇩🇪 Stefan Liesendahl](https://twitter.com/StefanLdhl) | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1622980363) |
 | 26 | <img src="Other/Images/Icons/frantic.PNG" width="15px" lenght="15px"> [Frantic Ball](https://apps.apple.com/it/app/frantic-fall/id1591348188?l=en) | `☁️` | `✴️ 0.99 instead of €1.99` | [🇸🇬 Vikas Pawarux](https://twitter.com/pawar_vikas036) | `📱` `💻` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1591348188) |
 | 27 | <img src="Other/Images/Icons/foodnorms.PNG" width="15px" lenght="15px"> [FoodNoms](https://apps.apple.com/it/app/foodnoms-food-tracker/id1479461686?l=en) | [@Food_noms](https://twitter.com/food_noms) | `❇️ free 6 months` | [🇺🇸 Ryan Ashcraft](https://twitter.com/ryanashcraft) | `📱` `⌚️` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1479461686) |
-| 28 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [Kattam](https://apps.apple.com/app/id1605984718) | `☁️` | `❇️` | [🇺🇸 Ozarius](https://twitter.com/ozarius) | `📱` `💻` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1605984718) |
-| 29 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [WaterMinder](https://apps.apple.com/it/app/waterminder-water-tracker/id653031147?l=en) | [@WaterMinder_app](https://twitter.com/waterminder_app) | `✴️  9.99 instead of €24.99` | [🇺🇸 Kriss Smolka](https://twitter.com/ksmolka) | `📱` `⌚️` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=653031147) |
+| 28 | <img src="Other/Images/Icons/kattam.PNG" width="15px" lenght="15px"> [Kattam](https://apps.apple.com/app/id1605984718) | `☁️` | `❇️` | [🇺🇸 Ozarius](https://twitter.com/ozarius) | `📱` `💻` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1605984718) |
+| 29 | <img src="Other/Images/Icons/waterminder.PNG" width="15px" lenght="15px"> [WaterMinder](https://apps.apple.com/it/app/waterminder-water-tracker/id653031147?l=en) | [@WaterMinder_app](https://twitter.com/waterminder_app) | `✴️  9.99 instead of €24.99` | [🇺🇸 Kriss Smolka](https://twitter.com/ksmolka) | `📱` `⌚️` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=653031147) |
 | 30 | <img src="Other/Images/Icons/Icons21/fintessview.PNG" width="15px" lenght="15px"> [FitnessView](https://apps.apple.com/it/app/fitnessview-activity-tracker/id1531983371?l=en) | `☁️` | `✴️  9.99 instead of €29.99` | [🇺🇸 Kriss Smolka](https://twitter.com/ksmolka) | `📱` `⌚️` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1531983371) |
+| 31 | <img src="Other/Images/Icons/Icons21/fooddiary.PNG" width="15px" lenght="15px"> [Food Diary](https://apps.apple.com/it/app/food-diary-by-moderation/id1086750452?l=en) | `☁️` | `❇️ Free 1 year` | [🇬🇧 Dom](https://twitter.com/domzy) | `📱` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1086750452) |
 
 <hr>
 
 ### Data
 
-`🇩🇪 × 2` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1` `🇮🇪 × 1` `🇬🇧 × 1` `🇺🇸 × 5` `🇮🇹 × 1` `🇨🇿 × 1` `🇳🇿 × 1` `🇧🇷 × 1` `🇦🇺 × 1` `🇪🇸 × 1` `🇸🇬 × 1`
+`🇩🇪 × 2` `🇳🇱 × 3` `🇮🇳 × 2` `🇫🇷 × 1` `🇳🇴 × 1` `🇮🇪 × 1` `🇬🇧 × 2` `🇺🇸 × 5` `🇮🇹 × 1` `🇨🇿 × 1` `🇳🇿 × 1` `🇧🇷 × 1` `🇦🇺 × 1` `🇪🇸 × 1` `🇸🇬 × 1`
 
 <br />
 
-`❇️ × 13` `✴️ × 17`
+`❇️ × 14` `✴️ × 17`
 
 <br /> <br />
 
