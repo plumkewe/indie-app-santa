@@ -114,16 +114,17 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | **Day** | **App** | **Twitter** | **Free?**| **Dev** | **Available on** | **AppHookup** | **AppRaven** |
 |:--: | :-- | :-- | :-- | :-- | :--: | :-- | :--: |
 | 1 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [Spin the Wheel](https://apps.apple.com/us/app/random-wheel-spin-pick-me/id1523238520?itscg=30200&itsct=apps_box_link) | [@PickMeTheApp](https://twitter.com/PickMeTheApp) | `❇️` | [🇮🇪 Marius Capps](https://twitter.com/marius_capps) | `📱` `iPad` | [`💬` Got it too! Than...](https://www.reddit.com/r/AppHookup/comments/1007amt/iosipados_spin_the_wheel_pick_me_pro_iap_399_free/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1523238520) |
+| 2 | <img src="Other/Images/Icons/Icons20/Jenuary/learnjp.PNG" width="15px" lenght="15px"> [Learn Japanese](https://apps.apple.com/app/id1541592138) | [@BenkyoApp](https://twitter.com/benkyoapp) | `✴️ €19.99 instead of €129.99` | [🇯🇵 Romain Pellen](https://twitter.com/pellenromain) | `📱` `iPad` | [`💬` It’s great…](https://reddit.com/r/AppHookup/comments/10191z9/iosipados_learn_japanese_benky%C5%8D_iap_lifetime/) | [`🔗` ](https://appraven.net/openLink.php?appId=1541592138) |
 
 <hr>
 
 ### Data <br />
 
-`🇮🇪 × 1`
+`🇮🇪 × 1` `🇯🇵 × 1`
 
 <br />
 
-`❇️ × 1` `✴️ × `
+`❇️ × 1` `✴️ × 1`
 
 <br /> <br />
 
