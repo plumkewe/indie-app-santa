@@ -57,6 +57,8 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 
 <br />
 
+## **December**
+
 `❇️ Free` `✴️ Discount` `☁️ 🇺🇳 No info` <br />
 
 | **Day** | **App** | **Twitter** | **Free?**| **Dev** | **Available on** | **AppHookup** | **AppRaven** |
@@ -91,7 +93,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | 28 | <img src="Other/Images/Icons/kattam.PNG" width="15px" lenght="15px"> [Kattam](https://apps.apple.com/app/id1605984718) | `☁️` | `❇️` | [🇺🇸 Ozarius](https://twitter.com/ozarius) | `📱` `💻` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1605984718) |
 | 29 | <img src="Other/Images/Icons/waterminder.PNG" width="15px" lenght="15px"> [WaterMinder](https://apps.apple.com/it/app/waterminder-water-tracker/id653031147?l=en) | [@WaterMinder_app](https://twitter.com/waterminder_app) | `✴️  9.99 instead of €24.99` | [🇺🇸 Kriss Smolka](https://twitter.com/ksmolka) | `📱` `⌚️` `iPad` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=653031147) |
 | 30 | <img src="Other/Images/Icons/Icons21/fintessview.PNG" width="15px" lenght="15px"> [FitnessView](https://apps.apple.com/it/app/fitnessview-activity-tracker/id1531983371?l=en) | `☁️` | `✴️  9.99 instead of €29.99` | [🇺🇸 Kriss Smolka](https://twitter.com/ksmolka) | `📱` `⌚️` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1531983371) |
-| 31 | <img src="Other/Images/Icons/Icons21/fooddiary.PNG" width="15px" lenght="15px"> [Food Diary](https://apps.apple.com/it/app/food-diary-by-moderation/id1086750452?l=en) | `☁️` | `❇️ Free 1 year` | [🇬🇧 Dom](https://twitter.com/domzy) | `📱` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1086750452) |
+| 31 | <img src="Other/Images/Icons/fooddiary.PNG" width="15px" lenght="15px"> [Food Diary](https://apps.apple.com/it/app/food-diary-by-moderation/id1086750452?l=en) | `☁️` | `❇️ Free 1 year` | [🇬🇧 Dom](https://twitter.com/domzy) | `📱` | `☁️` | [`🔗`](https://appraven.net/openLink.php?appId=1086750452) |
 
 <hr>
 
@@ -102,6 +104,29 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 <br />
 
 `❇️ × 14` `✴️ × 17`
+
+<br />
+
+## **Jenuary**
+
+`❇️ Free` `✴️ Discount` `💟 Awesome`  <br />
+
+| **Day** | **App** | **Twitter** | **Free?**| **Dev** | **Available on** | **AppHookup** | **AppRaven** |
+|:--: | :-- | :-- | :-- | :-- | :--: | :-- | :--: |
+| 1 | <img src="Other/Images/Icons/spinthewheel.PNG" width="15px" lenght="15px"> [Spin the Wheel](https://apps.apple.com/us/app/random-wheel-spin-pick-me/id1523238520?itscg=30200&itsct=apps_box_link) | [@PickMeTheApp](https://twitter.com/PickMeTheApp) | `❇️` | [🇮🇪 Marius Capps](https://twitter.com/marius_capps) | `📱` `iPad` | [`💬` Got it too! Than...](https://www.reddit.com/r/AppHookup/comments/1007amt/iosipados_spin_the_wheel_pick_me_pro_iap_399_free/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1523238520) |
+| 2 | <img src="Other/Images/Icons/Icons20/Jenuary/learnjp.PNG" width="15px" lenght="15px"> [Learn Japanese](https://apps.apple.com/app/id1541592138) | [@BenkyoApp](https://twitter.com/benkyoapp) | `✴️ €19.99 instead of €129.99` | [🇯🇵 Romain Pellen](https://twitter.com/pellenromain) | `📱` `iPad` | [`💬` It’s great…](https://reddit.com/r/AppHookup/comments/10191z9/iosipados_learn_japanese_benky%C5%8D_iap_lifetime/) | [`🔗` ](https://appraven.net/openLink.php?appId=1541592138) |
+| 3 | <img src="Other/Images/Icons/noteful.PNG" width="15px" lenght="15px"> [Noteful](https://apps.apple.com/it/app/noteful-note-taking-on-pdf/id1587904334?l=en) | [@Getnoteful](https://twitter.com/getnoteful) | `✴️ €2.99 instead of €4.99` | `☁️` | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1587904334) |
+| 4 | <img src="Other/Images/Icons/dayssince.PNG" width="15px" lenght="15px"> [Days Since](https://apps.apple.com/it/app/days-since-sober-day-tracker/id1445348921?l=en) | `☁️` | `❇️` | [🇧🇬 Ivelin Davidov](https://twitter.com/ItskoBits) | `📱` `⌚️` | [`💬` Thanks for creat](https://www.reddit.com/r/AppHookup/comments/102o27q/ioswatchos_days_since_lifetime_iap_4999_free_as/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1445348921) |
+
+<hr>
+
+### Data <br />
+
+`🇮🇪 × 1` `🇯🇵 × 1` `🇧🇬 × 1`
+
+<br />
+
+`❇️ × 2` `✴️ × 2`
 
 <br /> <br />
 
