@@ -113,18 +113,20 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 
 | **Day** | **App** | **Twitter** | **Free?**| **Dev** | **Available on** | **AppHookup** | **AppRaven** |
 |:--: | :-- | :-- | :-- | :-- | :--: | :-- | :--: |
-| 1 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [Spin the Wheel](https://apps.apple.com/us/app/random-wheel-spin-pick-me/id1523238520?itscg=30200&itsct=apps_box_link) | [@PickMeTheApp](https://twitter.com/PickMeTheApp) | `❇️` | [🇮🇪 Marius Capps](https://twitter.com/marius_capps) | `📱` `iPad` | [`💬` Got it too! Than...](https://www.reddit.com/r/AppHookup/comments/1007amt/iosipados_spin_the_wheel_pick_me_pro_iap_399_free/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1523238520) |
+| 1 | <img src="Other/Images/Icons/spinthewheel.PNG" width="15px" lenght="15px"> [Spin the Wheel](https://apps.apple.com/us/app/random-wheel-spin-pick-me/id1523238520?itscg=30200&itsct=apps_box_link) | [@PickMeTheApp](https://twitter.com/PickMeTheApp) | `❇️` | [🇮🇪 Marius Capps](https://twitter.com/marius_capps) | `📱` `iPad` | [`💬` Got it too! Than...](https://www.reddit.com/r/AppHookup/comments/1007amt/iosipados_spin_the_wheel_pick_me_pro_iap_399_free/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1523238520) |
 | 2 | <img src="Other/Images/Icons/Icons20/Jenuary/learnjp.PNG" width="15px" lenght="15px"> [Learn Japanese](https://apps.apple.com/app/id1541592138) | [@BenkyoApp](https://twitter.com/benkyoapp) | `✴️ €19.99 instead of €129.99` | [🇯🇵 Romain Pellen](https://twitter.com/pellenromain) | `📱` `iPad` | [`💬` It’s great…](https://reddit.com/r/AppHookup/comments/10191z9/iosipados_learn_japanese_benky%C5%8D_iap_lifetime/) | [`🔗` ](https://appraven.net/openLink.php?appId=1541592138) |
+| 3 | <img src="Other/Images/Icons/noteful.PNG" width="15px" lenght="15px"> [Noteful](https://apps.apple.com/it/app/noteful-note-taking-on-pdf/id1587904334?l=en) | [@Getnoteful](https://twitter.com/getnoteful) | `✴️ €2.99 instead of €4.99` | `☁️` | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1587904334) |
+| 4 | <img src="Other/Images/Icons/dayssince.PNG" width="15px" lenght="15px"> [Days Since](https://apps.apple.com/it/app/days-since-sober-day-tracker/id1445348921?l=en) | `☁️` | `❇️` | [🇧🇬 Ivelin Davidov](https://twitter.com/ItskoBits) | `📱` `⌚️` | [`💬` Thanks for creat](https://www.reddit.com/r/AppHookup/comments/102o27q/ioswatchos_days_since_lifetime_iap_4999_free_as/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1445348921) |
 
 <hr>
 
 ### Data <br />
 
-`🇮🇪 × 1` `🇯🇵 × 1`
+`🇮🇪 × 1` `🇯🇵 × 1` `🇧🇬 × 1`
 
 <br />
 
-`❇️ × 1` `✴️ × 1`
+`❇️ × 2` `✴️ × 2`
 
 <br /> <br />
 
