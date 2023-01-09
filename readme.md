@@ -116,17 +116,22 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | 1 | <img src="Other/Images/Icons/spinthewheel.PNG" width="15px" lenght="15px"> [Spin the Wheel](https://apps.apple.com/us/app/random-wheel-spin-pick-me/id1523238520?itscg=30200&itsct=apps_box_link) | [@PickMeTheApp](https://twitter.com/PickMeTheApp) | `❇️` | [🇮🇪 Marius Capps](https://twitter.com/marius_capps) | `📱` `iPad` | [`💬` Got it too! Than...](https://www.reddit.com/r/AppHookup/comments/1007amt/iosipados_spin_the_wheel_pick_me_pro_iap_399_free/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1523238520) |
 | 2 | <img src="Other/Images/Icons/Icons20/Jenuary/learnjp.PNG" width="15px" lenght="15px"> [Learn Japanese](https://apps.apple.com/app/id1541592138) | [@BenkyoApp](https://twitter.com/benkyoapp) | `✴️ €19.99 instead of €129.99` | [🇯🇵 Romain Pellen](https://twitter.com/pellenromain) | `📱` `iPad` | [`💬` It’s great…](https://reddit.com/r/AppHookup/comments/10191z9/iosipados_learn_japanese_benky%C5%8D_iap_lifetime/) | [`🔗` ](https://appraven.net/openLink.php?appId=1541592138) |
 | 3 | <img src="Other/Images/Icons/noteful.PNG" width="15px" lenght="15px"> [Noteful](https://apps.apple.com/it/app/noteful-note-taking-on-pdf/id1587904334?l=en) | [@Getnoteful](https://twitter.com/getnoteful) | `✴️ €2.99 instead of €4.99` | `☁️` | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1587904334) |
-| 4 | <img src="Other/Images/Icons/dayssince.PNG" width="15px" lenght="15px"> [Days Since](https://apps.apple.com/it/app/days-since-sober-day-tracker/id1445348921?l=en) | `☁️` | `❇️` | [🇧🇬 Ivelin Davidov](https://twitter.com/ItskoBits) | `📱` `⌚️` | [`💬` Thanks for creat](https://www.reddit.com/r/AppHookup/comments/102o27q/ioswatchos_days_since_lifetime_iap_4999_free_as/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1445348921) |
+| 4 | <img src="Other/Images/Icons/dayssince.PNG" width="15px" lenght="15px"> [Days Since](https://apps.apple.com/it/app/days-since-sober-day-tracker/id1445348921?l=en) | `☁️` | `❇️` | [🇧🇬 Ivelin Davidov](https://twitter.com/ItskoBits) | `📱` `⌚️` | [`💬` Thanks for creat...](https://www.reddit.com/r/AppHookup/comments/102o27q/ioswatchos_days_since_lifetime_iap_4999_free_as/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1445348921) |
+| 5 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [Amato](https://apps.apple.com/us/app/amato-relationship-tracker/id1614085893?itscg=30200&itsct=apps_box_link) | [AmatoApp](https://twitter.com/AmatoApp) | `❇️` | [🇦🇹 Anika Seibezeder](https://twitter.com/anikaseibezeder) | `📱` | [`💬` Thank you and..](https://www.reddit.com/r/AppHookup/comments/103ws81/ios_amato_relationship_tracker_lifetime_iap_1499/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1614085893) |
+| 6 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [Cue It](https://apps.apple.com/us/app/cue-it-interval-timer/id1554593287?uo=4&at=1000l32Lj) | `☁️` | `❇️` | `☁️` | `📱` `⌚iPad` | [`💬` Thank you...](https://www.reddit.com/r/AppHookup/comments/104erv0/iosipados_cue_it_interval_timer_299_free_as_apart/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1554593287) |
+| 7 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [Sticker Drop](https://apps.apple.com/us/app/sticker-drop/id1629369500?uo=4&at=1000l32Lj) | `☁️` | `✴️ €0.99 instead of €2.99` | [🇦🇺 Aaron Stephenson](https://twitter.com/azzoor) | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1629369500) |
+| 8 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [Macro Tracker IIFYM](https://apps.apple.com/us/app/macro-tracker-iifym-lilbite/id1581072935?uo=4&at=1000l32Lj) | [@lilbite_ai](https://twitter.com/lilbite_ai) | `❇️ 1 year free` | [🇺🇳 Abhinav Singh](https://twitter.com/4bh1nav) | `📱` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1581072935) |
+| 9 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [TimeFinder](https://apps.apple.com/us/app/timefinder-daily-time-blocking/id1347447233?uo=4&at=1000l32Lj) | [@TimeFinderApp](https://twitter.com/TimeFinderApp) | `❇️` | [🇺🇸 Luke Memet](https://twitter.com/lukememet) | `📱` `💻` `iPad` | [`💬` Great app...](https://www.reddit.com/r/AppHookup/comments/106zam5/ios_universaltime_finderlifetime_iap_1999_free/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1347447233) |
 
 <hr>
 
 ### Data <br />
 
-`🇮🇪 × 1` `🇯🇵 × 1` `🇧🇬 × 1`
+`🇮🇪 × 1` `🇯🇵 × 1` `🇧🇬 × 1` `🇺🇸 × 1` `🇦🇺 × 1` `🇦🇹 × 1`
 
 <br />
 
-`❇️ × 2` `✴️ × 2`
+`❇️ × 6` `✴️ × 3`
 
 <br /> <br />
 
