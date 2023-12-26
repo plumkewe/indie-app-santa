@@ -116,17 +116,22 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=63979c
 | 1 | <img src="Other/Images/Icons/spinthewheel.PNG" width="15px" lenght="15px"> [Spin the Wheel](https://apps.apple.com/us/app/random-wheel-spin-pick-me/id1523238520?itscg=30200&itsct=apps_box_link) | [@PickMeTheApp](https://twitter.com/PickMeTheApp) | `❇️` | [🇮🇪 Marius Capps](https://twitter.com/marius_capps) | `📱` `iPad` | [`💬` Got it too! Than...](https://www.reddit.com/r/AppHookup/comments/1007amt/iosipados_spin_the_wheel_pick_me_pro_iap_399_free/?utm_source=share&utm_medium=web2x&context=3) | [`🔗`](https://appraven.net/openLink.php?appId=1523238520) |
 | 2 | <img src="Other/Images/Icons/Icons20/Jenuary/learnjp.PNG" width="15px" lenght="15px"> [Learn Japanese](https://apps.apple.com/app/id1541592138) | [@BenkyoApp](https://twitter.com/benkyoapp) | `✴️ €19.99 instead of €129.99` | [🇯🇵 Romain Pellen](https://twitter.com/pellenromain) | `📱` `iPad` | [`💬` It’s great…](https://reddit.com/r/AppHookup/comments/10191z9/iosipados_learn_japanese_benky%C5%8D_iap_lifetime/) | [`🔗` ](https://appraven.net/openLink.php?appId=1541592138) |
 | 3 | <img src="Other/Images/Icons/noteful.PNG" width="15px" lenght="15px"> [Noteful](https://apps.apple.com/it/app/noteful-note-taking-on-pdf/id1587904334?l=en) | [@Getnoteful](https://twitter.com/getnoteful) | `✴️ €2.99 instead of €4.99` | `☁️` | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1587904334) |
-| 4 | <img src="Other/Images/Icons/dayssince.PNG" width="15px" lenght="15px"> [Days Since](https://apps.apple.com/it/app/days-since-sober-day-tracker/id1445348921?l=en) | `☁️` | `❇️` | [🇧🇬 Ivelin Davidov](https://twitter.com/ItskoBits) | `📱` `⌚️` | [`💬` Thanks for creat](https://www.reddit.com/r/AppHookup/comments/102o27q/ioswatchos_days_since_lifetime_iap_4999_free_as/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1445348921) |
+| 4 | <img src="Other/Images/Icons/dayssince.PNG" width="15px" lenght="15px"> [Days Since](https://apps.apple.com/it/app/days-since-sober-day-tracker/id1445348921?l=en) | `☁️` | `❇️` | [🇧🇬 Ivelin Davidov](https://twitter.com/ItskoBits) | `📱` `⌚️` | [`💬` Thanks for creat...](https://www.reddit.com/r/AppHookup/comments/102o27q/ioswatchos_days_since_lifetime_iap_4999_free_as/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1445348921) |
+| 5 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [Amato](https://apps.apple.com/us/app/amato-relationship-tracker/id1614085893?itscg=30200&itsct=apps_box_link) | [AmatoApp](https://twitter.com/AmatoApp) | `❇️` | [🇦🇹 Anika Seibezeder](https://twitter.com/anikaseibezeder) | `📱` | [`💬` Thank you and..](https://www.reddit.com/r/AppHookup/comments/103ws81/ios_amato_relationship_tracker_lifetime_iap_1499/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1614085893) |
+| 6 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [Cue It](https://apps.apple.com/us/app/cue-it-interval-timer/id1554593287?uo=4&at=1000l32Lj) | `☁️` | `❇️` | `☁️` | `📱` `⌚iPad` | [`💬` Thank you...](https://www.reddit.com/r/AppHookup/comments/104erv0/iosipados_cue_it_interval_timer_299_free_as_apart/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1554593287) |
+| 7 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [Sticker Drop](https://apps.apple.com/us/app/sticker-drop/id1629369500?uo=4&at=1000l32Lj) | `☁️` | `✴️ €0.99 instead of €2.99` | [🇦🇺 Aaron Stephenson](https://twitter.com/azzoor) | `📱` `iPad` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1629369500) |
+| 8 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [Macro Tracker IIFYM](https://apps.apple.com/us/app/macro-tracker-iifym-lilbite/id1581072935?uo=4&at=1000l32Lj) | [@lilbite_ai](https://twitter.com/lilbite_ai) | `❇️ 1 year free` | [🇺🇳 Abhinav Singh](https://twitter.com/4bh1nav) | `📱` | `☁️` | [`🔗`](https://appraven.net/apps/detail.php?appId=1581072935) |
+| 9 | <img src="Other/Images/Icons/.PNG" width="15px" lenght="15px"> [TimeFinder](https://apps.apple.com/us/app/timefinder-daily-time-blocking/id1347447233?uo=4&at=1000l32Lj) | [@TimeFinderApp](https://twitter.com/TimeFinderApp) | `❇️` | [🇺🇸 Luke Memet](https://twitter.com/lukememet) | `📱` `💻` `iPad` | [`💬` Great app...](https://www.reddit.com/r/AppHookup/comments/106zam5/ios_universaltime_finderlifetime_iap_1999_free/) | [`🔗`](https://appraven.net/apps/detail.php?appId=1347447233) |
 
 <hr>
 
 ### Data <br />
 
-`🇮🇪 × 1` `🇯🇵 × 1` `🇧🇬 × 1`
+`🇮🇪 × 1` `🇯🇵 × 1` `🇧🇬 × 1` `🇺🇸 × 1` `🇦🇺 × 1` `🇦🇹 × 1`
 
 <br />
 
-`❇️ × 2` `✴️ × 2`
+`❇️ × 6` `✴️ × 3`
 
 <br /> <br />
 
@@ -258,7 +263,7 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=639798
 
 <br />
 
-## **Jenuary**
+## **January**
 
 `❇️ Free` `✴️ Discount` `💟 Awesome`  <br />
 
@@ -311,9 +316,9 @@ There's an AppRaven [collection](https://appraven.net/openLink.php?listId=639798
 | 2 | <img src="Other/Images/Icons/no_icon.PNG" width="15px" lenght="15px"> [BodyOK](https://apps.apple.com/it/app/bodyok-intermittent-fasting/id1472114109?ign-itscg=30200&ign-itsct=apps_box) | [`🔗`](https://twitter.com/indieappsanta/status/1356467382273732609?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
 | 3 | <img src="Other/Images/Icons/Icons20/orbit.PNG" width="15px" lenght="15px"> [Orbit](https://apps.apple.com/app/orbit-time-based-invoicing/id1501298198) | [`🔗`](https://twitter.com/indieappsanta/status/1356829771326349315?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 3 Moths -75% & 1 year -75%` |
 | 4 | <img src="Other/Images/Icons/Icons20/sceneshot.PNG" width="15px" lenght="15px"> [SceneShot](https://apps.apple.com/it/app/sceneshot/id1451459822) | [`🔗`](https://twitter.com/indieappsanta/status/1357192157128396801?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
-| 5 | <img src="Other/Images/Icons/Icons20/universaltv.PNG" width="15px" lenght="15px"> [TV Remote](https://apps.apple.com/it/app/tv-remote-telecomando-tv-app/id1539419805) | [` `](https://twitter.com/indieappsanta/status/1357554545576923137?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 50% off` |
+| 5 | <img src="Other/Images/Icons/Icons20/universaltv.PNG" width="15px" lenght="15px"> [TV Remote](https://apps.apple.com/it/app/tv-remote-telecomando-tv-app/id1539419805) | [`🔗`](https://twitter.com/indieappsanta/status/1357554545576923137?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 50% off` |
 | 6 | <img src="Other/Images/Icons/Icons20/life.PNG" width="15px" lenght="15px"> [Life](https://apps.apple.com/app/id1534791123) | [`🔗`](https://twitter.com/indieappsanta/status/1357916935854321666?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
-| 7 | <img src="Other/Images/Icons/Icons20/tonaly.PNG" width="15px" lenght="15px"> [Tonaly](https://apps.apple.com/app/apple-store/id1242467844) | [`🔗`](https: //twitter.com/indieappsanta/status/1358279321660526595?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 30% off` |
+| 7 | <img src="Other/Images/Icons/Icons20/tonaly.PNG" width="15px" lenght="15px"> [Tonaly](https://apps.apple.com/app/apple-store/id1242467844) | [`🔗`](https://twitter.com/indieappsanta/status/1358279321660526595?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 30% off` |
 | 8 | <img src="Other/Images/Icons/Icons20/mypedometer.PNG" width="15px" lenght="15px"> [My Pedometer](https://apps.apple.com/app/id1535605917) | [`🔗`](https://twitter.com/indieappsanta/status/1358641710562222082?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `❇️` |
 | 9 | <img src="Other/Images/Icons/Icons20/pushhero.PNG" width="15px" lenght="15px"> [Push Hero](https://apps.apple.com/it/app/push-hero-test-notifications/id1499227284) | [`🔗`](https://twitter.com/indieappsanta/status/1359004096544448512?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 80% off` |
 | 10 | <img src="Other/Images/Icons/Icons20/subsee.PNG" width="15px" lenght="15px"> [Subsee](https://apps.apple.com/it/app/subsee-subscriptions-tracker/id1499253615) | [`🔗`](https://twitter.com/indieappsanta/status/1359366487077621760?s=20&t=GnJkN9e1wnulHkBzgFds_w) | `✴️ 85% off` |
