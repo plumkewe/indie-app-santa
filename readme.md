@@ -146,7 +146,6 @@ While the database isn't superb and may have some missing data, I hope that, wit
 <img src="icon/124.png">
 <img src="icon/125.png">
 <img src="icon/126.png">
-<img src="icon/127.png">
 <img src="icon/128.png">
 <img src="icon/129.png">
 <img src="icon/130.png">
