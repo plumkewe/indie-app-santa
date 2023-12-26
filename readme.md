@@ -1,12 +1,13 @@
 <img src="image/main.png" alt="example query and indie app santa app" width="90%" align="center">
-<h1 align="center">INDIE APP SANTA DATABASE</h1>
+<h1 align="center">INDIE APP SANTA</h1>
 <p align="center">
 	I initiated this repository in 2022 (see the <a href="legacy/readme.md">legacy version</a>) to archive the Indie App Santa event, <b>a fantastic initiative</b> for independent developers. Now, you can explore and query various data related to this event. It's a great opportunity for indie developers to emerge and for users to discover new and exciting apps. <b>François Boulais</b>, an indie developer himself, is behind this event. Connect with him on <a href="https://twitter.com/frboulais">Twitter!</a>
-	
-	<br> <br> While the database isn't superb and may have some missing data, I hope that, with the support of this community, <b>we can</b> collaboratively fill in the NULL values!
+<br>
+<br>
+While the database isn't superb and may have some missing data, I hope that, with the support of this community, <b>we can</b> collaboratively fill in the NULL values!
 </p>
 
-
+<br>
 <p align="center"><a href="https://apps.apple.com/us/app/indie-app-santa/id1594011307?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1637193600" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a> </p>
 
 > [!IMPORTANT]
@@ -145,7 +146,6 @@
 <img src="icon/124.png">
 <img src="icon/125.png">
 <img src="icon/126.png">
-<img src="icon/127.png">
 <img src="icon/128.png">
 <img src="icon/129.png">
 <img src="icon/130.png">
