@@ -253,38 +253,39 @@ GROUP  BY country
 ORDER  BY developer_count DESC; 
 ```
 
-| Country         | Developer Count | Percentage (%) |
-|-----------------|-----------------|----------------|
-| United States   | 19              | 20.43          |
-| United Kingdom  | 10              | 10.75          |
-| Germany         | 9               | 9.68           |
-| Netherlands     | 6               | 6.45           |
-| France          | 5               | 5.38           |
-| India           | 4               | 4.30           |
-| No Data         | 3               | 3.23           |
-| Australia       | 3               | 3.23           |
-| Switzerland     | 3               | 3.23           |
-| Italy           | 3               | 3.23           |
-| Japan           | 3               | 3.23           |
-| Czech Republic  | 2               | 2.15           |
-| Spain           | 2               | 2.15           |
-| Ireland         | 2               | 2.15           |
-| Norway          | 2               | 2.15           |
-| New Zealand     | 2               | 2.15           |
-| Ukraine         | 2               | 2.15           |
-| Austria         | 1               | 1.08           |
-| Belgium         | 1               | 1.08           |
-| Bulgaria        | 1               | 1.08           |
-| Brazil          | 1               | 1.08           |
-| Belarus         | 1               | 1.08           |
-| Canada          | 1               | 1.08           |
-| Greece          | 1               | 1.08           |
-| Latvia          | 1               | 1.08           |
-| Poland          | 1               | 1.08           |
-| Russia          | 1               | 1.08           |
-| Singapore       | 1               | 1.08           |
-| Slovenia        | 1               | 1.08           |
-| Turkey          | 1               | 1.08           |
+```yaml
+Country          Developer Count  Percentage (%)
+United States    19               20.43
+United Kingdom   10               10.75
+Germany          9                9.68
+Netherlands      6                6.45
+France           5                5.38
+India            4                4.30
+No Data          3                3.23
+Australia        3                3.23
+Switzerland      3                3.23
+Italy            3                3.23
+Japan            3                3.23
+Czech Republic   2                2.15
+Spain            2                2.15
+Ireland          2                2.15
+Norway           2                2.15
+New Zealand      2                2.15
+Ukraine          2                2.15
+Austria          1                1.08
+Belgium          1                1.08
+Bulgaria         1                1.08
+Brazil           1                1.08
+Belarus          1                1.08
+Canada           1                1.08
+Greece           1                1.08
+Latvia           1                1.08
+Poland           1                1.08
+Russia           1                1.08
+Singapore        1                1.08
+Slovenia         1                1.08
+Turkey           1                1.08
+```
 
 #### Top 10 Developers by Number of Apps submitted
 
@@ -303,18 +304,19 @@ ORDER  BY number_of_apps DESC
 LIMIT  10; 
 ```
 
-| Developer Name       | Number of Apps |
-|---------------------|----------------|
-| Greg Gardner        | 7              |
-| Kriss Smolka        | 5              |
-| Jordi Bruin         | 3              |
-| Khoa Pham           | 3              |
-| François Boulais    | 2              |
-| Ryan McLeod         | 2              |
-| Hidde van der Ploeg | 2              |
-| Stefan Liesendahl   | 2              |
-| Rony Fedal          | 2              |
-| Thomas Durandx      | 1              |
+```yaml
+Developer Name         Number of Apps
+Greg Gardner           7
+Kriss Smolka           5
+Jordi Bruin            3
+Khoa Pham              3
+François Boulais       2
+Ryan McLeod            2
+Hidde van der Ploeg    2
+Stefan Liesendahl      2
+Rony Fedal             2
+Thomas Durandx         1
+```
 
 #### Offers
 
@@ -341,13 +343,14 @@ GROUP  BY t.offer_description
 ORDER  BY t.offer_description; 
 ```
 
-| Offer Description      | 2021 | 2022 | 2023 |
-|------------------------|------|------|------|
-| PP DISCOUNT            | 0    | 13   | 0    |
-| DISCOUNT               | 4    | 1    | 0    |
-| FREE                   | 23   | 11   | 36   |
-| FREE SUBSCRIPTION      | 0    | 3    | 0    |
-| SUBSCRIPTION DISCOUNT  | 0    | 3    | 0    |
+```yaml
+Offer Description      2021  2022  2023
+PP DISCOUNT            0     13    0
+DISCOUNT               4     1     0
+FREE                   23    11    36
+FREE SUBSCRIPTION      0     3     0
+SUBSCRIPTION DISCOUNT  0     3     0
+```
 
 #### Total Money Saved (2021-2023)
 
@@ -361,9 +364,10 @@ GROUP  BY Year(offer_date)
 ORDER  BY year; 
 ```
 
-| Year      | Total Money Saved (\$) |
-| --------- | ---------------------- |
-| 2021      | 241.77                 |
-| 2022      | 494.72                 |
-| 2023      | 1267.65                |
-| **Total** | **2004.14**            |
+```yaml
+Year   Total Money Saved ($)
+2021   241.77
+2022   494.72
+2023   1267.65
+Total  2004.14
+```
