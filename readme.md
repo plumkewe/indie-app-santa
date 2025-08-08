@@ -6,7 +6,7 @@ This repository archives all December deals from Indie App Santa between 2021 an
 
 I spent countless hours updating this repository in the past, mostly because I was pretty stupid back then. It wasn’t perfect or particularly useful, but it had a certain charm. After a while, I created a horrific (in the negative sense of the word) `.sql` database. It was an abomination, and it's no wonder no one used it.
 
-Now, thanks to Apple’s [iTunes API](https://performance-partners.apple.com/search-api), I’ve created and enriched a [.csv](data.csv) file with up to data data.
+Now, thanks to Apple’s [iTunes API](https://performance-partners.apple.com/search-api), I’ve created and enriched a [.csv](data.csv) file with up to date data.
 
 There's also a [.json](full-data.json) with every sigle piece data that you can retrive via API.
 
